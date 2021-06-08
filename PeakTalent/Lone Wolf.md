@@ -2,7 +2,7 @@
 title: "獨狼. 巔峰天賦 - 獨狼"
 permalink: /PeakTalent/Lone Wolf/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 獨狼. 巔峰天賦 獨狼. 獨狼"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Lone Wolf.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 寒冰之劍 - 冥界手杖"
 permalink: /artifacts/Staff of the Netherworld/
 excerpt: "魔法门之英雄无敌：战争纪元  寒冰之劍 - 冥界手杖. 在迪雅封存的至高權杖，寒冰之劍的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Staff of the Netherworld.md"
 toc: false

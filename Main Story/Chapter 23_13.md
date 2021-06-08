@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-13 看守寶藏"
 permalink: /Main Story/Chapter 23_13/
 excerpt: "第廿三章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_13. 23-13 看守寶藏"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 23_13.md"
 toc: false

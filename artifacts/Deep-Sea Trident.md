@@ -2,7 +2,7 @@
 title: "寶物 - 寒冰之劍 - 深海三叉戟"
 permalink: /artifacts/Deep-Sea Trident/
 excerpt: "魔法门之英雄无敌：战争纪元  寒冰之劍 - 深海三叉戟. 波塞冬使用過的兵器，寒冰之劍的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Deep-Sea Trident.md"
 toc: false

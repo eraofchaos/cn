@@ -2,7 +2,7 @@
 title: "寶物 - 活體鷹眼 - 神目鳥"
 permalink: /artifacts/Bird of Perception/
 excerpt: "魔法门之英雄无敌：战争纪元  活體鷹眼 - 神目鳥. 一個女巫附著魔力的鷹眼雕像，活體鷹眼的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Bird of Perception.md"
 toc: false

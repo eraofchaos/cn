@@ -2,7 +2,7 @@
 title: "副官 索姆拉"
 permalink: /heroes/Adjutant Solmyr/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 索姆拉"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Adjutant Solmyr.md"
 QR: adhero_61201

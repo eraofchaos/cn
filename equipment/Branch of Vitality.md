@@ -2,7 +2,7 @@
 title: "生機枝幹"
 permalink: /equipment/Branch of Vitality/
 excerpt: "魔法门之英雄无敌：战争纪元 生機枝幹. 生機枝幹"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Branch of Vitality.md"
 toc: false

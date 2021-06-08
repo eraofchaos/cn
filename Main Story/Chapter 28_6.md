@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿八章 - 28-6 廢棄金礦"
 permalink: /Main Story/Chapter 28_6/
 excerpt: "第廿八章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿八章_6. 28-6 廢棄金礦"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 28_6.md"
 toc: false

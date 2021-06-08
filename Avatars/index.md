@@ -2,7 +2,7 @@
 title: "頭像框和頭像"
 permalink: /Avatars/
 excerpt: "魔法门之英雄无敌：战争纪元  頭像框和頭像. 頭像框和頭像"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "index.md"
 toc: false
@@ -84,7 +84,7 @@ classes: wide
   | 71 | ![深淵之王](/images/a/avatarFrame_36.png) | [深淵之王](/cn/Avatars/King of Abyss/) | + | 深淵之王頭像框 |
   | 72 | ![火焰主宰](/images/a/avatarFrame_39.png) | [火焰主宰](/cn/Avatars/Ruler of Flames/) | + | 火焰主宰頭像框 |
   | 73 | ![煉獄主宰](/images/a/avatarFrame_58.png) | [煉獄主宰](/cn/Avatars/Inferno Ruler/) | + | 煉獄主宰頭像框 |
-  | 74 |  | [煉獄羅刹](/cn/Avatars/Inferno Demon/) | - | 煉獄羅刹頭像框 |
+  | 74 |  | [煉獄羅刹](/cn/Avatars/Inferno Demon/) | + | 煉獄羅刹頭像框 |
   | 75 | ![狂暴之怒](/images/a/avatarFrame_73.png) | [狂暴之怒](/cn/Avatars/Berserker Rage/) | + | 狂暴之怒頭像框 |
   | 76 | ![狂歡節](/images/a/avatarFrame_95.png) | [狂歡節](/cn/Avatars/Carnival/) | + | 狂歡節頭像框 |
   | 77 | ![獅鷲之心](/images/a/avatarFrame_6.png) | [獅鷲之心](/cn/Avatars/Griffin Heart/) | + | 獅鷲之心頭像框 |

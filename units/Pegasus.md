@@ -3,7 +3,7 @@ title: "銀翼飛馬"
 permalink: /units/Pegasus/
 excerpt: "魔法门之英雄无敌：战争纪元 銀翼飛馬. 銀翼飛馬 兵團. 銀翼衛士. 魔法门之英雄无敌：战争纪元 銀翼飛馬是森林中的傳說生物，他們伴隨著最優秀的精靈維護著森林的安寧。"
 unitID: 204
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "銀翼飛馬"
 toc: true

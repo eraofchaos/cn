@@ -2,7 +2,7 @@
 title: "精鋼彎刀"
 permalink: /equipment/Steel Scimitar/
 excerpt: "魔法门之英雄无敌：战争纪元 精鋼彎刀. 精鋼彎刀"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Steel Scimitar.md"
 toc: false

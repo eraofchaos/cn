@@ -3,7 +3,7 @@ title: "吸血鬼"
 permalink: /units/Vampire/
 excerpt: "魔法门之英雄无敌：战争纪元 吸血鬼. 吸血鬼 兵團. 吸血伯爵. 魔法门之英雄无敌：战争纪元 吸血鬼遵循著古老的貴族禮儀，但當他們露出尖牙之時，你能感受到的唯有生命的流逝。"
 unitID: 304
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "吸血鬼"
 toc: true

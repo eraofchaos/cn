@@ -2,7 +2,7 @@
 title: "邪魅羽翼"
 permalink: /equipment/Demonic Wings/
 excerpt: "魔法门之英雄无敌：战争纪元 邪魅羽翼. 邪魅羽翼"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Demonic Wings.md"
 toc: false

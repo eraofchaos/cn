@@ -2,7 +2,7 @@
 title: "劇毒獠牙"
 permalink: /equipment/Toxic Fang/
 excerpt: "魔法门之英雄无敌：战争纪元 劇毒獠牙. 劇毒獠牙"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Toxic Fang.md"
 toc: false

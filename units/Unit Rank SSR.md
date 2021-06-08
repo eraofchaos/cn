@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Unit Rank SSR"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | 排名 |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  崇高意志  |
+  | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  崇高意志  |
   | 2 | ![比蒙](/images/u/ti_bimeng.jpg) | [比蒙](/cn/units/Behemoth/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  上古巨獸  |
   | 3 | ![訓鯊師](/images/u/ti_xunshashi.jpg) | [訓鯊師](/cn/units/Shark Trainer/) | 突擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  馭鯊狂徒  |
   | 4 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  死亡咆哮者  |

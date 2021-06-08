@@ -3,7 +3,7 @@ title: "鐵人"
 permalink: /units/Iron Golem/
 excerpt: "魔法门之英雄无敌：战争纪元 鐵人. 鐵人 兵團. 金人. 魔法门之英雄无敌：战争纪元 鐵人是被法師製造出來的傀儡，代表著精細的手工製作和複雜魔法的完美結合，對魔法具有超乎尋常的親和力。"
 unitID: 603
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "鐵人"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **陣營：** [魔法塔樓](/cn/units/Faction Tower/)
 
- **Race:** 人類
+ **Race:** 魔物
 
  **Members:** [x9](/cn/units/Unit Member x9/)
 

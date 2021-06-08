@@ -2,7 +2,7 @@
 title: "專屬 - 幽暗凝視 (Beholder)"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "魔法门之英雄无敌：战争纪元 幽暗凝視. 幽暗凝視. 魔法门之英雄无敌：战争纪元 專屬 幽暗凝視. 邪眼 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Beholder 幽暗凝視.md"
 toc: false

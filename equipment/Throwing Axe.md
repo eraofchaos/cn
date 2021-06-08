@@ -2,7 +2,7 @@
 title: "迴旋短斧"
 permalink: /equipment/Throwing Axe/
 excerpt: "魔法门之英雄无敌：战争纪元 迴旋短斧. 迴旋短斧"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Throwing Axe.md"
 toc: false

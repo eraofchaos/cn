@@ -2,7 +2,7 @@
 title: "堅硬皮革"
 permalink: /equipment/Adamantine Leather/
 excerpt: "魔法门之英雄无敌：战争纪元 堅硬皮革. 堅硬皮革"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Adamantine Leather.md"
 toc: false

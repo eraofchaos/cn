@@ -2,7 +2,7 @@
 title: "戰陣 "
 permalink: /Battle Formation/
 excerpt: "戰陣.每個陣營都有著獨特的潛力與能量，點亮專屬陣圖，激發最深處的力量。"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "index.md"
 toc: false

@@ -3,7 +3,7 @@ title: "多頭龍"
 permalink: /units/Hydra/
 excerpt: "魔法门之英雄无敌：战争纪元 多頭龍. 多頭龍 兵團. 混沌多頭龍. 魔法门之英雄无敌：战争纪元 盤踞在惡沼深處的多頭巨獸，擊敗它是所有英雄夢寐以求的榮耀。"
 unitID: 807
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "多頭龍"
 toc: true

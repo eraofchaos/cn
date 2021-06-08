@@ -2,7 +2,7 @@
 title: "尖銳背刺"
 permalink: /equipment/Sharp Back-spikes/
 excerpt: "魔法门之英雄无敌：战争纪元 尖銳背刺. 尖銳背刺"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Sharp Back-spikes.md"
 toc: false

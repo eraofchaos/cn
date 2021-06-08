@@ -2,7 +2,7 @@
 title: "主線劇情 - 第一章 艾弗蒙島"
 permalink: /Main Story/Chapter 1/
 excerpt: "第一章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第一章. 艾弗蒙島"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 1.md"
 toc: false

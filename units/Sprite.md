@@ -3,7 +3,7 @@ title: "魔法仙靈"
 permalink: /units/Sprite/
 excerpt: "魔法门之英雄无敌：战争纪元 魔法仙靈. 魔法仙靈 兵團. . 魔法门之英雄无敌：战争纪元 僅存於傳說和童話中的美麗仙靈，任何對她不利的角色都會遭到聽眾們的厭惡，從而結局悲慘淒涼。"
 unitID: 901
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "魔法仙靈"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **陣營：** [元素生物](/cn/units/Faction Conflux/)
 
- **Race:** 馴獸師
+ **Race:** 魔物
 
  **Members:** [x4](/cn/units/Unit Member x4/)
 
@@ -175,41 +175,43 @@ toc: true
 
 ## Awaking
 
+  ![](/images/u/tia_mofaxianling.jpg)
+
 ### Awaking 詳情
  **Is it possible right now?** NO
 
  **Awaking Name:** 
 
- **Awaking 玩法詳解:** null
+ **Awaking 玩法詳解:** 你站在窗前看花，花仙躲在花叢看你。鮮花裝飾了精靈的庭院，精靈裝飾了別人的夢
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">帝國槍兵上陣且城堡陣營至少上陣 </span><span style="color: #1ca216;font-size:18px">3 </span><span style="color: #3c2a1e;font-size:18px">個，在矮人寶屋中單次擊殺 </span><span style="color: #1ca216;font-size:18px">1000 </span><span style="color: #3c2a1e;font-size:18px">個矮人。（掃蕩不計入任務）</span>
+ 1. <span style="color: #876741;font-size:18px">魔法仙靈上陣且元素兵團至少上陣</span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px">個，通關一次大師級或以上龍之國。(掃蕩不計入任務）</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">在聯盟探索中，消滅 </span><span style="color: #1ca216;font-size:18px">5 </span><span style="color: #3c2a1e;font-size:18px">個野怪。</span>
+ 2. <span style="color: #876741;font-size:18px">在聯盟探索中，消滅</span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px">個野怪。</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">在地下城 14-2 和 14-4 中收集 </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> 個皇家禁衛英魂。</span>
+ 3. <span style="color: #876741;font-size:18px">在地下城14-2,14-4中收集</span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px">個精靈魔法使英魂。</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">上陣魔法仙靈且元素陣營上陣</span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px">個，在戰役中取得3次勝利。(掃蕩不計入任務）</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 矛陣橫掃
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【矛陣】</span><span style="color: #645252;font-size:18px">目標變為較大範圍內所有敵方兵團。</span>
+### 1st Skill (or 2nd): 
+ **玩法詳解:** 
 
-### 2nd Skill (or 1st): 矛陣突刺
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【矛陣】</span><span style="color: #645252;font-size:18px">造成傷害提高至 150%，「眩暈」效果持續時間延長至 4.5 秒。</span>
+### 2nd Skill (or 1st): 
+ **玩法詳解:** 
 
-### 3rd Skill (or 4th): 密集方陣
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【振奮】</span><span style="color: #645252;font-size:18px">進入戰鬥後獲得「士氣高漲」效果時，額外提高 30% 兵團免傷，持續 10 秒。</span>
+### 3rd Skill (or 4th): 
+ **玩法詳解:** 
 
-### 4th Skill (or 3rd): 空心方陣
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【振奮】</span><span style="color: #645252;font-size:18px">進入戰鬥後獲得「士氣高漲」效果時，額外提高 30% 法術免傷，持續 10 秒。</span>
+### 4th Skill (or 3rd): 
+ **玩法詳解:** 
 
-### 5th Skill (or 6th): 滲透戰術
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【屠龍】</span><span style="color: #645252;font-size:18px">對陣 1 人和 4 人兵團時，對目標單位附加「威懾」效果。「威懾」效果：降低目標 300 暴擊值。</span>
+### 5th Skill (or 6th): 
+ **玩法詳解:** 
 
-### 6th Skill (or 5th): 疲勞戰術
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【屠龍】</span><span style="color: #645252;font-size:18px">對陣 1 人和 4 人兵團時，額外降低目標單位 300 閃避值。</span>
+### 6th Skill (or 5th): 
+ **玩法詳解:** 
 
 ## Technical info
  **runart:** 1

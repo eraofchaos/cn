@@ -2,7 +2,7 @@
 title: "地下城 - 第廿一章 - 21-2 元素之火"
 permalink: /Underground/Chapter 21_2/
 excerpt: "第廿一章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第廿一章_2. 21-2 元素之火"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 21_2.md"
 toc: false

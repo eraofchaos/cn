@@ -2,7 +2,7 @@
 title: "勝者為王. 巔峰天賦 - 勝者為王"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 勝者為王. 巔峰天賦 勝者為王. 勝者為王"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Born to Be King.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "晶化魔翼"
 permalink: /equipment/Stone Wings/
 excerpt: "魔法门之英雄无敌：战争纪元 晶化魔翼. 晶化魔翼"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Stone Wings.md"
 toc: false

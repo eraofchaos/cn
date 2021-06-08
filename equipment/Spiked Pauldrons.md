@@ -2,7 +2,7 @@
 title: "尖刺肩甲"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "魔法门之英雄无敌：战争纪元 尖刺肩甲. 尖刺肩甲"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Spiked Pauldrons.md"
 toc: false

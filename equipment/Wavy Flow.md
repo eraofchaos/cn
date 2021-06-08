@@ -2,7 +2,7 @@
 title: "波動水流"
 permalink: /equipment/Wavy Flow/
 excerpt: "魔法门之英雄无敌：战争纪元 波動水流. 波動水流"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Wavy Flow.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Conflux"
 permalink: /Exclusive/Exclusive Conflux/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Conflux. 專屬 Conflux. List of 專屬 Conflux in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Exclusive Conflux"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 3  | [冰元素](/cn/units/Ice Elemental/) | [奧術詠唱](/cn/Exclusive/Ice Elemental Arcane Chant/) | - | 衝鋒 | [奧術詠唱碎片](/cn/Items/con_915/) | - |
   | 4  | [幽火元素](/cn/units/Fire Elemental/) | [炙凝](/cn/Exclusive/Fire Elemental Fire Energy/) | - | 遠距 | [炙凝碎片](/cn/Items/con_998/) | [炙凝特效塗裝](/cn/Items/con_666/) |
   | 5  | [石元素](/cn/units/Stone Elemental/) | [巖火核心](/cn/Exclusive/Stone Elemental Energy Core/) | - | 遠距 | [巖火核心碎片](/cn/Items/con_999/) | [巖火核心特效塗裝](/cn/Items/con_667/) |
-  | 6  | [精神元素](/cn/units/Psychic Elemental/) | [寂滅星環](/cn/Exclusive/Psychic Elemental Spirit Core/) | - | 輔助 | [寂滅星環碎片](/cn/Items/con_1000/) | [寂滅星環特效塗裝](/cn/Items/con_668/) |
+  | 6  | [精神元素](/cn/units/Psychic Elemental/) | [寂滅星環](/cn/Exclusive/Psychic Elemental Spirit Core/) | + | 輔助 | [寂滅星環碎片](/cn/Items/con_1000/) | [寂滅星環特效塗裝](/cn/Items/con_668/) |
   | 7  | [鳳凰](/cn/units/Firebird/) | [涅槃](/cn/Exclusive/Firebird Eternal Flame/) | + | 遠距 | [涅槃碎片](/cn/Items/con_1001/) | [涅槃特效塗裝](/cn/Items/con_669/) |
   | 8  | [冰魔](/cn/units/Ice Demon/) | - | - | - | none | none |
   | 9  | [叢林妖精](/cn/units/Leprechaun/) | [荊棘](/cn/Exclusive/Leprechaun Thorns/) | - | 輔助 | - | - |

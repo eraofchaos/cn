@@ -2,7 +2,7 @@
 title: "地下城 - 第十一章 - 11-2 關鍵人物"
 permalink: /Underground/Chapter 11_2/
 excerpt: "第十一章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第十一章_2. 11-2 關鍵人物"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 11_2.md"
 toc: false

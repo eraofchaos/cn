@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿七章 - 27-12 龍之父"
 permalink: /Main Story/Chapter 27_12/
 excerpt: "第廿七章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿七章_12. 27-12 龍之父"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 27_12.md"
 toc: false

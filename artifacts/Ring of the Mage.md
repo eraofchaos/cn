@@ -2,7 +2,7 @@
 title: "寶物 - 法師之戒"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "魔法门之英雄无敌：战争纪元  法師之戒. 法師之戒 數件魔法道具組合而成的魔法之戒，可以提高法術傷害"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Ring of the Mage.md"
 toc: false

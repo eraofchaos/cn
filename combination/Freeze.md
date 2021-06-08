@@ -2,7 +2,7 @@
 title: "組合說明 for 冰封"
 permalink: /combination/Freeze/
 excerpt: "組合說明 - 冰封. Units and Heroes Formation."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "冰封.md"
 toc: false

@@ -3,7 +3,7 @@ title: "傀儡龍"
 permalink: /units/Dragon Golem/
 excerpt: "魔法门之英雄无敌：战争纪元 傀儡龍. 傀儡龍 兵團. null. 魔法门之英雄无敌：战争纪元 矮人科技的終極造物，每個部件都是機械與魔法的完美結合，充滿無窮的力量。"
 unitID: 609
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "傀儡龍"
 toc: true
@@ -22,7 +22,7 @@ toc: true
 
  **陣營：** [魔法塔樓](/cn/units/Faction Tower/)
 
- **Race:** 龍
+ **Race:** 魔物
 
  **Members:** [x1](/cn/units/Unit Member x1/)
 

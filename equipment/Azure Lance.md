@@ -2,7 +2,7 @@
 title: "天青長槍"
 permalink: /equipment/Azure Lance/
 excerpt: "魔法门之英雄无敌：战争纪元 天青長槍. 天青長槍"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Azure Lance.md"
 toc: false

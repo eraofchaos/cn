@@ -3,7 +3,7 @@ title: "審判官"
 permalink: /units/Judicator/
 excerpt: "魔法门之英雄无敌：战争纪元 審判官. 審判官 兵團. null. 魔法门之英雄无敌：战争纪元 艾拉西亞的審判官們獻身於對聖光的崇拜，這些因天賦而被選中的女性專注於給危難中的人們帶來光明與溫暖。"
 unitID: 109
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "審判官"
 toc: true

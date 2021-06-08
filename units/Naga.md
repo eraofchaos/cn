@@ -3,7 +3,7 @@ title: "娜迦蛇妖"
 permalink: /units/Naga/
 excerpt: "魔法门之英雄无敌：战争纪元 娜迦蛇妖. 娜迦蛇妖 兵團. 娜迦女王. 魔法门之英雄无敌：战争纪元 這種多臂蛇身的美豔怪物對戰鬥有著天然的熱誠，越是虛弱的敵人越能激發她們對殺戮的渴望。"
 unitID: 606
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "娜迦蛇妖"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **陣營：** [魔法塔樓](/cn/units/Faction Tower/)
 
- **Race:** 人類
+ **Race:** 魔法師
 
  **Members:** [x1](/cn/units/Unit Member x1/)
 

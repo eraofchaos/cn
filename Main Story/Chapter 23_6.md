@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-6 礦洞巢穴"
 permalink: /Main Story/Chapter 23_6/
 excerpt: "第廿三章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_6. 23-6 礦洞巢穴"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 23_6.md"
 toc: false

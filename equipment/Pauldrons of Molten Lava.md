@@ -2,7 +2,7 @@
 title: "熔岩護肩"
 permalink: /equipment/Pauldrons of Molten Lava/
 excerpt: "魔法门之英雄无敌：战争纪元 熔岩護肩. 熔岩護肩"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Pauldrons of Molten Lava.md"
 toc: false

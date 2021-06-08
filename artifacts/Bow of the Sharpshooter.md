@@ -2,7 +2,7 @@
 title: "寶物 - 幻影神弓"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "魔法门之英雄无敌：战争纪元  幻影神弓. 幻影神弓 精靈們結合數件寶物組成的神器，能夠提升遠距攻擊"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Bow of the Sharpshooter.md"
 toc: false

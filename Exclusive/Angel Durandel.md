@@ -2,7 +2,7 @@
 title: "專屬 - 聖劍杜蘭德爾 (Angel)"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "魔法门之英雄无敌：战争纪元 聖劍杜蘭德爾. 聖劍杜蘭德爾. 魔法门之英雄无敌：战争纪元 專屬 聖劍杜蘭德爾. 大天使 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Angel 聖劍杜蘭德爾.md"
 toc: false

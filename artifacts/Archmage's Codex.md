@@ -2,7 +2,7 @@
 title: "寶物 - 大法師寶典"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "魔法门之英雄无敌：战争纪元  大法師寶典. 大法師寶典 記載著魔法奧秘，強化法術與遠程兵團"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Archmage's Codex.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "聖徽 - 時之輪"
 permalink: /Emblem/Gear of Time/
 excerpt: "魔法门之英雄无敌：战争纪元 時之輪. 時之輪. 魔法门之英雄无敌：战争纪元 聖徽 時之輪. 魔法门之英雄无敌：战争纪元 善良 時之輪"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Gear of Time.md"
 toc: false

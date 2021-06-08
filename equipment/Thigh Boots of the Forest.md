@@ -2,7 +2,7 @@
 title: "森林長靴"
 permalink: /equipment/Thigh Boots of the Forest/
 excerpt: "魔法门之英雄无敌：战争纪元 森林長靴. 森林長靴"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Thigh Boots of the Forest.md"
 toc: false

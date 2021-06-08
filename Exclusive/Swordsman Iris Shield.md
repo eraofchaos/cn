@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀守護 (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀守護. 榮耀守護. 魔法门之英雄无敌：战争纪元 專屬 榮耀守護. 皇家十字軍 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Swordsman 榮耀守護.md"
 toc: false

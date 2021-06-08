@@ -2,7 +2,7 @@
 title: "長者之杖"
 permalink: /equipment/Elder Staff/
 excerpt: "魔法门之英雄无敌：战争纪元 長者之杖. 長者之杖"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Elder Staff.md"
 toc: false

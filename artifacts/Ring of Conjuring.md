@@ -2,7 +2,7 @@
 title: "寶物 - 法師之戒 - 魔戒"
 permalink: /artifacts/Ring of Conjuring/
 excerpt: "魔法门之英雄无敌：战争纪元  法師之戒 - 魔戒. 蘊含著強大魔力的神祕戒指，法師之戒的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Ring of Conjuring.md"
 toc: false

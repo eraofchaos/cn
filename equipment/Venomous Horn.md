@@ -2,7 +2,7 @@
 title: "劇毒尖角"
 permalink: /equipment/Venomous Horn/
 excerpt: "魔法门之英雄无敌：战争纪元 劇毒尖角. 劇毒尖角"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Venomous Horn.md"
 toc: false

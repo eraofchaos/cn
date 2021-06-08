@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Heroes"
 permalink: /heroes/Faction Inferno/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Inferno. Faction Inferno. List of Faction  in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Faction Inferno"
 toc: false

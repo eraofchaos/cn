@@ -2,7 +2,7 @@
 title: "十字輕弩"
 permalink: /equipment/Light Crossbow/
 excerpt: "魔法门之英雄无敌：战争纪元 十字輕弩. 十字輕弩"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Light Crossbow.md"
 toc: false

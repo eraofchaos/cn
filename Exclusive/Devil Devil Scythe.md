@@ -2,7 +2,7 @@
 title: "專屬 - 克里根怒鋒 (Devil)"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "魔法门之英雄无敌：战争纪元 克里根怒鋒. 克里根怒鋒. 魔法门之英雄无敌：战争纪元 專屬 克里根怒鋒. 大惡魔 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Devil 克里根怒鋒.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十六章 - 16-1 古代靈魂"
 permalink: /Main Story/Chapter 16_1/
 excerpt: "第十六章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十六章_1. 16-1 古代靈魂"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 16_1.md"
 toc: false

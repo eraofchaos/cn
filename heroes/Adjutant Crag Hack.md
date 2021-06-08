@@ -2,7 +2,7 @@
 title: "副官 肯洛．哈格"
 permalink: /heroes/Adjutant Crag Hack/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 肯洛．哈格"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Adjutant Crag Hack.md"
 QR: adhero_60602

@@ -2,7 +2,7 @@
 title: "地下城 - 第八章 - 8-4 轉化亡靈"
 permalink: /Underground/Chapter 8_4/
 excerpt: "第八章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第八章_4. 8-4 轉化亡靈"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 8_4.md"
 toc: false

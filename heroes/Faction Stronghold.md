@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Stronghold -  Heroes"
 permalink: /heroes/Faction Stronghold/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Stronghold. Faction Stronghold. List of Faction  in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Faction Stronghold"
 toc: false

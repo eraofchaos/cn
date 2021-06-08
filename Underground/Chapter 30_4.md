@@ -2,7 +2,7 @@
 title: "地下城 - 第三十章 - 30-4  無人通過"
 permalink: /Underground/Chapter 30_4/
 excerpt: "第三十章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第三十章_4. 30-4  無人通過"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 30_4.md"
 toc: false

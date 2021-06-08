@@ -2,7 +2,7 @@
 title: "頭像 - 馴獸師陣營"
 permalink: /Avatars/Fortress/
 excerpt: "魔法门之英雄无敌：战争纪元  馴獸師陣營"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Fortress.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "專屬 -  (Regnan Seer)"
 permalink: /Exclusive/Regnan Seer /
 excerpt: "魔法门之英雄无敌：战争纪元 . . 魔法门之英雄无敌：战争纪元 專屬 . 海后 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Regnan Seer .md"
 toc: false

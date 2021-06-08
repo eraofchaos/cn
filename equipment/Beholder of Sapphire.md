@@ -2,7 +2,7 @@
 title: "魅藍邪眼"
 permalink: /equipment/Beholder of Sapphire/
 excerpt: "魔法门之英雄无敌：战争纪元 魅藍邪眼. 魅藍邪眼"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Beholder of Sapphire.md"
 toc: false

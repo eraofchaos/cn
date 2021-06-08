@@ -2,7 +2,7 @@
 title: "魔物頸傘"
 permalink: /equipment/Fiend's Neck Umbrella/
 excerpt: "魔法门之英雄无敌：战争纪元 魔物頸傘. 魔物頸傘"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Fiend's Neck Umbrella.md"
 toc: false

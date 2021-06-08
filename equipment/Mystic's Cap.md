@@ -2,7 +2,7 @@
 title: "清修法帽"
 permalink: /equipment/Mystic's Cap/
 excerpt: "魔法门之英雄无敌：战争纪元 清修法帽. 清修法帽"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Mystic's Cap.md"
 toc: false

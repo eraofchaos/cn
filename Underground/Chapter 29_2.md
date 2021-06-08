@@ -2,7 +2,7 @@
 title: "地下城 - 第廿九章 - 29-2  鬥牛勇士"
 permalink: /Underground/Chapter 29_2/
 excerpt: "第廿九章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第廿九章_2. 29-2  鬥牛勇士"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 29_2.md"
 toc: false

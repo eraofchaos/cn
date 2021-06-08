@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 水晶龍"
 permalink: /Main Story/Chapter 22/
 excerpt: "第廿二章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章. 水晶龍"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 22.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Mullich/
 excerpt: "魔法门之英雄无敌：战争纪元 姆拉克. 姆拉克. 姆拉克爵士統率的軍隊以行動迅速而聞名，姆拉克是一個具有高度自制能力的人，他以特殊的訓練方式使他的兵團的速度比別人更加快。"
 heroID: 60101
 QR: hero_60101
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Mullich"
 toc: true

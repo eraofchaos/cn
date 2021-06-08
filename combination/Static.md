@@ -2,7 +2,7 @@
 title: "組合說明 for 靜電"
 permalink: /combination/Static/
 excerpt: "組合說明 - 靜電. Units and Heroes Formation."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "靜電.md"
 toc: false

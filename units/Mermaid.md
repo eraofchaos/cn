@@ -3,7 +3,7 @@ title: "美人魚"
 permalink: /units/Mermaid/
 excerpt: "魔法门之英雄无敌：战争纪元 美人魚. 美人魚 兵團. null. 魔法门之英雄无敌：战争纪元 海的女兒，受到大海的保護，利用大海的力量治癒隊友。"
 unitID: 9905
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "美人魚"
 toc: true

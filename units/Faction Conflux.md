@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Faction Conflux"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | 排名 |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  崇高意志  |
+  | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  崇高意志  |
   | 2 | ![鳳凰](/images/u/ti_fenghuang.jpg) | [鳳凰](/cn/units/Firebird/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  烈焰主宰  |
   | 3 | ![冰魔](/images/u/ti_bingmo.jpg) | [冰魔](/cn/units/Ice Demon/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 4 | ![叢林妖精](/images/u/ti_conglinyaojing.jpg) | [叢林妖精](/cn/units/Leprechaun/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  神樹守靈  |

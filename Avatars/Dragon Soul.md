@@ -2,7 +2,7 @@
 title: "頭像 - 巨龍之魂"
 permalink: /Avatars/Dragon Soul/
 excerpt: "魔法门之英雄无敌：战争纪元  巨龍之魂"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Dragon Soul.md"
 toc: false

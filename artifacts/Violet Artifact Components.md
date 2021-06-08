@@ -2,7 +2,7 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "魔法门之英雄无敌：战争纪元  List of all Violet Artifact Components . 收集寶物，提高英雄屬性，並獲得強力法術。"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Violet Artifact Components.md"
 toc: false

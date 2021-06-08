@@ -2,7 +2,7 @@
 title: "黑曜戰斧"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "魔法门之英雄无敌：战争纪元 黑曜戰斧. 黑曜戰斧"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Obsidian Battle Axe.md"
 toc: false

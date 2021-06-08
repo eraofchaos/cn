@@ -2,7 +2,7 @@
 title: "寶物 - 詛咒鎧甲 - 黑魔劍"
 permalink: /artifacts/Sword of Hellfire/
 excerpt: "魔法门之英雄无敌：战争纪元  詛咒鎧甲 - 黑魔劍. 寄宿著黑暗力量的長劍，詛咒鎧甲的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Sword of Hellfire.md"
 toc: false

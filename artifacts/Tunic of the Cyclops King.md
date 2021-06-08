@@ -2,7 +2,7 @@
 title: "寶物 - 野蠻之斧 - 巨人戰甲"
 permalink: /artifacts/Tunic of the Cyclops King/
 excerpt: "魔法门之英雄无敌：战争纪元  野蠻之斧 - 巨人戰甲. 游泳的獨眼巨人遺失的外衣，野蠻之斧的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Tunic of the Cyclops King.md"
 toc: false

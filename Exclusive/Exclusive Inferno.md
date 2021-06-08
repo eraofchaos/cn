@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Inferno"
 permalink: /Exclusive/Exclusive Inferno/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Inferno. 專屬 Inferno. List of 專屬 Inferno in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Exclusive Inferno"
 toc: false

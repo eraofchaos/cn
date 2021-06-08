@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Elementalist -  Heroes"
 permalink: /heroes/Profession Elementalist/
 excerpt: "魔法门之英雄无敌：战争纪元 Profession Elementalist. Profession Elementalist. List of Profession  in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Profession Elementalist"
 toc: false

@@ -3,7 +3,7 @@ title: "皇家十字軍"
 permalink: /units/Swordsman/
 excerpt: "魔法门之英雄无敌：战争纪元 皇家十字軍. 皇家十字軍 兵團. 大十字軍. 魔法门之英雄无敌：战争纪元 唯有王國認可的士兵才能加入皇家衛隊，他們的戰鬥技巧舉世聞名，這是王國的榮耀之師。"
 unitID: 104
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "皇家十字軍"
 toc: true

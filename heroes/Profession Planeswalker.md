@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Planeswalker -  Heroes"
 permalink: /heroes/Profession Planeswalker/
 excerpt: "魔法门之英雄无敌：战争纪元 Profession Planeswalker. Profession Planeswalker. List of Profession  in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Profession Planeswalker"
 toc: false

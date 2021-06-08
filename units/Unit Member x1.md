@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Unit Member x1"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | 排名 |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  崇高意志  |
+  | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  崇高意志  |
   | 2 | ![白虎](/images/u/ti_baihu.jpg) | [白虎](/cn/units/White Tiger/) | 突擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 3 | ![海后](/images/u/ti_haihou.jpg) | [海后](/cn/units/Regnan Seer/) | 魔法 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  潮汐元素  |
   | 4 | ![暗黑領主](/images/u/ti_sishen.jpg) | [暗黑領主](/cn/units/Dark Champion/) | 攻擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |

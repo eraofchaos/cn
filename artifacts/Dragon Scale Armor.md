@@ -2,7 +2,7 @@
 title: "寶物 - 龍王神力 - 龍甲"
 permalink: /artifacts/Dragon Scale Armor/
 excerpt: "魔法门之英雄无敌：战争纪元  龍王神力 - 龍甲. 受神龍祝福的胸甲，龍王神力的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Dragon Scale Armor.md"
 toc: false

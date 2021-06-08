@@ -2,7 +2,7 @@
 title: "地下城 - 第廿三章 獨立之日"
 permalink: /Underground/Chapter 23/
 excerpt: "第廿三章 獨立之日. 魔法门之英雄无敌：战争纪元  地下城 - 第廿三章. 獨立之日"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 23.md"
 toc: false

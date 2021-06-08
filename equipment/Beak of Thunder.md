@@ -2,7 +2,7 @@
 title: "雷鳴尖喙"
 permalink: /equipment/Beak of Thunder/
 excerpt: "魔法门之英雄无敌：战争纪元 雷鳴尖喙. 雷鳴尖喙"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Beak of Thunder.md"
 toc: false

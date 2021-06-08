@@ -2,7 +2,7 @@
 title: "寶物 - 魔力源泉"
 permalink: /artifacts/Wizard's Well/
 excerpt: "魔法门之英雄无敌：战争纪元  魔力源泉. 魔力源泉 為了對抗惡魔打造的強力魔法道具，能夠提升回魔速度"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Wizard's Well.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十章 - 10-7 冷靜掛件"
 permalink: /Main Story/Chapter 10_7/
 excerpt: "第十章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十章_7. 10-7 冷靜掛件"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 10_7.md"
 toc: false

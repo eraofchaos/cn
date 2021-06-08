@@ -2,7 +2,7 @@
 title: "專屬 - 纏布 (Mummy)"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "魔法门之英雄无敌：战争纪元 纏布. 纏布. 魔法门之英雄无敌：战争纪元 專屬 纏布. 木乃伊 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Mummy 纏布.md"
 toc: false

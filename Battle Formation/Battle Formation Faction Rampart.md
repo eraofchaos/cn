@@ -2,7 +2,7 @@
 title: "戰陣 森林壁壘"
 permalink: /Battle Formation/Battle Formation Faction Rampart
 excerpt: "戰陣 森林壁壘"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "BattleFormationFactionRampart"
 toc: false

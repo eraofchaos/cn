@@ -2,7 +2,7 @@
 title: "獸皮護腕"
 permalink: /equipment/Leather Band/
 excerpt: "魔法门之英雄无敌：战争纪元 獸皮護腕. 獸皮護腕"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Leather Band.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "魔法门之英雄无敌：战争纪元 Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Star 3"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | 排名 |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  崇高意志  |
+  | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  崇高意志  |
   | 2 | ![木乃伊](/images/u/ti_munaiyi.jpg) | [木乃伊](/cn/units/Mummy/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  不朽法老  |
   | 3 | ![白虎](/images/u/ti_baihu.jpg) | [白虎](/cn/units/White Tiger/) | 突擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 4 | ![海后](/images/u/ti_haihou.jpg) | [海后](/cn/units/Regnan Seer/) | 魔法 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  潮汐元素  |

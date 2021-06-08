@@ -2,7 +2,7 @@
 title: "光明戰甲"
 permalink: /equipment/Light Battle Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 光明戰甲. 光明戰甲"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Light Battle Armor.md"
 toc: false

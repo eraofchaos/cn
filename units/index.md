@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "index.md"
 toc: false
@@ -78,7 +78,7 @@ classes: wide
   | 56 | ![石元素](/images/u/ti_shiyuansu.jpg) | [石元素](/cn/units/Stone Elemental/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
   | 57 | ![神燈](/images/u/ti_shenguai.jpg) | [神燈](/cn/units/Genie/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  如願燈神  |
   | 58 | ![穴居人](/images/u/ti_dongxueren.jpg) | [穴居人](/cn/units/Troglodyte/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  幽暗穴居人  |
-  | 59 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  崇高意志  |
+  | 59 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  崇高意志  |
   | 60 | ![紅龍](/images/u/ti_chilong.jpg) | [紅龍](/cn/units/Red Dragon/) | 攻擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 61 | ![索爾巨人](/images/u/ti_suoerjuren.jpg) | [索爾巨人](/cn/units/Troll/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 62 | ![綠龍](/images/u/ti_lvlong.jpg) | [綠龍](/cn/units/Green Dragon/) | 魔法 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  金龍  |

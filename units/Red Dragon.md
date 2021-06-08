@@ -3,7 +3,7 @@ title: "紅龍"
 permalink: /units/Red Dragon/
 excerpt: "魔法门之英雄无敌：战争纪元 紅龍. 紅龍 兵團. null. 魔法门之英雄无敌：战争纪元 龍族的絕對霸主，它的咆哮不僅可以喚起其他同族的共鳴更是對龍族尊嚴的宣告。"
 unitID: 708
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "紅龍"
 toc: true

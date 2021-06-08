@@ -2,7 +2,7 @@
 title: "勇士護腕"
 permalink: /equipment/Warrior's Bracers/
 excerpt: "魔法门之英雄无敌：战争纪元 勇士護腕. 勇士護腕"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Warrior's Bracers.md"
 toc: false

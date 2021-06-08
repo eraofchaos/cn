@@ -2,7 +2,7 @@
 title: "硬化塗裝. 巔峰天賦 - 硬化塗裝"
 permalink: /PeakTalent/Hardened Skin/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 硬化塗裝. 巔峰天賦 硬化塗裝. 硬化塗裝"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Hardened Skin.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 詛咒鎧甲 - 亡靈盾"
 permalink: /artifacts/Shield of the Yawning Dead/
 excerpt: "魔法门之英雄无敌：战争纪元  詛咒鎧甲 - 亡靈盾. 亡靈骨骸拼湊的盾牌，詛咒鎧甲的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Shield of the Yawning Dead.md"
 toc: false

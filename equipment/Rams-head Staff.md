@@ -2,7 +2,7 @@
 title: "羊頭法杖"
 permalink: /equipment/Rams-head Staff/
 excerpt: "魔法门之英雄无敌：战争纪元 羊頭法杖. 羊頭法杖"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Rams-head Staff.md"
 toc: false

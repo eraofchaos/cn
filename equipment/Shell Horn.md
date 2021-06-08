@@ -2,7 +2,7 @@
 title: "貝殼號角"
 permalink: /equipment/Shell Horn/
 excerpt: "魔法门之英雄无敌：战争纪元 貝殼號角. 貝殼號角"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Shell Horn.md"
 toc: false

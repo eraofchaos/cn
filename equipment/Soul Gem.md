@@ -2,7 +2,7 @@
 title: "魔龍之心"
 permalink: /equipment/Soul Gem/
 excerpt: "魔法门之英雄无敌：战争纪元 魔龍之心. 魔龍之心"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Soul Gem.md"
 toc: false

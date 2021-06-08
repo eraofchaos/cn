@@ -2,7 +2,7 @@
 title: "斯巴達戰盔"
 permalink: /equipment/Spartan Helmet/
 excerpt: "魔法门之英雄无敌：战争纪元 斯巴達戰盔. 斯巴達戰盔"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Spartan Helmet.md"
 toc: false

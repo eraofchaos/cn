@@ -2,7 +2,7 @@
 title: "寶物 - 報復之鏡 - 平衡項鍊"
 permalink: /artifacts/Necklace of Balance/
 excerpt: "魔法门之英雄无敌：战争纪元  報復之鏡 - 平衡項鍊. 在魔法力量融合的過程中，用於控制並調和魔力的道具，報復之鏡的組件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Necklace of Balance.md"
 toc: false

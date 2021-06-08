@@ -2,7 +2,7 @@
 title: "硬鋼胸甲"
 permalink: /equipment/Hardened Iron Chest Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 硬鋼胸甲. 硬鋼胸甲"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Hardened Iron Chest Armor.md"
 toc: false

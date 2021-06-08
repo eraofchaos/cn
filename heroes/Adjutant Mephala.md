@@ -2,7 +2,7 @@
 title: "副官 孟斐拉"
 permalink: /heroes/Adjutant Mephala/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 孟斐拉"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Adjutant Mephala.md"
 QR: adhero_60302

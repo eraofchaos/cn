@@ -2,7 +2,7 @@
 title: "爐火護手"
 permalink: /equipment/Gauntlets of Hearth Fire/
 excerpt: "魔法门之英雄无敌：战争纪元 爐火護手. 爐火護手"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Gauntlets of Hearth Fire.md"
 toc: false

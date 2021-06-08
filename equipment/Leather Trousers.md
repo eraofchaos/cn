@@ -2,7 +2,7 @@
 title: "獸皮短褲"
 permalink: /equipment/Leather Trousers/
 excerpt: "魔法门之英雄无敌：战争纪元 獸皮短褲. 獸皮短褲"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Leather Trousers.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "極寒之觸"
 permalink: /equipment/Frost Touch/
 excerpt: "魔法门之英雄无敌：战争纪元 極寒之觸. 極寒之觸"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Frost Touch.md"
 toc: false

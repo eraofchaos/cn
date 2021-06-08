@@ -2,7 +2,7 @@
 title: "寶物 - 金蘋果 - 伊甸聖劍"
 permalink: /artifacts/Sword of Eden/
 excerpt: "魔法门之英雄无敌：战争纪元  金蘋果 - 伊甸聖劍. 先行者文明的佩劍，能夠引導閃電劈向敵人"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Sword of Eden.md"
 toc: false

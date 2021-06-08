@@ -2,7 +2,7 @@
 title: "專屬 - 海德拉 (Hydra)"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "魔法门之英雄无敌：战争纪元 海德拉. 海德拉. 魔法门之英雄无敌：战争纪元 專屬 海德拉. 多頭龍 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Hydra 海德拉.md"
 toc: false

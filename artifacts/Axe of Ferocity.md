@@ -2,7 +2,7 @@
 title: "寶物 - 野蠻之斧"
 permalink: /artifacts/Axe of Ferocity/
 excerpt: "魔法门之英雄无敌：战争纪元  野蠻之斧. 野蠻之斧 有不同種族神器組合而成的武器，可大幅增加近戰能力"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Axe of Ferocity.md"
 toc: false

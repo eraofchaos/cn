@@ -2,7 +2,7 @@
 title: "芬芳花環"
 permalink: /equipment/Fragrant Wreath/
 excerpt: "魔法门之英雄无敌：战争纪元 芬芳花環. 芬芳花環"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Fragrant Wreath.md"
 toc: false

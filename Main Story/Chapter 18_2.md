@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十八章 - 18-2 奇怪巫術"
 permalink: /Main Story/Chapter 18_2/
 excerpt: "第十八章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十八章_2. 18-2 奇怪巫術"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 18_2.md"
 toc: false

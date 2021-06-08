@@ -2,7 +2,7 @@
 title: "魅惑尖角"
 permalink: /equipment/Charmed Horn/
 excerpt: "魔法门之英雄无敌：战争纪元 魅惑尖角. 魅惑尖角"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Charmed Horn.md"
 toc: false

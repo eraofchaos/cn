@@ -2,7 +2,7 @@
 title: "寶物 - 末日之刃 - 智慧法杖"
 permalink: /artifacts/Staff of Wisdom/
 excerpt: "魔法门之英雄无敌：战争纪元  末日之刃 - 智慧法杖. 在寒冰神盾旁守護的法器，末日之刃的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Staff of Wisdom.md"
 toc: false

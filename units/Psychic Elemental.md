@@ -3,7 +3,7 @@ title: "精神元素"
 permalink: /units/Psychic Elemental/
 excerpt: "魔法门之英雄无敌：战争纪元 精神元素. 精神元素 兵團. 崇高意志. 魔法门之英雄无敌：战争纪元 意識和思想所對映在物質世界的能量體，可對敵人發動心靈層面的攻擊，意志不堅者會引發心智上的無序和癲狂。"
 unitID: 906
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "精神元素"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **陣營：** [元素生物](/cn/units/Faction Conflux/)
 
- **Race:** 馴獸師
+ **Race:** 魔物
 
  **Members:** [x1](/cn/units/Unit Member x1/)
 
@@ -78,7 +78,7 @@ toc: true
 
  **名字:** [寂滅星環](/cn/Exclusive/Psychic Elemental Spirit Core/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to 升星:** [寂滅星環碎片](/cn/Items/con_1000/)
 

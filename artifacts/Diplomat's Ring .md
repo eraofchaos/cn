@@ -2,7 +2,7 @@
 title: "寶物 - 執政者之筆 - 禮儀之戒"
 permalink: /artifacts/Diplomat's Ring /
 excerpt: "魔法门之英雄无敌：战争纪元  執政者之筆 - 禮儀之戒. 閃亮的戒指向人們展示著佩戴者尊貴的身份，是執政者之筆的組件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Diplomat's Ring .md"
 toc: false

@@ -2,7 +2,7 @@
 title: "地下城 - 第廿二章 - 22-5 生命本質"
 permalink: /Underground/Chapter 22_5/
 excerpt: "第廿二章 - 5. 魔法门之英雄无敌：战争纪元  地下城 - 第廿二章_5. 22-5 生命本質"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 22_5.md"
 toc: false

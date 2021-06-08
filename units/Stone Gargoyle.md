@@ -3,7 +3,7 @@ title: "石像鬼"
 permalink: /units/Stone Gargoyle/
 excerpt: "魔法门之英雄无敌：战争纪元 石像鬼. 石像鬼 兵團. . 魔法门之英雄无敌：战争纪元 這些被施予魔法的惡魔雕像通常會被用來保衛法師們的私人領地，據說它們有戲弄不會飛行敵人的癖好。"
 unitID: 602
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "石像鬼"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **陣營：** [魔法塔樓](/cn/units/Faction Tower/)
 
- **Race:** 人類
+ **Race:** 魔物
 
  **Members:** [x9](/cn/units/Unit Member x9/)
 

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-12 平原激戰"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "第十三章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_12. 13-12 平原激戰"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 13_12.md"
 toc: false

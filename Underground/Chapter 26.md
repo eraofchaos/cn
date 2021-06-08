@@ -2,7 +2,7 @@
 title: "地下城 - 第廿六章 命運之聲"
 permalink: /Underground/Chapter 26/
 excerpt: "第廿六章 命運之聲. 魔法门之英雄无敌：战争纪元  地下城 - 第廿六章. 命運之聲"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 26.md"
 toc: false

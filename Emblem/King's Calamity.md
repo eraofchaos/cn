@@ -2,7 +2,7 @@
 title: "聖徽 - 國王災禍"
 permalink: /Emblem/King's Calamity/
 excerpt: "魔法门之英雄无敌：战争纪元 國王災禍. 國王災禍. 魔法门之英雄无敌：战争纪元 聖徽 國王災禍. 魔法门之英雄无敌：战争纪元 邪惡 國王災禍"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "King's Calamity.md"
 toc: false

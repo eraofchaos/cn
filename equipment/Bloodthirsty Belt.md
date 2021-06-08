@@ -2,7 +2,7 @@
 title: "嗜血腰帶"
 permalink: /equipment/Bloodthirsty Belt/
 excerpt: "魔法门之英雄无敌：战争纪元 嗜血腰帶. 嗜血腰帶"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Bloodthirsty Belt.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "霸王之花"
 permalink: /equipment/Flower Overlord/
 excerpt: "魔法门之英雄无敌：战争纪元 霸王之花. 霸王之花"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Flower Overlord.md"
 toc: false

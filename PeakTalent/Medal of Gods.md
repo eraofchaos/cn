@@ -2,7 +2,7 @@
 title: "諸神勳章. 巔峰天賦 - 諸神勳章"
 permalink: /PeakTalent/Medal of Gods/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 諸神勳章. 巔峰天賦 諸神勳章. 諸神勳章"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Medal of Gods.md"
 toc: false

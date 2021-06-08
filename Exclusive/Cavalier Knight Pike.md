@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀衝鋒 (Cavalier)"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀衝鋒. 榮耀衝鋒. 魔法门之英雄无敌：战争纪元 專屬 榮耀衝鋒. 皇家騎士 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Cavalier 榮耀衝鋒.md"
 toc: false

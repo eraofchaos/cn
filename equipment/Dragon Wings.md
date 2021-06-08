@@ -2,7 +2,7 @@
 title: "飛龍之翼"
 permalink: /equipment/Dragon Wings/
 excerpt: "魔法门之英雄无敌：战争纪元 飛龍之翼. 飛龍之翼"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Dragon Wings.md"
 toc: false

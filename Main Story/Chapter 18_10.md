@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十八章 - 18-10 逝去曾經"
 permalink: /Main Story/Chapter 18_10/
 excerpt: "第十八章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十八章_10. 18-10 逝去曾經"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 18_10.md"
 toc: false

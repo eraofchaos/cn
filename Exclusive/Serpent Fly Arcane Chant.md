@@ -2,7 +2,7 @@
 title: "專屬 - 奧術詠唱 (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "魔法门之英雄无敌：战争纪元 奧術詠唱. 奧術詠唱. 魔法门之英雄无敌：战争纪元 專屬 奧術詠唱. 龍蠅 專屬."
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Serpent Fly 奧術詠唱.md"
 toc: false

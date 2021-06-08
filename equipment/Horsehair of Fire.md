@@ -2,7 +2,7 @@
 title: "烈火之鬃"
 permalink: /equipment/Horsehair of Fire/
 excerpt: "魔法门之英雄无敌：战争纪元 烈火之鬃. 烈火之鬃"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Horsehair of Fire.md"
 toc: false

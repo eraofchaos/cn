@@ -3,7 +3,7 @@ title: "冰魔"
 permalink: /units/Ice Demon/
 excerpt: "魔法门之英雄无敌：战争纪元 冰魔. 冰魔 兵團. null. 魔法门之英雄无敌：战争纪元 在水元素位元面中，冰魔是一種特殊的存在。她就像永恆的寒冰，遮蔽雙眼、奪去呼吸，讓她就像被埋在某些冰川墳墓裡的屍體。"
 unitID: 908
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "冰魔"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **陣營：** [元素生物](/cn/units/Faction Conflux/)
 
- **Race:** 馴獸師
+ **Race:** 魔物
 
  **Members:** [x1](/cn/units/Unit Member x1/)
 

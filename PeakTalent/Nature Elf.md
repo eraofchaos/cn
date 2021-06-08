@@ -2,7 +2,7 @@
 title: "自然精靈. 巔峰天賦 - 自然精靈"
 permalink: /PeakTalent/Nature Elf/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 自然精靈. 巔峰天賦 自然精靈. 自然精靈"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Nature Elf.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第八章 - 8-2 馬不停蹄"
 permalink: /Main Story/Chapter 8_2/
 excerpt: "第八章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第八章_2. 8-2 馬不停蹄"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 8_2.md"
 toc: false

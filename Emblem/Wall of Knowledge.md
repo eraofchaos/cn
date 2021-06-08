@@ -2,7 +2,7 @@
 title: "聖徽 - 智慧牆"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "魔法门之英雄无敌：战争纪元 智慧牆. 智慧牆. 魔法门之英雄无敌：战争纪元 聖徽 智慧牆. 魔法门之英雄无敌：战争纪元 善良 智慧牆"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Wall of Knowledge.md"
 toc: false

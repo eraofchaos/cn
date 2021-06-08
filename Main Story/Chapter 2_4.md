@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 - 2-4 魔法之井"
 permalink: /Main Story/Chapter 2_4/
 excerpt: "第二章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章_4. 2-4 魔法之井"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 2_4.md"
 toc: false

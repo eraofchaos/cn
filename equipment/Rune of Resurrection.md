@@ -2,7 +2,7 @@
 title: "重生印記"
 permalink: /equipment/Rune of Resurrection/
 excerpt: "魔法门之英雄无敌：战争纪元 重生印記. 重生印記"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Rune of Resurrection.md"
 toc: false

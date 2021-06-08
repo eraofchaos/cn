@@ -2,7 +2,7 @@
 title: "寶物 - 鬼王斗篷 - 死神靴"
 permalink: /artifacts/Dead Man's Boots/
 excerpt: "魔法门之英雄无敌：战争纪元  鬼王斗篷 - 死神靴. 穿上它能夠行走如風，鬼王斗篷的元件之一"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Dead Man's Boots.md"
 toc: false

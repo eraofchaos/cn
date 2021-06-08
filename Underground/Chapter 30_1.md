@@ -2,7 +2,7 @@
 title: "地下城 - 第三十章 - 30-1  一動不動"
 permalink: /Underground/Chapter 30_1/
 excerpt: "第三十章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第三十章_1. 30-1  一動不動"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Chapter 30_1.md"
 toc: false
