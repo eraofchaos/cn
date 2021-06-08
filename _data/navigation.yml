@@ -1,0 +1,64 @@
+﻿main:
+  - title: "News"
+    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+  - title: "About"
+    url: /about/
+
+
+# documentation links
+docs:
+  - title: "Navigation"
+    children:
+    - title: "中文 Heroes"
+      url: /heroes/
+    - title: "中文 Units"
+      url: /units/
+    - title: "中文 Items"
+      url: https://eraofchaos.github.io/ItemsDE/
+    - title: "中文 Artifacts"
+      url: /artifacts/
+    - title: "中文 Emblems"
+      url: /Emblem/
+    - title: "中文 Alchemy Workshop"
+      url: /Alchemy Workshop/
+    - title: "中文 Battle Formation"
+      url: /Battle Formation/
+    - title: "中文 Backup"
+      url: /Backup/
+    - title: "中文 Combination Bonus"
+      url: /combination/
+    - title: "中文 Next Faction Week"
+      url: /Weekly Sign Rewards/
+    - title: "中文 Schedule"
+      url: /Schedule/
+    - title: "中文 Hotspot Artifacs 2021"
+      url: /Hotspot/
+    - title: "中文 Hotspot Spells 2021"
+      url: /Hotspot/HotSpot Spell _2021/
+    - title: "中文 Sphinx answers"
+      url: /sphinx/
+
+  - title: "Language"
+    children:
+      - title: "English"
+        url: https://eraofchaos.github.io/
+      - title: "Русский"
+        url: https://eraofchaos.github.io/ru/
+      - title: "Deutsch"
+        url: https://eraofchaos.github.io/de/
+      - title: "Français"
+        url: https://eraofchaos.github.io/fr/
+      - title: "Italiano"
+        url: https://eraofchaos.github.io/it/
+      - title: "Español"
+        url: https://eraofchaos.github.io/es/
+      - title: "中文"
+        url: https://eraofchaos.github.io/cn/
+        isactive: 1
+
+
+
