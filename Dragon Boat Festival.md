@@ -42,7 +42,7 @@ sidebar:
 
 ## 鍍魔剪刀
 
-  **Event Item:** 鍍魔剪刀
+  **Event Item:** [鍍魔剪刀](/cn/Items/con_2175/)
 
   **玩法詳解:** 端午節活動道具。鍍上一層神秘魔法的剪刀，可用於剪開捆綁魔法秘粽的繩子，但是使用後會銷毀。
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## 龍舟探險
 
-  **Talk Pikeman:** [color=000000]感謝你找到我，讓我也來劃龍舟吧。[-]
+  **Talk Pikeman:** <span style="color: #000000">感謝你找到我，讓我也來劃龍舟吧。</span>
 
-  **Talk Mermaid:** [color=000000]你真幸運，竟然找到了我，我來幫你吧。[-]
+  **Talk Mermaid:** <span style="color: #000000">你真幸運，竟然找到了我，我來幫你吧。</span>
 
-  **First Talk Regnan Seer :** [color=000000]你鍥而不捨的精神令我動容，龍舟之勇者。來選擇你的獎勵吧。[-]
+  **First Talk Regnan Seer :** <span style="color: #000000">你鍥而不捨的精神令我動容，龍舟之勇者。來選擇你的獎勵吧。</span>
 
-  **Second Talk Regnan Seer:** [color=000000]又見面了，龍舟之勇者，你鍥而不捨的精神令我動容。來選擇你的獎勵吧。[-]
+  **Second Talk Regnan Seer:** <span style="color: #000000">又見面了，龍舟之勇者，你鍥而不捨的精神令我動容。來選擇你的獎勵吧。</span>
 
-  **Final Talk Regnan Seer:** [color=000000]這就是所有的獎勵了，龍舟之勇者，恭喜你完成你的探險。[-]
+  **Final Talk Regnan Seer:** <span style="color: #000000">這就是所有的獎勵了，龍舟之勇者，恭喜你完成你的探險。</span>
 
   **Movement Notification 1:** 由於有新船員的加入，龍舟可以劃到更遠的水域了。
 
