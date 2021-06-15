@@ -3,7 +3,7 @@ title: "鷹身女妖"
 permalink: /units/Harpy/
 excerpt: "魔法门之英雄无敌：战争纪元 鷹身女妖. 鷹身女妖 兵團. 哈耳庇厄. 魔法门之英雄无敌：战争纪元 半人半鳥的怪物，沒有人能承受她們足以穿雲裂石的尖叫。"
 unitID: 702
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "鷹身女妖"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **名字:** [榮耀衝鋒](/cn/Exclusive/Harpy Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to 升星:** [榮耀衝鋒碎片](/cn/Items/con_916/)
 

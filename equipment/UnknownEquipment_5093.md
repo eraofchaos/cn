@@ -2,7 +2,7 @@
 title: "UnknownEquipment_5093"
 permalink: /equipment/UnknownEquipment_5093/
 excerpt: "魔法门之英雄无敌：战争纪元 UnknownEquipment_5093. UnknownEquipment_5093"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "UnknownEquipment_5093.md"
 toc: false

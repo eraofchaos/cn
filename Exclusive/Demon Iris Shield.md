@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀守護 (Demon)"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀守護. 榮耀守護. 魔法门之英雄无敌：战争纪元 專屬 榮耀守護. 長角惡魔 專屬."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Demon 榮耀守護.md"
 toc: false

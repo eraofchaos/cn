@@ -2,7 +2,7 @@
 title: "諸神之劍. 巔峰天賦 - 諸神之劍"
 permalink: /PeakTalent/Sword of Gods/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 諸神之劍. 巔峰天賦 諸神之劍. 諸神之劍"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Sword of Gods.md"
 toc: false

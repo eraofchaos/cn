@@ -3,7 +3,7 @@ title: "螳螂"
 permalink: /units/Mantis/
 excerpt: "魔法门之英雄无敌：战争纪元 螳螂. 螳螂 兵團. null. 魔法门之英雄无敌：战争纪元 雪亮鋒利的巨大剃刀彰顯著作為傳奇生物的驕傲，沃裡的精靈們賦予了螳螂強大而堅韌的生命力。"
 unitID: 209
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "螳螂"
 toc: true

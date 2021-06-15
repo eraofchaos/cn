@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Unit Rank R"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  半人馬酋長  |
   | 9 | ![豺狼人](/images/u/ti_langren.jpg) | [豺狼人](/cn/units/Gnoll/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  豺狼勇士  |
   | 10 | ![骷髏戰士](/images/u/ti_kulouzhanshi.jpg) | [骷髏戰士](/cn/units/Skeleton/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  骷髏王  |
-  | 11 | ![魔法仙靈](/images/u/ti_mofaxianling.jpg) | [魔法仙靈](/cn/units/Sprite/) | 突擊 | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 11 | ![魔法仙靈](/images/u/ti_mofaxianling.jpg) | [魔法仙靈](/cn/units/Sprite/) | 突擊 | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  精靈魔法使  |
   | 12 | ![殭屍](/images/u/ti_jiangshi.jpg) | [殭屍](/cn/units/Walking Dead/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  瘟疫屠夫  |
   | 13 | ![地精戰士](/images/u/ti_shourenzhanshi.jpg) | [地精戰士](/cn/units/Goblin/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  地精屠戮者  |
   | 14 | ![惡狼騎士](/images/u/ti_langqibing.jpg) | [惡狼騎士](/cn/units/Wolf Rider/) | 突擊 | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  狂狼鬥士  |

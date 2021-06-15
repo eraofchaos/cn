@@ -3,7 +3,7 @@ title: "魔力飛艇"
 permalink: /units/Magic Airship/
 excerpt: "魔法门之英雄无敌：战争纪元 魔力飛艇. 魔力飛艇 兵團. null. 魔法门之英雄无敌：战争纪元 巨型球帆托起堅實船艇，遨遊在天際雲海間，感受純淨空氣的洗禮。"
 unitID: 608
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "魔力飛艇"
 toc: true

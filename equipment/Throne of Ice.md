@@ -2,7 +2,7 @@
 title: "堅冰之座"
 permalink: /equipment/Throne of Ice/
 excerpt: "魔法门之英雄无敌：战争纪元 堅冰之座. 堅冰之座"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Throne of Ice.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "副官 莫奈爾"
 permalink: /heroes/Adjutant Monere/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 莫奈爾"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Adjutant Monere.md"
 QR: adhero_60702

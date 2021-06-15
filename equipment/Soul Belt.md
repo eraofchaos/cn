@@ -2,7 +2,7 @@
 title: "亡者腰帶"
 permalink: /equipment/Soul Belt/
 excerpt: "魔法门之英雄无敌：战争纪元 亡者腰帶. 亡者腰帶"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Soul Belt.md"
 toc: false

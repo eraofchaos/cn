@@ -2,7 +2,7 @@
 title: "獸皮腰帶"
 permalink: /equipment/Leather Belt/
 excerpt: "魔法门之英雄无敌：战争纪元 獸皮腰帶. 獸皮腰帶"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Leather Belt.md"
 toc: false

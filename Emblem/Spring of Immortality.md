@@ -2,7 +2,7 @@
 title: "聖徽 - 永生泉"
 permalink: /Emblem/Spring of Immortality/
 excerpt: "魔法门之英雄无敌：战争纪元 永生泉. 永生泉. 魔法门之英雄无敌：战争纪元 聖徽 永生泉. 魔法门之英雄无敌：战争纪元 善良 永生泉"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Spring of Immortality.md"
 toc: false

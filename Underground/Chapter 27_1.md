@@ -2,7 +2,7 @@
 title: "地下城 - 第廿七章 - 27-1 長壽之人"
 permalink: /Underground/Chapter 27_1/
 excerpt: "第廿七章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第廿七章_1. 27-1 長壽之人"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 27_1.md"
 toc: false

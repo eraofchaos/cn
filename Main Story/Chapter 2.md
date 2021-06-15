@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 女王歸來"
 permalink: /Main Story/Chapter 2/
 excerpt: "第二章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章. 女王歸來"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十四章 - 14-12 迷霧揭曉"
 permalink: /Main Story/Chapter 14_12/
 excerpt: "第十四章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十四章_12. 14-12 迷霧揭曉"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 14_12.md"
 toc: false

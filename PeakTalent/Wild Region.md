@@ -2,7 +2,7 @@
 title: "蠻荒地帶. 巔峰天賦 - 蠻荒地帶"
 permalink: /PeakTalent/Wild Region/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 蠻荒地帶. 巔峰天賦 蠻荒地帶. 蠻荒地帶"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Wild Region.md"
 toc: false

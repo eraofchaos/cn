@@ -4,7 +4,7 @@ permalink: /heroes/Shiva/
 excerpt: "魔法门之英雄无敌：战争纪元 希娃. 希娃. 希娃出生在一個世代馴養雷鳥的家庭，但她不想繼承祖業，於是加入到克魯羅德的軍隊中成為了最出色的僱傭兵。"
 heroID: 60603
 QR: hero_60603
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Shiva"
 toc: true

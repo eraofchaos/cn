@@ -2,7 +2,7 @@
 title: "專屬 - 奧術詠唱 (Wight)"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "魔法门之英雄无敌：战争纪元 奧術詠唱. 奧術詠唱. 魔法门之英雄无敌：战争纪元 專屬 奧術詠唱. 幽靈 專屬."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Wight 奧術詠唱.md"
 toc: false

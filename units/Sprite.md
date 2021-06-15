@@ -1,9 +1,9 @@
 ---
 title: "魔法仙靈"
 permalink: /units/Sprite/
-excerpt: "魔法门之英雄无敌：战争纪元 魔法仙靈. 魔法仙靈 兵團. . 魔法门之英雄无敌：战争纪元 僅存於傳說和童話中的美麗仙靈，任何對她不利的角色都會遭到聽眾們的厭惡，從而結局悲慘淒涼。"
+excerpt: "魔法门之英雄无敌：战争纪元 魔法仙靈. 魔法仙靈 兵團. 精靈魔法使. 魔法门之英雄无敌：战争纪元 僅存於傳說和童話中的美麗仙靈，任何對她不利的角色都會遭到聽眾們的厭惡，從而結局悲慘淒涼。"
 unitID: 901
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "魔法仙靈"
 toc: true
@@ -175,12 +175,12 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_mofaxianling.jpg)
+  ![精靈魔法使](/images/u/tia_mofaxianling.jpg)
 
 ### Awaking 詳情
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** 精靈魔法使
 
  **Awaking 玩法詳解:** 你站在窗前看花，花仙躲在花叢看你。鮮花裝飾了精靈的庭院，精靈裝飾了別人的夢
 
@@ -195,23 +195,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **玩法詳解:** 
+### 1st Skill (or 2nd): 能量爆破
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【能量破碎】</span><span style="color: #645252;font-size:18px">每隔20秒，對目標單位造成自身攻擊200%的傷害</span>
 
-### 2nd Skill (or 1st): 
- **玩法詳解:** 
+### 2nd Skill (or 1st): 能量脈衝
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【能量破碎】</span><span style="color: #645252;font-size:18px">對目標兵團的首次攻擊造成自身攻擊200%的傷害</span>
 
-### 3rd Skill (or 4th): 
- **玩法詳解:** 
+### 3rd Skill (or 4th): 仙靈賜福
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【仙靈祝福】</span><span style="color: #645252;font-size:18px">額外提高當前所在路己方兵團10%兵團免傷，自身效果翻倍</span>
 
-### 4th Skill (or 3rd): 
- **玩法詳解:** 
+### 4th Skill (or 3rd): 使魔祝福
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【仙靈祝福】</span><span style="color: #645252;font-size:18px">額外降低所在路敵方兵團10%兵團傷害和攻擊</span>
 
-### 5th Skill (or 6th): 
- **玩法詳解:** 
+### 5th Skill (or 6th): 獻禮
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【奉獻】</span><span style="color: #645252;font-size:18px">額外對場上隨機3個單位造成「沉默」效果，持續時間4秒</span>
 
-### 6th Skill (or 5th): 
- **玩法詳解:** 
+### 6th Skill (or 5th): 亡語
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【奉獻】</span><span style="color: #645252;font-size:18px">技能效果提升為對目標兵團造成「沉默」，並降低其15%兵團免傷，持續時間4秒</span>
 
 ## Technical info
  **runart:** 1

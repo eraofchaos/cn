@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-5 蠻王克爾"
 permalink: /Main Story/Chapter 21_5/
 excerpt: "第廿一章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_5. 21-5 蠻王克爾"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 21_5.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Mephala/
 excerpt: "魔法门之英雄无敌：战争纪元 孟斐拉. 孟斐拉. 早在艾拉西亞軍隊中接受訓練時，孟斐拉就顯露出利用地形贏得勝利的才能。雖然她喜歡鄉村的寧靜，但為了國家，她還是留在了軍隊裡。"
 heroID: 60302
 QR: hero_60302
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Mephala"
 toc: true

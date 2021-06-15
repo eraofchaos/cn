@@ -2,7 +2,7 @@
 title: "專屬 - 巴吉裡斯克 (Basilisk)"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "魔法门之英雄无敌：战争纪元 巴吉裡斯克. 巴吉裡斯克. 魔法门之英雄无敌：战争纪元 專屬 巴吉裡斯克. 蜥蜴 專屬."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Basilisk 巴吉裡斯克.md"
 toc: false

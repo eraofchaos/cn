@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "index.md"
 toc: false
@@ -104,10 +104,10 @@ classes: wide
   | 82 | ![骨龍](/images/u/ti_gulong.jpg) | [骨龍](/cn/units/Bone Dragon/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  鬼龍  |
   | 83 | ![骷髏戰士](/images/u/ti_kulouzhanshi.jpg) | [骷髏戰士](/cn/units/Skeleton/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  骷髏王  |
   | 84 | ![魔力飛艇](/images/u/ti_reqiqiu.jpg) | [魔力飛艇](/cn/units/Magic Airship/) | 魔法 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
-  | 85 | ![魔法仙靈](/images/u/ti_mofaxianling.jpg) | [魔法仙靈](/cn/units/Sprite/) | 突擊 | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 85 | ![魔法仙靈](/images/u/ti_mofaxianling.jpg) | [魔法仙靈](/cn/units/Sprite/) | 突擊 | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  精靈魔法使  |
   | 86 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 87 | ![鳳凰](/images/u/ti_fenghuang.jpg) | [鳳凰](/cn/units/Firebird/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  烈焰主宰  |
-  | 88 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  哈耳庇厄  |
+  | 88 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
   | 89 | ![黑暗騎士](/images/u/ti_siwangqishi.jpg) | [黑暗騎士](/cn/units/Black Knight/) | 突擊 | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  恐懼領主  |
   | 90 | ![黑龍](/images/u/ti_heilong.jpg) | [黑龍](/cn/units/Black Dragon/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  災厄魔龍  |
   | 91 | ![龍蠅](/images/u/ti_longying.jpg) | [龍蠅](/cn/units/Serpent Fly/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  毒疫龍蠅  |

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第七章 - 7-3 邊境紛爭"
 permalink: /Main Story/Chapter 7_3/
 excerpt: "第七章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第七章_3. 7-3 邊境紛爭"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 7_3.md"
 toc: false

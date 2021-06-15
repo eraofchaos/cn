@@ -2,7 +2,7 @@
 title: "副官 傑德特"
 permalink: /heroes/Adjutant Jeddite/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 傑德特"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Adjutant Jeddite.md"
 QR: adhero_61401

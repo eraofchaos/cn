@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二十章 - 20-3 魔法造物"
 permalink: /Main Story/Chapter 20_3/
 excerpt: "第二十章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二十章_3. 20-3 魔法造物"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 20_3.md"
 toc: false

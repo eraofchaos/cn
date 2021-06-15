@@ -2,7 +2,7 @@
 title: "地下城 - 第二章 - 2-5 招兵買馬"
 permalink: /Underground/Chapter 2_5/
 excerpt: "第二章 - 5. 魔法门之英雄无敌：战争纪元  地下城 - 第二章_5. 2-5 招兵買馬"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 2_5.md"
 toc: false

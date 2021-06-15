@@ -2,7 +2,7 @@
 title: "寶物 - 末日之刃 - 森林硬弓"
 permalink: /artifacts/Forest Bow/
 excerpt: "魔法门之英雄无敌：战争纪元  末日之刃 - 森林硬弓. 木精靈們常用的硬弓，末日之刃的元件之一"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Forest Bow.md"
 toc: false

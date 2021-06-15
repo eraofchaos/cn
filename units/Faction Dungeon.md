@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Dungeon -  Units"
 permalink: /units/Faction Dungeon/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Dungeon. Faction Dungeon. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Faction Dungeon"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | 排名 |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  哈耳庇厄  |
+  | 1 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
   | 2 | ![穴居人](/images/u/ti_dongxueren.jpg) | [穴居人](/cn/units/Troglodyte/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  幽暗穴居人  |
   | 3 | ![邪眼](/images/u/ti_xieyan.jpg) | [邪眼](/cn/units/Beholder/) | 魔法 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  深淵之眼  |
   | 4 | ![美杜莎](/images/u/ti_meidusha.jpg) | [美杜莎](/cn/units/Medusa/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  美杜莎女王  |

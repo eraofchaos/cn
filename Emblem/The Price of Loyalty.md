@@ -2,7 +2,7 @@
 title: "聖徽 - 忠誠代價"
 permalink: /Emblem/The Price of Loyalty/
 excerpt: "魔法门之英雄无敌：战争纪元 忠誠代價. 忠誠代價. 魔法门之英雄无敌：战争纪元 聖徽 忠誠代價. 魔法门之英雄无敌：战争纪元 守序 忠誠代價"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "The Price of Loyalty.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "遠古之翼"
 permalink: /equipment/Ancient Wings/
 excerpt: "魔法门之英雄无敌：战争纪元 遠古之翼. 遠古之翼"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Ancient Wings.md"
 toc: false

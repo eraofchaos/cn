@@ -3,7 +3,7 @@ title: "蠍尾獅"
 permalink: /units/Manticore/
 excerpt: "魔法门之英雄无敌：战争纪元 蠍尾獅. 蠍尾獅 兵團. 曼提柯爾. 魔法门之英雄无敌：战争纪元 獅身蝠翼蠍尾的奇異生物，被它的尾巴蟄到的獵物無法活著見到陽光。"
 unitID: 706
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "蠍尾獅"
 toc: true

@@ -2,7 +2,7 @@
 title: "尖刺龜甲"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "魔法门之英雄无敌：战争纪元 尖刺龜甲. 尖刺龜甲"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Spiked Tortoise Shell.md"
 toc: false

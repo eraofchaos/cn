@@ -2,7 +2,7 @@
 title: "避其鋒芒. 巔峰天賦 - 避其鋒芒"
 permalink: /PeakTalent/Concealment/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 避其鋒芒. 巔峰天賦 避其鋒芒. 避其鋒芒"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Concealment.md"
 toc: false

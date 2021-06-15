@@ -4,7 +4,7 @@ permalink: /heroes/Ciele/
 excerpt: "魔法门之英雄无敌：战争纪元 薩麗爾. 薩麗爾. 薩麗爾是最早加入元素城的英雄之一，她在戰場上是個常勝將軍，她通過四系神箭發現了魔法元素之間的聯絡。"
 heroID: 60705
 QR: hero_60705
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Ciele"
 toc: true

@@ -2,7 +2,7 @@
 title: "頭像 - 海之戰將"
 permalink: /Avatars/Warlord of the Sea/
 excerpt: "魔法门之英雄无敌：战争纪元  海之戰將"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Warlord of the Sea.md"
 toc: false

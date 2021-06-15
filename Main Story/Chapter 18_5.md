@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十八章 - 18-5 盜賊工會"
 permalink: /Main Story/Chapter 18_5/
 excerpt: "第十八章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十八章_5. 18-5 盜賊工會"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 18_5.md"
 toc: false

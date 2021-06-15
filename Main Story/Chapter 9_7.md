@@ -2,7 +2,7 @@
 title: "主線劇情 - 第九章 - 9-7 勝利姿態"
 permalink: /Main Story/Chapter 9_7/
 excerpt: "第九章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第九章_7. 9-7 勝利姿態"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 9_7.md"
 toc: false

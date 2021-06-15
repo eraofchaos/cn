@@ -2,7 +2,7 @@
 title: "頭像 - NFL 盛典紀念"
 permalink: /Avatars/NFL Honors Commemoration/
 excerpt: "魔法门之英雄无敌：战争纪元  NFL 盛典紀念"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "NFL Honors Commemoration.md"
 toc: false

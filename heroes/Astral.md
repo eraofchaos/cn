@@ -4,7 +4,7 @@ permalink: /heroes/Astral/
 excerpt: "魔法门之英雄无敌：战争纪元 艾斯卻爾. 艾斯卻爾. 艾斯卻爾大約在十年前來到艾拉西亞，他很快就被布拉卡達的法師公會所接納。在艾斯卻爾的公會中獲得高位後，有些人開玩笑說，他一定是施了什麼魔法才會令他快速的獲得如今的地位。"
 heroID: 61203
 QR: hero_61203
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Astral"
 toc: true

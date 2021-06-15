@@ -2,7 +2,7 @@
 title: "頭像 - 刀鋒之舞"
 permalink: /Avatars/Dance of the Blades/
 excerpt: "魔法门之英雄无敌：战争纪元  刀鋒之舞"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Dance of the Blades.md"
 toc: false

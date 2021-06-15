@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Unit Member x9"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 7 | ![石像鬼](/images/u/ti_shixianggui.jpg) | [石像鬼](/cn/units/Stone Gargoyle/) | 攻擊 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 8 | ![帝國槍兵](/images/u/ti_jibing.jpg) | [帝國槍兵](/cn/units/Pikeman/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  皇家禁衛  |
   | 9 | ![帝國弩手](/images/u/ti_nushou.jpg) | [帝國弩手](/cn/units/Marksman/) | 射手 | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  神射手  |
-  | 10 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  哈耳庇厄  |
+  | 10 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
   | 11 | ![穴居人](/images/u/ti_dongxueren.jpg) | [穴居人](/cn/units/Troglodyte/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  幽暗穴居人  |
   | 12 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  聖域獅鷲  |
   | 13 | ![邪眼](/images/u/ti_xieyan.jpg) | [邪眼](/cn/units/Beholder/) | 魔法 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  深淵之眼  |

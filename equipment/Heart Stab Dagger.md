@@ -2,7 +2,7 @@
 title: "刺心匕首"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "魔法门之英雄无敌：战争纪元 刺心匕首. 刺心匕首"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Heart Stab Dagger.md"
 toc: false

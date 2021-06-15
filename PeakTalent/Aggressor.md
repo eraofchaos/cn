@@ -2,7 +2,7 @@
 title: "燒殺擄掠. 巔峰天賦 - 燒殺擄掠"
 permalink: /PeakTalent/Aggressor/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 燒殺擄掠. 巔峰天賦 燒殺擄掠. 燒殺擄掠"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Aggressor.md"
 toc: false

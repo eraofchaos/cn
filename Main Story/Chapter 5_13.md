@@ -2,7 +2,7 @@
 title: "主線劇情 - 第五章 - 5-13 狂熱復仇"
 permalink: /Main Story/Chapter 5_13/
 excerpt: "第五章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第五章_13. 5-13 狂熱復仇"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 5_13.md"
 toc: false

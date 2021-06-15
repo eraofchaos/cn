@@ -2,7 +2,7 @@
 title: "頭像 - 城堡陣營"
 permalink: /Avatars/Castle/
 excerpt: "魔法门之英雄无敌：战争纪元  城堡陣營"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Castle.md"
 toc: false

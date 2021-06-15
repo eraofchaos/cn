@@ -2,7 +2,7 @@
 title: "寶物 - 泰坦神箭 - 泰坦戰甲"
 permalink: /artifacts/Titan's Cuirass/
 excerpt: "魔法门之英雄无敌：战争纪元  泰坦神箭 - 泰坦戰甲. 天外隕石打造的盔甲，泰坦神箭的元件之一"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Titan's Cuirass.md"
 toc: false

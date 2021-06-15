@@ -2,7 +2,7 @@
 title: "專屬 - 湮滅 (Red Dragon)"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "魔法门之英雄无敌：战争纪元 湮滅. 湮滅. 魔法门之英雄无敌：战争纪元 專屬 湮滅. 紅龍 專屬."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Red Dragon 湮滅.md"
 toc: false

@@ -3,7 +3,7 @@ title: "索爾巨人"
 permalink: /units/Troll/
 excerpt: "魔法门之英雄无敌：战争纪元 索爾巨人. 索爾巨人 兵團. null. 魔法门之英雄无敌：战争纪元 索爾巨人的智力偏上，會使用沉重的巨石作為武器，他們經常在戰爭前線的最前方，對敵人給予最狂暴而沉重的打擊。"
 unitID: 409
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "索爾巨人"
 toc: true

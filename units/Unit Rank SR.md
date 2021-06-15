@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Unit Rank SR"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 13 | ![大法師](/images/u/ti_dafashi.jpg) | [大法師](/cn/units/Arch Mage/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  祕法大師  |
   | 14 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 15 | ![夢魘獸](/images/u/ti_mengyanshou.jpg) | [夢魘獸](/cn/units/Nightmare/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  煉獄血蹄  |
-  | 16 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  哈耳庇厄  |
+  | 16 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
   | 17 | ![神燈](/images/u/ti_shenguai.jpg) | [神燈](/cn/units/Genie/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  如願燈神  |
   | 18 | ![美人魚](/images/u/ti_meirenyu.jpg) | [美人魚](/cn/units/Mermaid/) | 魔法 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 19 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  聖域獅鷲  |

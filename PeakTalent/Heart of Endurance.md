@@ -2,7 +2,7 @@
 title: "耐久之心. 巔峰天賦 - 耐久之心"
 permalink: /PeakTalent/Heart of Endurance/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 耐久之心. 巔峰天賦 耐久之心. 耐久之心"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Heart of Endurance.md"
 toc: false

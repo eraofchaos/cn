@@ -2,7 +2,7 @@
 title: "諸神之盾. 巔峰天賦 - 諸神之盾"
 permalink: /PeakTalent/Shield of Gods/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 諸神之盾. 巔峰天賦 諸神之盾. 諸神之盾"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Shield of Gods.md"
 toc: false

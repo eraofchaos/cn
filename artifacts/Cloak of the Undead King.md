@@ -2,7 +2,7 @@
 title: "寶物 - 鬼王斗篷"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "魔法门之英雄无敌：战争纪元  鬼王斗篷. 鬼王斗篷 偉大的亡靈君主為了遮蓋自己的樣貌打造的神器，可召喚出骷髏軍隊"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Cloak of the Undead King.md"
 toc: false

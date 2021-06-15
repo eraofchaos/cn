@@ -2,7 +2,7 @@
 title: "祭祀印記"
 permalink: /equipment/Rune of Ritual/
 excerpt: "魔法门之英雄无敌：战争纪元 祭祀印記. 祭祀印記"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Rune of Ritual.md"
 toc: false

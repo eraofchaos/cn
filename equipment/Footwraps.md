@@ -2,7 +2,7 @@
 title: "纏腳布帶"
 permalink: /equipment/Footwraps/
 excerpt: "魔法门之英雄无敌：战争纪元 纏腳布帶. 纏腳布帶"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Footwraps.md"
 toc: false

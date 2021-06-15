@@ -2,7 +2,7 @@
 title: "蠻牛戰斧"
 permalink: /equipment/Gorgon Battle Axe/
 excerpt: "魔法门之英雄无敌：战争纪元 蠻牛戰斧. 蠻牛戰斧"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Gorgon Battle Axe.md"
 toc: false

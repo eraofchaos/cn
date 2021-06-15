@@ -2,7 +2,7 @@
 title: "刺客兜帽"
 permalink: /equipment/Assassin's Hood/
 excerpt: "魔法门之英雄无敌：战争纪元 刺客兜帽. 刺客兜帽"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Assassin's Hood.md"
 toc: false

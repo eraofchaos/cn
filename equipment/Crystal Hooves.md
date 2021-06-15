@@ -2,7 +2,7 @@
 title: "水晶之蹄"
 permalink: /equipment/Crystal Hooves/
 excerpt: "魔法门之英雄无敌：战争纪元 水晶之蹄. 水晶之蹄"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Crystal Hooves.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "領主之劍. 巔峰天賦 - 領主之劍"
 permalink: /PeakTalent/Sword of Lords/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 領主之劍. 巔峰天賦 領主之劍. 領主之劍"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Sword of Lords.md"
 toc: false

@@ -3,7 +3,7 @@ title: "海靈"
 permalink: /units/Sea Elemental/
 excerpt: "魔法门之英雄无敌：战争纪元 海靈. 海靈 兵團. 潮汐元素. 魔法门之英雄无敌：战争纪元 無盡海域中誕生的深海之靈，精通大海的力量，利用大海的力量摧毀敵人。"
 unitID: 9903
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "海靈"
 toc: true

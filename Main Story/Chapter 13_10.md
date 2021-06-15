@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-10 求助援軍"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "第十三章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_10. 13-10 求助援軍"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 13_10.md"
 toc: false

@@ -3,7 +3,7 @@ title: "神燈"
 permalink: /units/Genie/
 excerpt: "魔法门之英雄无敌：战争纪元 神燈. 神燈 兵團. 如願燈神. 魔法门之英雄无敌：战争纪元 傳說中喜歡滿足凡人願望的神奇生物，對於她們來說那些用於棲身的魔法容器，既是住所又是監牢。"
 unitID: 605
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "神燈"
 toc: true

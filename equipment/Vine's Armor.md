@@ -2,7 +2,7 @@
 title: "藤蔓護甲"
 permalink: /equipment/Vine's Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 藤蔓護甲. 藤蔓護甲"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Vine's Armor.md"
 toc: false

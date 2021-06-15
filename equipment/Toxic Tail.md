@@ -2,7 +2,7 @@
 title: "劇毒之尾"
 permalink: /equipment/Toxic Tail/
 excerpt: "魔法门之英雄无敌：战争纪元 劇毒之尾. 劇毒之尾"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Toxic Tail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "魔法门之英雄无敌：战争纪元 Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Star 2"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![烈火精靈](/images/u/ti_liehuojingling.jpg) | [烈火精靈](/cn/units/Efreeti/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  烈火暴徒  |
   | 9 | ![石像鬼](/images/u/ti_shixianggui.jpg) | [石像鬼](/cn/units/Stone Gargoyle/) | 攻擊 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 10 | ![大法師](/images/u/ti_dafashi.jpg) | [大法師](/cn/units/Arch Mage/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  祕法大師  |
-  | 11 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  哈耳庇厄  |
+  | 11 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
   | 12 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  聖域獅鷲  |
   | 13 | ![皇家十字軍](/images/u/ti_shizijun.jpg) | [皇家十字軍](/cn/units/Swordsman/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  大十字軍  |
   | 14 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |

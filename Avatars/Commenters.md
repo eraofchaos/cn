@@ -2,7 +2,7 @@
 title: "頭像 - 評論高手"
 permalink: /Avatars/Commenters/
 excerpt: "魔法门之英雄无敌：战争纪元  評論高手"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Commenters.md"
 toc: false

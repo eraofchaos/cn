@@ -2,7 +2,7 @@
 title: "戰陣 元素生物"
 permalink: /Battle Formation/Battle Formation Faction Conflux
 excerpt: "戰陣 元素生物"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "BattleFormationFactionConflux"
 toc: false

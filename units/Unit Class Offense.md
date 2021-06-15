@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Unit Class Offense"
 toc: false

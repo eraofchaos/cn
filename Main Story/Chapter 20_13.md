@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二十章 - 20-13 量子魔法"
 permalink: /Main Story/Chapter 20_13/
 excerpt: "第二十章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二十章_13. 20-13 量子魔法"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 20_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "強壯花束"
 permalink: /equipment/Strong Flowering Branch/
 excerpt: "魔法门之英雄无敌：战争纪元 強壯花束. 強壯花束"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Strong Flowering Branch.md"
 toc: false

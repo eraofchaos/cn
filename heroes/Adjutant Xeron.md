@@ -2,7 +2,7 @@
 title: "副官 塞爾倫"
 permalink: /heroes/Adjutant Xeron/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 塞爾倫"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Adjutant Xeron.md"
 QR: adhero_60801

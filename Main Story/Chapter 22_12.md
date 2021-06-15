@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 - 22-12 龍魔法"
 permalink: /Main Story/Chapter 22_12/
 excerpt: "第廿二章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章_12. 22-12 龍魔法"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 22_12.md"
 toc: false

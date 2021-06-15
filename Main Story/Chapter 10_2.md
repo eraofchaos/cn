@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十章 - 10-2 尋找屍體"
 permalink: /Main Story/Chapter 10_2/
 excerpt: "第十章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十章_2. 10-2 尋找屍體"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 10_2.md"
 toc: false

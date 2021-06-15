@@ -2,7 +2,7 @@
 title: "狼人鏈枷"
 permalink: /equipment/Werewolf's Chain/
 excerpt: "魔法门之英雄无敌：战争纪元 狼人鏈枷. 狼人鏈枷"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Werewolf's Chain.md"
 toc: false

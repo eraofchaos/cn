@@ -2,7 +2,7 @@
 title: "地下城 - 第十章 國王之心"
 permalink: /Underground/Chapter 10/
 excerpt: "第十章 國王之心. 魔法门之英雄无敌：战争纪元  地下城 - 第十章. 國王之心"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 10.md"
 toc: false

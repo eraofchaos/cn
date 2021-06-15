@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-15 魔法仙境"
 permalink: /Main Story/Chapter 24_15/
 excerpt: "第廿四章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_15. 24-15 魔法仙境"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 24_15.md"
 toc: false

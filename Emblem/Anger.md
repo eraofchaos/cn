@@ -2,7 +2,7 @@
 title: "聖徽 - 憤怒"
 permalink: /Emblem/Anger/
 excerpt: "魔法门之英雄无敌：战争纪元 憤怒. 憤怒. 魔法门之英雄无敌：战争纪元 聖徽 憤怒. 魔法门之英雄无敌：战争纪元 混亂 憤怒"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Anger.md"
 toc: false

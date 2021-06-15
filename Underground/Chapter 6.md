@@ -2,7 +2,7 @@
 title: "地下城 - 第六章 帝都陷落"
 permalink: /Underground/Chapter 6/
 excerpt: "第六章 帝都陷落. 魔法门之英雄无敌：战争纪元  地下城 - 第六章. 帝都陷落"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 6.md"
 toc: false

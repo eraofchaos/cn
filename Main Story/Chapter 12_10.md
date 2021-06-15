@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十二章 - 12-10 避難營地"
 permalink: /Main Story/Chapter 12_10/
 excerpt: "第十二章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十二章_10. 12-10 避難營地"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 12_10.md"
 toc: false

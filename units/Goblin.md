@@ -3,7 +3,7 @@ title: "地精戰士"
 permalink: /units/Goblin/
 excerpt: "魔法门之英雄无敌：战争纪元 地精戰士. 地精戰士 兵團. 地精屠戮者. 魔法门之英雄无敌：战争纪元 地精戰士身著輕甲，手握重兵器，善於以速度和數量優勢快速衝破敵人的防線，極為兇殘和堅韌。"
 unitID: 401
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "地精戰士"
 toc: true

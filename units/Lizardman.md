@@ -3,7 +3,7 @@ title: "蜥蜴人"
 permalink: /units/Lizardman/
 excerpt: "魔法门之英雄无敌：战争纪元 蜥蜴人. 蜥蜴人 兵團. null. 魔法门之英雄无敌：战争纪元 潛藏在陰暗處的致命獵手，淬毒的利箭足以放倒任何被他們瞄準的獵物。"
 unitID: 802
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "蜥蜴人"
 toc: true

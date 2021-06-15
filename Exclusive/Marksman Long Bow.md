@@ -2,7 +2,7 @@
 title: "專屬 - 獵影逐風 (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "魔法门之英雄无敌：战争纪元 獵影逐風. 獵影逐風. 魔法门之英雄无敌：战争纪元 專屬 獵影逐風. 帝國弩手 專屬."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Marksman 獵影逐風.md"
 toc: false

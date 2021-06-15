@@ -2,7 +2,7 @@
 title: "紅炎之角"
 permalink: /equipment/Horn of Red Fire/
 excerpt: "魔法门之英雄无敌：战争纪元 紅炎之角. 紅炎之角"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Horn of Red Fire.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 - 2-6 女王演講"
 permalink: /Main Story/Chapter 2_6/
 excerpt: "第二章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章_6. 2-6 女王演講"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 2_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Unit Member x4"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 23 | ![蠍尾獅](/images/u/ti_shixie.jpg) | [蠍尾獅](/cn/units/Manticore/) | 突擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  曼提柯爾  |
   | 24 | ![銀翼飛馬](/images/u/ti_feima.jpg) | [銀翼飛馬](/cn/units/Pegasus/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  銀翼衛士  |
   | 25 | ![蜥蜴](/images/u/ti_xiyi.jpg) | [蜥蜴](/cn/units/Basilisk/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
-  | 26 | ![魔法仙靈](/images/u/ti_mofaxianling.jpg) | [魔法仙靈](/cn/units/Sprite/) | 突擊 | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 26 | ![魔法仙靈](/images/u/ti_mofaxianling.jpg) | [魔法仙靈](/cn/units/Sprite/) | 突擊 | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  精靈魔法使  |
   | 27 | ![瑞格納海盜](/images/u/ti_haidao.jpg) | [瑞格納海盜](/cn/units/Regnan Pirates/) | 攻擊 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  黑帆大副  |
   | 28 | ![枯木衛士](/images/u/ti_shuyao.jpg) | [枯木衛士](/cn/units/Dendroid Guard/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  遠古守衛  |
   | 29 | ![雷元素](/images/u/ti_leiyuansu2.jpg) | [雷元素](/cn/units/Storm Elemental/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  閃電風暴  |

@@ -2,7 +2,7 @@
 title: "永恆之淚"
 permalink: /equipment/Eternal Tear/
 excerpt: "魔法门之英雄无敌：战争纪元 永恆之淚. 永恆之淚"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Eternal Tear.md"
 toc: false

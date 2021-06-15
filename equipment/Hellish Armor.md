@@ -2,7 +2,7 @@
 title: "地獄鐵甲"
 permalink: /equipment/Hellish Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 地獄鐵甲. 地獄鐵甲"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Hellish Armor.md"
 toc: false

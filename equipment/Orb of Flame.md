@@ -2,7 +2,7 @@
 title: "烈火法球"
 permalink: /equipment/Orb of Flame/
 excerpt: "魔法门之英雄无敌：战争纪元 烈火法球. 烈火法球"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Orb of Flame.md"
 toc: false

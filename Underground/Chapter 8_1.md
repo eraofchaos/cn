@@ -2,7 +2,7 @@
 title: "地下城 - 第八章 - 8-1 戰略計劃"
 permalink: /Underground/Chapter 8_1/
 excerpt: "第八章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第八章_1. 8-1 戰略計劃"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 8_1.md"
 toc: false

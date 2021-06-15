@@ -2,7 +2,7 @@
 title: "寶物 - 詛咒鎧甲 - 骨質胸甲"
 permalink: /artifacts/Bone Armor/
 excerpt: "魔法门之英雄无敌：战争纪元  詛咒鎧甲 - 骨質胸甲. 堅硬的骨骼製成的胸甲，詛咒鎧甲的元件之一"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Bone Armor.md"
 toc: false

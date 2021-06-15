@@ -3,7 +3,7 @@ title: "邪眼"
 permalink: /units/Beholder/
 excerpt: "魔法门之英雄无敌：战争纪元 邪眼. 邪眼 兵團. 深淵之眼. 魔法门之英雄无敌：战争纪元 多足多目且極具智慧的邪惡怪物，所有的生物都是他們眼中的奴僕。"
 unitID: 703
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "邪眼"
 toc: true

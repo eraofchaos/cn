@@ -2,7 +2,7 @@
 title: "組合說明 for 士氣高漲"
 permalink: /combination/High Morale/
 excerpt: "組合說明 - 士氣高漲. Units and Heroes Formation."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "士氣高漲.md"
 toc: false

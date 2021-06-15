@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿六章 - 26-10 邪眼之柱"
 permalink: /Main Story/Chapter 26_10/
 excerpt: "第廿六章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿六章_10. 26-10 邪眼之柱"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 26_10.md"
 toc: false

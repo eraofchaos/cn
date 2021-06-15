@@ -2,7 +2,7 @@
 title: "魔力之爪"
 permalink: /equipment/Magic Claw/
 excerpt: "魔法门之英雄无敌：战争纪元 魔力之爪. 魔力之爪"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Magic Claw.md"
 toc: false

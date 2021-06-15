@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Dungeon. 專屬 Dungeon. List of 專屬 Dungeon in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Exclusive Dungeon"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | 專屬 | Open  |    Type   |  Item to Rank UP      |  塗裝   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [穴居人](/cn/units/Troglodyte/) | [無畏狂攻](/cn/Exclusive/Troglodyte Sword/) | - | 衝鋒 | [無畏狂攻碎片](/cn/Items/con_912/) | - |
-  | 2  | [鷹身女妖](/cn/units/Harpy/) | [榮耀衝鋒](/cn/Exclusive/Harpy Knight Pike/) | - | 衝鋒 | [榮耀衝鋒碎片](/cn/Items/con_916/) | - |
+  | 2  | [鷹身女妖](/cn/units/Harpy/) | [榮耀衝鋒](/cn/Exclusive/Harpy Knight Pike/) | + | 衝鋒 | [榮耀衝鋒碎片](/cn/Items/con_916/) | - |
   | 3  | [邪眼](/cn/units/Beholder/) | [幽暗凝視](/cn/Exclusive/Beholder Dark Gaze/) | - | 遠距 | [幽暗凝視](/cn/Items/con_990/) | [幽暗凝視特效塗裝](/cn/Items/con_658/) |
   | 4  | [美杜莎](/cn/units/Medusa/) | [蛇吻](/cn/Exclusive/Medusa Medusa's Bow/) | + | 遠距 | [蛇吻碎片](/cn/Items/con_991/) | [蛇吻特效塗裝](/cn/Items/con_659/) |
   | 5  | [牛頭怪](/cn/units/Minotaur/) | [榮耀守護](/cn/Exclusive/Minotaur Iris Shield/) | - | 衝鋒 | [榮耀守護碎片](/cn/Items/con_913/) | - |

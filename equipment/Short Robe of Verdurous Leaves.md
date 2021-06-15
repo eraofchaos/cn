@@ -2,7 +2,7 @@
 title: "翠葉短袍"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "魔法门之英雄无敌：战争纪元 翠葉短袍. 翠葉短袍"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false

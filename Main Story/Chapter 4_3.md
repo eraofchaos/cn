@@ -2,7 +2,7 @@
 title: "主線劇情 - 第四章 - 4-3 火山晶礦"
 permalink: /Main Story/Chapter 4_3/
 excerpt: "第四章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第四章_3. 4-3 火山晶礦"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 4_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "領主之威"
 permalink: /equipment/Might of Lords/
 excerpt: "魔法门之英雄无敌：战争纪元 領主之威. 領主之威"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Might of Lords.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-13 難兄難弟"
 permalink: /Main Story/Chapter 21_13/
 excerpt: "第廿一章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_13. 21-13 難兄難弟"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 21_13.md"
 toc: false

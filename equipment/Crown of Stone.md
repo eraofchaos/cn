@@ -2,7 +2,7 @@
 title: "岩石頭冠"
 permalink: /equipment/Crown of Stone/
 excerpt: "魔法门之英雄无敌：战争纪元 岩石頭冠. 岩石頭冠"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Crown of Stone.md"
 toc: false

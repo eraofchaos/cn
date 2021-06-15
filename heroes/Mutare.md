@@ -4,7 +4,7 @@ permalink: /heroes/Mutare/
 excerpt: "魔法门之英雄无敌：战争纪元 摩莉爾. 摩莉爾. 最近崛起的尼貢領主，摩莉爾天生就具有指揮龍的能力，這使她在戰場上無往不勝。"
 heroID: 61301
 QR: hero_61301
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Mutare"
 toc: true

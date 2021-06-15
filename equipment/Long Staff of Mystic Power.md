@@ -2,7 +2,7 @@
 title: "祕法長杖"
 permalink: /equipment/Long Staff of Mystic Power/
 excerpt: "魔法门之英雄无敌：战争纪元 祕法長杖. 祕法長杖"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Long Staff of Mystic Power.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 龍王神力 - 赤龍劍"
 permalink: /artifacts/Red Dragon Flame Tongue/
 excerpt: "魔法门之英雄无敌：战争纪元  龍王神力 - 赤龍劍. 火焰巨龍結晶煉化的長劍，龍王神力的元件之一"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Red Dragon Flame Tongue.md"
 toc: false

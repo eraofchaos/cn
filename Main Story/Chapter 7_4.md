@@ -2,7 +2,7 @@
 title: "主線劇情 - 第七章 - 7-4 燒殺搶掠"
 permalink: /Main Story/Chapter 7_4/
 excerpt: "第七章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第七章_4. 7-4 燒殺搶掠"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 7_4.md"
 toc: false

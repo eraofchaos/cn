@@ -2,7 +2,7 @@
 title: "副官 姆拉克"
 permalink: /heroes/Adjutant Mullich/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 姆拉克"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Adjutant Mullich.md"
 QR: adhero_60101

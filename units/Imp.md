@@ -3,7 +3,7 @@ title: "小惡魔"
 permalink: /units/Imp/
 excerpt: "魔法门之英雄无敌：战争纪元 小惡魔. 小惡魔 兵團. 詭變魔僕. 魔法门之英雄无敌：战争纪元 小惡魔雖然是惡魔中的低等生物，但與生俱來的狡詐、暴力，以及在戰場上的癲狂令人懼怕。"
 unitID: 501
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "小惡魔"
 toc: true

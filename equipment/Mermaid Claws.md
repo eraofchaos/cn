@@ -2,7 +2,7 @@
 title: "鮫人利爪"
 permalink: /equipment/Mermaid Claws/
 excerpt: "魔法门之英雄无敌：战争纪元 鮫人利爪. 鮫人利爪"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Mermaid Claws.md"
 toc: false

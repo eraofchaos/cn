@@ -2,7 +2,7 @@
 title: "專屬 - 無畏狂攻 (Pikeman)"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "魔法门之英雄无敌：战争纪元 無畏狂攻. 無畏狂攻. 魔法门之英雄无敌：战争纪元 專屬 無畏狂攻. 帝國槍兵 專屬."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Pikeman 無畏狂攻.md"
 toc: false

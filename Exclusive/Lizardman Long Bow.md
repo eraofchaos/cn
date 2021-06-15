@@ -2,7 +2,7 @@
 title: "專屬 - 獵影逐風 (Lizardman)"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "魔法门之英雄无敌：战争纪元 獵影逐風. 獵影逐風. 魔法门之英雄无敌：战争纪元 專屬 獵影逐風. 蜥蜴人 專屬."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Lizardman 獵影逐風.md"
 toc: false

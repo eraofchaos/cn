@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank Commander -  Units"
 permalink: /units/Unit Rank Commander/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Rank Commander. Unit Rank Commander. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Unit Rank Commander"
 toc: false

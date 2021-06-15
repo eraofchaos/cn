@@ -2,7 +2,7 @@
 title: "頭像 - 諸神意志"
 permalink: /Avatars/Will of the Gods/
 excerpt: "魔法门之英雄无敌：战争纪元  諸神意志"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Will of the Gods.md"
 toc: false

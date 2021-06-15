@@ -2,7 +2,7 @@
 title: "織電護甲"
 permalink: /equipment/Lightning's armor/
 excerpt: "魔法门之英雄无敌：战争纪元 織電護甲. 織電護甲"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Lightning's armor.md"
 toc: false

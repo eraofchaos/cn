@@ -2,7 +2,7 @@
 title: "穿心利爪"
 permalink: /equipment/Piercing Claws/
 excerpt: "魔法门之英雄无敌：战争纪元 穿心利爪. 穿心利爪"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Piercing Claws.md"
 toc: false

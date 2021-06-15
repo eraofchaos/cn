@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿七章 - 27-6 真菌種植"
 permalink: /Main Story/Chapter 27_6/
 excerpt: "第廿七章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿七章_6. 27-6 真菌種植"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Chapter 27_6.md"
 toc: false

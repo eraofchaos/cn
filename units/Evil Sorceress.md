@@ -3,7 +3,7 @@ title: "邪魔女"
 permalink: /units/Evil Sorceress/
 excerpt: "魔法门之英雄无敌：战争纪元 邪魔女. 邪魔女 兵團. null. 魔法门之英雄无敌：战争纪元 羊鳴教曾經的聖女，天生塗裝長滿符文的她擁有和惡魔相似的可怕能力。"
 unitID: 709
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "邪魔女"
 toc: true

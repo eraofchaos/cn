@@ -3,7 +3,7 @@ title: "比蒙"
 permalink: /units/Behemoth/
 excerpt: "魔法门之英雄无敌：战争纪元 比蒙. 比蒙 兵團. 上古巨獸. 魔法门之英雄无敌：战争纪元 比蒙是為數不多的遠古生物之一，起源和巨龍一樣久遠，龐大的身軀使其幾乎可以無視敵人攻擊。"
 unitID: 407
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "比蒙"
 toc: true

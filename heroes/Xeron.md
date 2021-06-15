@@ -4,7 +4,7 @@ permalink: /heroes/Xeron/
 excerpt: "魔法门之英雄无敌：战争纪元 塞爾倫. 塞爾倫. 當路西法．克里根殺死賽諾費克斯奪取了權力的寶座時，塞爾倫第一個宣佈效忠這個篡位者並獲得了路西法的器重。"
 heroID: 60801
 QR: hero_60801
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Xeron"
 toc: true
