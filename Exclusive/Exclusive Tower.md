@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Tower"
 permalink: /Exclusive/Exclusive Tower/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Tower. 專屬 Tower. List of 專屬 Tower in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Exclusive Tower"
 toc: false

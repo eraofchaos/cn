@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三章 - 3-7 林中木廠"
 permalink: /Main Story/Chapter 3_7/
 excerpt: "第三章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三章_7. 3-7 林中木廠"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 3_7.md"
 toc: false

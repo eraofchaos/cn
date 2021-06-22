@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "魔法门之英雄无敌：战争纪元 Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Star 3"
 toc: false
@@ -25,13 +25,13 @@ classes: wide
   | 11 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  死亡咆哮者  |
   | 12 | ![叢林妖精](/images/u/ti_conglinyaojing.jpg) | [叢林妖精](/cn/units/Leprechaun/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  神樹守靈  |
   | 13 | ![索爾巨人](/images/u/ti_suoerjuren.jpg) | [索爾巨人](/cn/units/Troll/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 14 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 14 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  亡瞳獵手  |
   | 15 | ![大惡魔](/images/u/ti_daemo.jpg) | [大惡魔](/cn/units/Devil/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  原罪魔王  |
-  | 16 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 16 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  潮汐庭衛  |
   | 17 | ![夢魘獸](/images/u/ti_mengyanshou.jpg) | [夢魘獸](/cn/units/Nightmare/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  煉獄血蹄  |
   | 18 | ![神燈](/images/u/ti_shenguai.jpg) | [神燈](/cn/units/Genie/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  如願燈神  |
   | 19 | ![美人魚](/images/u/ti_meirenyu.jpg) | [美人魚](/cn/units/Mermaid/) | 魔法 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
-  | 20 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 20 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 21 | ![邪眼](/images/u/ti_xieyan.jpg) | [邪眼](/cn/units/Beholder/) | 魔法 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  深淵之眼  |
   | 22 | ![娜迦蛇妖](/images/u/ti_shenv.jpg) | [娜迦蛇妖](/cn/units/Naga/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  娜迦女王  |
   | 23 | ![龍龜](/images/u/ti_longgui.jpg) | [龍龜](/cn/units/Dragon Turtle/) | 防禦 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  遠古龍龜  |

@@ -4,7 +4,7 @@ permalink: /heroes/Vidomina/
 excerpt: "魔法门之英雄无敌：战争纪元 維德尼娜. 維德尼娜. 維德尼娜年輕時就顯露出極大的潛力，但是她利用魔法使生命變成死物的時候，她被逐出了巴爾克達，並最終走上了邪路。"
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Vidomina"
 toc: true

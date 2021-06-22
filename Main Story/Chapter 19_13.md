@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十九章 - 19-13 法師國王"
 permalink: /Main Story/Chapter 19_13/
 excerpt: "第十九章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十九章_13. 19-13 法師國王"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 19_13.md"
 toc: false

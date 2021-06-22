@@ -4,7 +4,7 @@ permalink: /heroes/Erdamon/
 excerpt: "魔法门之英雄无敌：战争纪元 艾德蒙. 艾德蒙. 古老的熔岩之王艾德蒙，數個世紀以來一直都沉睡在伊歐弗邊境的群山中。現在他從沉眠中醒來加入元素城，艾德蒙十分願意通過戰爭的方式來幫助這個世界擺脫克里根人的威脅。"
 heroID: 60703
 QR: hero_60703
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Erdamon"
 toc: true

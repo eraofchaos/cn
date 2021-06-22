@@ -2,7 +2,7 @@
 title: "雷光利爪"
 permalink: /equipment/Claws of Lightning/
 excerpt: "魔法门之英雄无敌：战争纪元 雷光利爪. 雷光利爪"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Claws of Lightning.md"
 toc: false

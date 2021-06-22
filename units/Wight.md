@@ -3,7 +3,7 @@ title: "幽靈"
 permalink: /units/Wight/
 excerpt: "魔法门之英雄无敌：战争纪元 幽靈. 幽靈 兵團. 咒怨亡魂. 魔法门之英雄无敌：战争纪元 幽靈對生命的眷戀使得它們能夠留存於現世，巫師們奴役幽靈去折磨生者的靈魂。"
 unitID: 303
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "幽靈"
 toc: true

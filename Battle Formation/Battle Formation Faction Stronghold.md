@@ -2,7 +2,7 @@
 title: "戰陣 荒原據點"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "戰陣 荒原據點"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "BattleFormationFactionStronghold"
 toc: false

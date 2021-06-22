@@ -3,7 +3,7 @@ title: "半人馬首領"
 permalink: /units/Centaur/
 excerpt: "魔法门之英雄无敌：战争纪元 半人馬首領. 半人馬首領 兵團. 半人馬酋長. 魔法门之英雄无敌：战争纪元 半人馬首領是天生的戰士，畢生追求高超的戰爭藝術，他們善於衝鋒、格鬥、偵察，幾乎無所不能。"
 unitID: 201
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "半人馬首領"
 toc: true

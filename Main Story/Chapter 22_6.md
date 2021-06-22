@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 - 22-6 龍與天氣"
 permalink: /Main Story/Chapter 22_6/
 excerpt: "第廿二章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章_6. 22-6 龍與天氣"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 22_6.md"
 toc: false

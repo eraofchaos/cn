@@ -2,7 +2,7 @@
 title: "寶物 - 野蠻之斧 - 智慧之冠"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "魔法门之英雄无敌：战争纪元  野蠻之斧 - 智慧之冠. 解救瘋狂巫師作為禮物相贈的皇冠，野蠻之斧的元件之一"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Crown of the Supreme Magi.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-10 荒野共生"
 permalink: /Main Story/Chapter 21_10/
 excerpt: "第廿一章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_10. 21-10 荒野共生"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 21_10.md"
 toc: false

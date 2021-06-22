@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Unit Member x4"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![地獄領主](/images/u/ti_diyulingzhu.jpg) | [地獄領主](/cn/units/Pit Fiend/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  歡愉女王  |
   | 9 | ![烈火精靈](/images/u/ti_liehuojingling.jpg) | [烈火精靈](/cn/units/Efreeti/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  烈火暴徒  |
   | 10 | ![大法師](/images/u/ti_dafashi.jpg) | [大法師](/cn/units/Arch Mage/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  祕法大師  |
-  | 11 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 11 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  潮汐庭衛  |
   | 12 | ![夢魘獸](/images/u/ti_mengyanshou.jpg) | [夢魘獸](/cn/units/Nightmare/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  煉獄血蹄  |
   | 13 | ![神燈](/images/u/ti_shenguai.jpg) | [神燈](/cn/units/Genie/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  如願燈神  |
   | 14 | ![美人魚](/images/u/ti_meirenyu.jpg) | [美人魚](/cn/units/Mermaid/) | 魔法 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |

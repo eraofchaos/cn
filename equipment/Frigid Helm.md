@@ -2,7 +2,7 @@
 title: "冷冽之冠"
 permalink: /equipment/Frigid Helm/
 excerpt: "魔法门之英雄无敌：战争纪元 冷冽之冠. 冷冽之冠"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Frigid Helm.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "大法長袍"
 permalink: /equipment/Mantle of the Magi/
 excerpt: "魔法门之英雄无敌：战争纪元 大法長袍. 大法長袍"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Mantle of the Magi.md"
 toc: false

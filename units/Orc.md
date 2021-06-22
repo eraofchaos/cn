@@ -3,7 +3,7 @@ title: "半獸人"
 permalink: /units/Orc/
 excerpt: "魔法门之英雄无敌：战争纪元 半獸人. 半獸人 兵團. 半獸人統領. 魔法门之英雄无敌：战争纪元 沒人知道半獸人的斧子藏在哪裡，他們似乎有無窮無盡的斧子可以丟出來，真是匪夷所思。"
 unitID: 403
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "半獸人"
 toc: true

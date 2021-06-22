@@ -2,7 +2,7 @@
 title: "組合說明 for 威懾"
 permalink: /combination/Deterrence/
 excerpt: "組合說明 - 威懾. Units and Heroes Formation."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "威懾.md"
 toc: false

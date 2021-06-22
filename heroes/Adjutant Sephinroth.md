@@ -2,7 +2,7 @@
 title: "副官 薩費羅斯"
 permalink: /heroes/Adjutant Sephinroth/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 薩費羅斯"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Adjutant Sephinroth.md"
 QR: adhero_61402

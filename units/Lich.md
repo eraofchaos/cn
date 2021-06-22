@@ -3,7 +3,7 @@ title: "巫妖"
 permalink: /units/Lich/
 excerpt: "魔法门之英雄无敌：战争纪元 巫妖. 巫妖 兵團. 寂亡女士. 魔法门之英雄无敌：战争纪元 巫妖的肉體乾枯而醜陋，他們對一切生命充滿了仇恨，並熱衷於傳播瘟疫，毀滅現世。"
 unitID: 305
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "巫妖"
 toc: true

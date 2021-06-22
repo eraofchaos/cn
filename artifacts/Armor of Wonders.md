@@ -2,7 +2,7 @@
 title: "寶物 - 天使聯盟 - 神奇戰甲"
 permalink: /artifacts/Armor of Wonders/
 excerpt: "魔法门之英雄无敌：战争纪元  天使聯盟 - 神奇戰甲. 這件戰甲見證了帝國的繁榮，天使聯盟的元件之一"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Armor of Wonders.md"
 toc: false

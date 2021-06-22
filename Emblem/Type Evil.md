@@ -2,7 +2,7 @@
 title: "聖徽 - 邪惡"
 permalink: /Emblem/Type Evil/
 excerpt: "魔法门之英雄无敌：战争纪元 聖徽. 聖徽. 魔法门之英雄无敌：战争纪元 聖徽 邪惡. 魔法门之英雄无敌：战争纪元 邪惡"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "type邪惡.md"
 toc: false

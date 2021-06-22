@@ -2,7 +2,7 @@
 title: "閃爍雷球"
 permalink: /equipment/Flickering Lightning Ball/
 excerpt: "魔法门之英雄无敌：战争纪元 閃爍雷球. 閃爍雷球"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Flickering Lightning Ball.md"
 toc: false

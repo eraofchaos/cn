@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Unit Class Defense"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
   | 5 | ![比蒙](/images/u/ti_bimeng.jpg) | [比蒙](/cn/units/Behemoth/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  上古巨獸  |
   | 6 | ![叢林妖精](/images/u/ti_conglinyaojing.jpg) | [叢林妖精](/cn/units/Leprechaun/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  神樹守靈  |
   | 7 | ![鐵人](/images/u/ti_tieren.jpg) | [鐵人](/cn/units/Iron Golem/) | 防禦 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  金人  |
-  | 8 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 8 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  潮汐庭衛  |
   | 9 | ![夢魘獸](/images/u/ti_mengyanshou.jpg) | [夢魘獸](/cn/units/Nightmare/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  煉獄血蹄  |
-  | 10 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 10 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 11 | ![皇家十字軍](/images/u/ti_shizijun.jpg) | [皇家十字軍](/cn/units/Swordsman/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  大十字軍  |
   | 12 | ![龍龜](/images/u/ti_longgui.jpg) | [龍龜](/cn/units/Dragon Turtle/) | 防禦 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  遠古龍龜  |
   | 13 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  半人馬酋長  |

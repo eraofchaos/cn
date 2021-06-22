@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿七章 - 27-13 龍血用途"
 permalink: /Main Story/Chapter 27_13/
 excerpt: "第廿七章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿七章_13. 27-13 龍血用途"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 27_13.md"
 toc: false

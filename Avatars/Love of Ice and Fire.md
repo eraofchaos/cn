@@ -2,7 +2,7 @@
 title: "頭像 - 冰火之戀"
 permalink: /Avatars/Love of Ice and Fire/
 excerpt: "魔法门之英雄无敌：战争纪元  冰火之戀"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Love of Ice and Fire.md"
 toc: false

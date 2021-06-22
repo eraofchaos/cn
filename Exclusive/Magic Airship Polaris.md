@@ -2,7 +2,7 @@
 title: "專屬 - 北極星 (Magic Airship)"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "魔法门之英雄无敌：战争纪元 北極星. 北極星. 魔法门之英雄无敌：战争纪元 專屬 北極星. 魔力飛艇 專屬."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Magic Airship 北極星.md"
 toc: false

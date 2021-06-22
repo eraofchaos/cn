@@ -2,7 +2,7 @@
 title: "地下城 - 第七章 - 7-1 財政緊張"
 permalink: /Underground/Chapter 7_1/
 excerpt: "第七章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第七章_1. 7-1 財政緊張"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 7_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 - 2-2 女巫小屋"
 permalink: /Main Story/Chapter 2_2/
 excerpt: "第二章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章_2. 2-2 女巫小屋"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 2_2.md"
 toc: false

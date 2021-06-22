@@ -2,7 +2,7 @@
 title: "副官 德肯"
 permalink: /heroes/Adjutant Dracon/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 德肯"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Adjutant Dracon.md"
 QR: adhero_61202

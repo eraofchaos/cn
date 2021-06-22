@@ -2,7 +2,7 @@
 title: "祭祀護肩"
 permalink: /equipment/Pauldrons of Ritual/
 excerpt: "魔法门之英雄无敌：战争纪元 祭祀護肩. 祭祀護肩"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Pauldrons of Ritual.md"
 toc: false

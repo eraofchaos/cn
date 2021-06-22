@@ -3,7 +3,7 @@ title: "白虎"
 permalink: /units/White Tiger/
 excerpt: "魔法门之英雄无敌：战争纪元 白虎. 白虎 兵團. null. 魔法门之英雄无敌：战争纪元 白虎可以用狂暴的白虎之靈直接摧毀敵人薄弱之處的防線，啟動瘟疫之力，逆轉戰局。"
 unitID: 809
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "白虎"
 toc: true

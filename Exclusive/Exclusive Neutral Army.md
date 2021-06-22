@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Neutral Army"
 permalink: /Exclusive/Exclusive Neutral Army/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Neutral Army. 專屬 Neutral Army. List of 專屬 Neutral Army in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Exclusive Neutral Army"
 toc: false

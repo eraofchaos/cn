@@ -2,7 +2,7 @@
 title: "炙熱利爪"
 permalink: /equipment/Scalding Claws/
 excerpt: "魔法门之英雄无敌：战争纪元 炙熱利爪. 炙熱利爪"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Scalding Claws.md"
 toc: false

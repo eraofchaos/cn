@@ -2,7 +2,7 @@
 title: "地下城 - 第廿一章 - 21-3 戰爭奴隸"
 permalink: /Underground/Chapter 21_3/
 excerpt: "第廿一章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第廿一章_3. 21-3 戰爭奴隸"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 21_3.md"
 toc: false

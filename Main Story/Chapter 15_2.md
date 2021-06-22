@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十五章 - 15-2 再起戰亂"
 permalink: /Main Story/Chapter 15_2/
 excerpt: "第十五章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十五章_2. 15-2 再起戰亂"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 15_2.md"
 toc: false

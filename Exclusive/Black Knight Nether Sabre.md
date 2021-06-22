@@ -2,7 +2,7 @@
 title: "專屬 - 斬魂 (Black Knight)"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "魔法门之英雄无敌：战争纪元 斬魂. 斬魂. 魔法门之英雄无敌：战争纪元 專屬 斬魂. 黑暗騎士 專屬."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Black Knight 斬魂.md"
 toc: false

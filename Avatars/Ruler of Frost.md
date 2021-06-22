@@ -2,7 +2,7 @@
 title: "頭像 - 冰霜主宰"
 permalink: /Avatars/Ruler of Frost/
 excerpt: "魔法门之英雄无敌：战争纪元  冰霜主宰"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Ruler of Frost.md"
 toc: false

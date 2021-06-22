@@ -2,7 +2,7 @@
 title: "繁茂頭冠"
 permalink: /equipment/Bountiful's Crown/
 excerpt: "魔法门之英雄无敌：战争纪元 繁茂頭冠. 繁茂頭冠"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Bountiful's Crown.md"
 toc: false

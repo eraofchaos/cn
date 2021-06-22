@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十八章 - 18-1 失蹤士兵"
 permalink: /Main Story/Chapter 18_1/
 excerpt: "第十八章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十八章_1. 18-1 失蹤士兵"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 18_1.md"
 toc: false

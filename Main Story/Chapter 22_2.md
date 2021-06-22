@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 - 22-2 逃命法師"
 permalink: /Main Story/Chapter 22_2/
 excerpt: "第廿二章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章_2. 22-2 逃命法師"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 22_2.md"
 toc: false

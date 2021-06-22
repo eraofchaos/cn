@@ -4,7 +4,7 @@ permalink: /heroes/Ryland/
 excerpt: "魔法门之英雄无敌：战争纪元 羅伊德. 羅伊德. 羅伊德是第一個（目前為止唯一的）被精靈族長老完全接受的人類。有人開玩笑說他曾經是小精靈，只是意外地死亡後再生成為人類。"
 heroID: 60303
 QR: hero_60303
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Ryland"
 toc: true

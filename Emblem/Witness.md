@@ -2,7 +2,7 @@
 title: "聖徽 - 見證者"
 permalink: /Emblem/Witness/
 excerpt: "魔法门之英雄无敌：战争纪元 見證者. 見證者. 魔法门之英雄无敌：战争纪元 聖徽 見證者. 魔法门之英雄无敌：战争纪元 善良 見證者"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Witness.md"
 toc: false

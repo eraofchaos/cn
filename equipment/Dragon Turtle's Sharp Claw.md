@@ -2,7 +2,7 @@
 title: "龍龜尖爪"
 permalink: /equipment/Dragon Turtle's Sharp Claw/
 excerpt: "魔法门之英雄无敌：战争纪元 龍龜尖爪. 龍龜尖爪"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Dragon Turtle's Sharp Claw.md"
 toc: false

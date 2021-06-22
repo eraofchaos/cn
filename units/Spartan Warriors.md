@@ -3,7 +3,7 @@ title: "斯巴達戰士"
 permalink: /units/Spartan Warriors/
 excerpt: "魔法门之英雄无敌：战争纪元 斯巴達戰士. 斯巴達戰士 兵團. null. 魔法门之英雄无敌：战争纪元 溫泉關下的勇士們，這裡就是我們最後的堅守，反抗入侵者，守護斯巴達！"
 unitID: 9702
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "斯巴達戰士"
 toc: true

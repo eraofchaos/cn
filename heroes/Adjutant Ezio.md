@@ -2,7 +2,7 @@
 title: "副官 埃齊歐"
 permalink: /heroes/Adjutant Ezio/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 埃齊歐"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Adjutant Ezio.md"
 QR: adhero_61901

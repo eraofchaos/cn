@@ -2,7 +2,7 @@
 title: "寶物 - 大法師寶典 - 電神掛件"
 permalink: /artifacts/Pendant of Negativity/
 excerpt: "魔法门之英雄无敌：战争纪元  大法師寶典 - 電神掛件. 形如閃電蘊含雷電之力的掛飾，大法師寶典的組件之一"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Pendant of Negativity.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "嗜血輕甲"
 permalink: /equipment/Light Armor of Bloodthirst/
 excerpt: "魔法门之英雄无敌：战争纪元 嗜血輕甲. 嗜血輕甲"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Light Armor of Bloodthirst.md"
 toc: false

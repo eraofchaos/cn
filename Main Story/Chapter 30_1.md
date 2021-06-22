@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三十章 - 30-1 魔力泉水"
 permalink: /Main Story/Chapter 30_1/
 excerpt: "第三十章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三十章_1. 30-1 魔力泉水"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 30_1.md"
 toc: false

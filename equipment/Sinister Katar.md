@@ -2,7 +2,7 @@
 title: "邪惡臂刺"
 permalink: /equipment/Sinister Katar/
 excerpt: "魔法门之英雄无敌：战争纪元 邪惡臂刺. 邪惡臂刺"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Sinister Katar.md"
 toc: false

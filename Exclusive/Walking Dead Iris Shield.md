@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀守護 (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀守護. 榮耀守護. 魔法门之英雄无敌：战争纪元 專屬 榮耀守護. 殭屍 專屬."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Walking Dead 榮耀守護.md"
 toc: false

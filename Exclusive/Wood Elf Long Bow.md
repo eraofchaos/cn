@@ -2,7 +2,7 @@
 title: "專屬 - 獵影逐風 (Wood Elf)"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "魔法门之英雄无敌：战争纪元 獵影逐風. 獵影逐風. 魔法门之英雄无敌：战争纪元 專屬 獵影逐風. 木精靈 專屬."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Wood Elf 獵影逐風.md"
 toc: false

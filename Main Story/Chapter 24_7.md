@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-7 奇異之夢"
 permalink: /Main Story/Chapter 24_7/
 excerpt: "第廿四章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_7. 24-7 奇異之夢"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 24_7.md"
 toc: false

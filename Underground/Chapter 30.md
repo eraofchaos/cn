@@ -2,7 +2,7 @@
 title: "地下城 - 第三十章 國王的拯救"
 permalink: /Underground/Chapter 30/
 excerpt: "第三十章 國王的拯救. 魔法门之英雄无敌：战争纪元  地下城 - 第三十章. 國王的拯救"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 30.md"
 toc: false

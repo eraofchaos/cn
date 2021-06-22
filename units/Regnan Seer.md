@@ -3,7 +3,7 @@ title: "海后"
 permalink: /units/Regnan Seer/
 excerpt: "魔法门之英雄无敌：战争纪元 海后. 海后 兵團. 潮汐元素. 魔法门之英雄无敌：战争纪元 深海意志的代言人，象徵著大海的威嚴，利用海洋的力量擊潰一切敵人。"
 unitID: 9907
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "海后"
 toc: true

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Unit Class Ranged"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![冰魔](/images/u/ti_bingmo.jpg) | [冰魔](/cn/units/Ice Demon/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 3 | ![大妖精](/images/u/ti_xiaoyaojing.jpg) | [大妖精](/cn/units/Gremlin/) | 射手 | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 4 | ![索爾巨人](/images/u/ti_suoerjuren.jpg) | [索爾巨人](/cn/units/Troll/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 5 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 5 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  亡瞳獵手  |
   | 6 | ![帝國弩手](/images/u/ti_nushou.jpg) | [帝國弩手](/cn/units/Marksman/) | 射手 | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  神射手  |
   | 7 | ![美杜莎](/images/u/ti_meidusha.jpg) | [美杜莎](/cn/units/Medusa/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  美杜莎女王  |
   | 8 | ![蜥蜴人](/images/u/ti_xiyiren.jpg) | [蜥蜴人](/cn/units/Lizardman/) | 射手 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

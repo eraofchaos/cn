@@ -2,7 +2,7 @@
 title: "瘟疫龍爪"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "魔法门之英雄无敌：战争纪元 瘟疫龍爪. 瘟疫龍爪"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Plague Dragon Claw.md"
 toc: false

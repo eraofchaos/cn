@@ -2,7 +2,7 @@
 title: "邪惡輕甲"
 permalink: /equipment/Sinister Light Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 邪惡輕甲. 邪惡輕甲"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Sinister Light Armor.md"
 toc: false

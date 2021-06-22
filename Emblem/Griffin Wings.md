@@ -2,7 +2,7 @@
 title: "聖徽 - 獅鷲之翼"
 permalink: /Emblem/Griffin Wings/
 excerpt: "魔法门之英雄无敌：战争纪元 獅鷲之翼. 獅鷲之翼. 魔法门之英雄无敌：战争纪元 聖徽 獅鷲之翼. 魔法门之英雄无敌：战争纪元 守序 獅鷲之翼"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Griffin Wings.md"
 toc: false

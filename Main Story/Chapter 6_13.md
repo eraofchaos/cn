@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-13 為了正義"
 permalink: /Main Story/Chapter 6_13/
 excerpt: "第六章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_13. 6-13 為了正義"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 6_13.md"
 toc: false

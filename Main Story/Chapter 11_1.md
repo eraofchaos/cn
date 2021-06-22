@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十一章 - 11-1 解放戰爭"
 permalink: /Main Story/Chapter 11_1/
 excerpt: "第十一章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十一章_1. 11-1 解放戰爭"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 11_1.md"
 toc: false

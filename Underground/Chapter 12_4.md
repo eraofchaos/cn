@@ -2,7 +2,7 @@
 title: "地下城 - 第十二章 - 12-4 天使聖光"
 permalink: /Underground/Chapter 12_4/
 excerpt: "第十二章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第十二章_4. 12-4 天使聖光"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 12_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "專屬 - 無畏狂攻 (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "魔法门之英雄无敌：战争纪元 無畏狂攻. 無畏狂攻. 魔法门之英雄无敌：战争纪元 專屬 無畏狂攻. 豺狼人 專屬."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Gnoll 無畏狂攻.md"
 toc: false

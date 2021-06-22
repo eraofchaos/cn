@@ -3,7 +3,7 @@ title: "夢魘獸"
 permalink: /units/Nightmare/
 excerpt: "魔法门之英雄无敌：战争纪元 夢魘獸. 夢魘獸 兵團. 煉獄血蹄. 魔法门之英雄无敌：战争纪元 夢魘獸能帶來地獄的力量，永恆的夢魘能不斷削弱敵人的防禦，將敵人拖入深淵。"
 unitID: 508
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "夢魘獸"
 toc: true

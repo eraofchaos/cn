@@ -2,7 +2,7 @@
 title: "寶物 - 天使聯盟 - 神諭之冠"
 permalink: /artifacts/Helm of Heavenly Enlightenment/
 excerpt: "魔法门之英雄无敌：战争纪元  天使聯盟 - 神諭之冠. 受神祝福的冠冕，天使聯盟的元件之一"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Helm of Heavenly Enlightenment.md"
 toc: false

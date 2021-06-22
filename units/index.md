@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "index.md"
 toc: false
@@ -41,7 +41,7 @@ classes: wide
   | 19 | ![大法師](/images/u/ti_dafashi.jpg) | [大法師](/cn/units/Arch Mage/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  祕法大師  |
   | 20 | ![娜迦蛇妖](/images/u/ti_shenv.jpg) | [娜迦蛇妖](/cn/units/Naga/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  娜迦女王  |
   | 21 | ![審判官](/images/u/ti_shenpanguan.jpg) | [審判官](/cn/units/Judicator/) | 魔法 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
-  | 22 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 22 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  亡瞳獵手  |
   | 23 | ![小惡魔](/images/u/ti_xiaoemo.jpg) | [小惡魔](/cn/units/Imp/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  詭變魔僕  |
   | 24 | ![巫妖](/images/u/ti_wuyao.jpg) | [巫妖](/cn/units/Lich/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  寂亡女士  |
   | 25 | ![帝國弩手](/images/u/ti_nushou.jpg) | [帝國弩手](/cn/units/Marksman/) | 射手 | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  神射手  |
@@ -63,7 +63,7 @@ classes: wide
   | 41 | ![泰坦巨人](/images/u/ti_taitan.jpg) | [泰坦巨人](/cn/units/Giant/) | 魔法 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  雷霆使者  |
   | 42 | ![海后](/images/u/ti_haihou.jpg) | [海后](/cn/units/Regnan Seer/) | 魔法 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  潮汐元素  |
   | 43 | ![海靈](/images/u/ti_haiyuansu.jpg) | [海靈](/cn/units/Sea Elemental/) | 魔法 | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  潮汐元素  |
-  | 44 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 44 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 45 | ![烈火精靈](/images/u/ti_liehuojingling.jpg) | [烈火精靈](/cn/units/Efreeti/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  烈火暴徒  |
   | 46 | ![牛頭怪](/images/u/ti_niutouguai.jpg) | [牛頭怪](/cn/units/Minotaur/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  米諾陶洛斯  |
   | 47 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  死亡咆哮者  |
@@ -105,7 +105,7 @@ classes: wide
   | 83 | ![骷髏戰士](/images/u/ti_kulouzhanshi.jpg) | [骷髏戰士](/cn/units/Skeleton/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  骷髏王  |
   | 84 | ![魔力飛艇](/images/u/ti_reqiqiu.jpg) | [魔力飛艇](/cn/units/Magic Airship/) | 魔法 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 85 | ![魔法仙靈](/images/u/ti_mofaxianling.jpg) | [魔法仙靈](/cn/units/Sprite/) | 突擊 | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  精靈魔法使  |
-  | 86 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 86 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  潮汐庭衛  |
   | 87 | ![鳳凰](/images/u/ti_fenghuang.jpg) | [鳳凰](/cn/units/Firebird/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  烈焰主宰  |
   | 88 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
   | 89 | ![黑暗騎士](/images/u/ti_siwangqishi.jpg) | [黑暗騎士](/cn/units/Black Knight/) | 突擊 | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  恐懼領主  |

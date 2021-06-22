@@ -1,9 +1,9 @@
 ---
 title: "鮫人守衛"
 permalink: /units/Regnan Serpent/
-excerpt: "魔法门之英雄无敌：战争纪元 鮫人守衛. 鮫人守衛 兵團. . 魔法门之英雄无敌：战争纪元 海王座前最忠誠的侍從，利用巨浪的力量捍衛海王的尊嚴。"
+excerpt: "魔法门之英雄无敌：战争纪元 鮫人守衛. 鮫人守衛 兵團. 潮汐庭衛. 魔法门之英雄无敌：战争纪元 海王座前最忠誠的侍從，利用巨浪的力量捍衛海王的尊嚴。"
 unitID: 9904
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "鮫人守衛"
 toc: true
@@ -192,43 +192,43 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_yurenyongshi.jpg)
+  ![潮汐庭衛](/images/u/tia_yurenyongshi.jpg)
 
 ### Awaking 詳情
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** 潮汐庭衛
 
- **Awaking 玩法詳解:** 
+ **Awaking 玩法詳解:** 波濤洶湧的雨夜驅趕了所有的漁船，而這對於鮫人們正是一場盛會，他們紛紛浮出海面，踏浪狂歡，在雨水和巨浪中感受自然的力量，這一切就像是一個儀式，鮫人們就此覺醒
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">鮫人守衛上陣且港口兵團至少上陣</span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px">個，通關1次冷酷級或以上龍之國。(掃蕩不計入任務）</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">在聯盟探索中，採集</span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px">件裝備。</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">在地下城15-2,15-4中收集</span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px">個潮汐庭衛英魂。</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">上陣鮫人守衛于冠軍對決中取得</span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px">次勝利。</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **玩法詳解:** 
+### 1st Skill (or 2nd): 深海震盪
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【深海踐踏】</span><span style="color: #645252;font-size:18px">傷害效果翻倍並降低目標敵方單位20%兵團傷害，持續5秒</span>
 
-### 2nd Skill (or 1st): 
- **玩法詳解:** 
+### 2nd Skill (or 1st): 遠洋震盪
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【深海踐踏】</span><span style="color: #645252;font-size:18px">傷害效果翻倍並降低目標敵方單位20%兵團免傷，持續5秒</span>
 
-### 3rd Skill (or 4th): 
- **玩法詳解:** 
+### 3rd Skill (or 4th): 潮汐守護
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【潮汐指引】</span><span style="color: #645252;font-size:18px">該技能增益層數增加2層</span>
 
-### 4th Skill (or 3rd): 
- **玩法詳解:** 
+### 4th Skill (or 3rd): 潛流指引
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【潮汐指引】</span><span style="color: #645252;font-size:18px">該技能每層增益效果提高50%</span>
 
-### 5th Skill (or 6th): 
- **玩法詳解:** 
+### 5th Skill (or 6th): 鮫衛號角
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【衝鋒號角】</span><span style="color: #645252;font-size:18px">降低自身周圍極大範圍內的敵方兵團20%防禦和100韌性值，效果持續7秒，對「減速」狀態的敵方兵團效果增加50%</span>
 
-### 6th Skill (or 5th): 
- **玩法詳解:** 
+### 6th Skill (or 5th): 人魚號角
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【衝鋒號角】</span><span style="color: #645252;font-size:18px">降低自身周圍極大範圍內的敵方兵團20%攻速和100暴擊值，效果持續7秒，對「減速」狀態的敵方兵團效果增加50%</span>
 
 ## Technical info
  **runart:** 1

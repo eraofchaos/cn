@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-6 國王刺客"
 permalink: /Main Story/Chapter 21_6/
 excerpt: "第廿一章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_6. 21-6 國王刺客"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 21_6.md"
 toc: false

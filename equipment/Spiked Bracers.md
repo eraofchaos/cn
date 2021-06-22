@@ -2,7 +2,7 @@
 title: "尖刺護腕"
 permalink: /equipment/Spiked Bracers/
 excerpt: "魔法门之英雄无敌：战争纪元 尖刺護腕. 尖刺護腕"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Spiked Bracers.md"
 toc: false

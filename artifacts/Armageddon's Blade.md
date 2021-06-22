@@ -2,7 +2,7 @@
 title: "寶物 - 末日之刃"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "魔法门之英雄无敌：战争纪元  末日之刃. 末日之刃 末日的熾焰將焚盡你的靈魂。"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Armageddon's Blade.md"
 toc: false

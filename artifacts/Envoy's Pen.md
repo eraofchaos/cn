@@ -2,7 +2,7 @@
 title: "寶物 - 執政者之筆"
 permalink: /artifacts/Envoy's Pen/
 excerpt: "魔法门之英雄无敌：战争纪元  執政者之筆. 執政者之筆 力量和權力的象徵，屬於勝利者的至尊聖器"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Envoy's Pen.md"
 toc: false

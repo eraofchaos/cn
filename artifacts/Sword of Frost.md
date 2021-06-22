@@ -2,7 +2,7 @@
 title: "寶物 - 寒冰之劍"
 permalink: /artifacts/Sword of Frost/
 excerpt: "魔法门之英雄无敌：战争纪元  寒冰之劍. 寒冰之劍 無盡的冰川摧毀了它所誕生的城市。"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Sword of Frost.md"
 toc: false

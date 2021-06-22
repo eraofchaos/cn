@@ -4,7 +4,7 @@ permalink: /heroes/Adelaide/
 excerpt: "魔法门之英雄无敌：战争纪元 艾德雷德. 艾德雷德. 艾德雷德在一次海難中無意間進入了風雪精靈的領地。在那裡她接受了二十多年的訓練，並在回到艾拉西亞後，成為了王國中最優秀的法師。"
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Adelaide"
 toc: true

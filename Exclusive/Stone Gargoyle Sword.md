@@ -2,7 +2,7 @@
 title: "專屬 - 無畏狂攻 (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "魔法门之英雄无敌：战争纪元 無畏狂攻. 無畏狂攻. 魔法门之英雄无敌：战争纪元 專屬 無畏狂攻. 石像鬼 專屬."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Stone Gargoyle 無畏狂攻.md"
 toc: false

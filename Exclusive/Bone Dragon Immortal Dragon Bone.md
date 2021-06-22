@@ -2,7 +2,7 @@
 title: "專屬 - 冥骸 (Bone Dragon)"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "魔法门之英雄无敌：战争纪元 冥骸. 冥骸. 魔法门之英雄无敌：战争纪元 專屬 冥骸. 骨龍 專屬."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Bone Dragon 冥骸.md"
 toc: false

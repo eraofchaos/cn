@@ -2,7 +2,7 @@
 title: "寶物 - 報復之鏡 - 混亂火盆"
 permalink: /artifacts/Chaos Brazier/
 excerpt: "魔法门之英雄无敌：战争纪元  報復之鏡 - 混亂火盆. 用於存儲火焰魔法力量的道具，報復之鏡的組件之一"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chaos Brazier.md"
 toc: false

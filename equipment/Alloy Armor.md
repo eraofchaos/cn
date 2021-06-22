@@ -2,7 +2,7 @@
 title: "合金裝甲"
 permalink: /equipment/Alloy Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 合金裝甲. 合金裝甲"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Alloy Armor.md"
 toc: false

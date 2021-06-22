@@ -4,7 +4,7 @@ permalink: /heroes/Peter Lee/
 excerpt: "魔法门之英雄无敌：战争纪元 彼得李. 彼得李. 彼得李是一位久負盛名的傳奇海盜，然而比起燒殺搶掠他似乎更喜歡寶藏和冒險，有傳言說他和他的船隊曾到過世界的盡頭。"
 heroID: 61801
 QR: hero_61801
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Peter Lee"
 toc: true

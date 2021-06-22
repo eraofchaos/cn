@@ -2,7 +2,7 @@
 title: "戰陣 魔法塔樓"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "戰陣 魔法塔樓"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "BattleFormationFactionTower"
 toc: false

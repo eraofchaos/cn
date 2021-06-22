@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Unit Member x1"
 toc: false
@@ -22,9 +22,9 @@ classes: wide
   | 8 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  死亡咆哮者  |
   | 9 | ![叢林妖精](/images/u/ti_conglinyaojing.jpg) | [叢林妖精](/cn/units/Leprechaun/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  神樹守靈  |
   | 10 | ![索爾巨人](/images/u/ti_suoerjuren.jpg) | [索爾巨人](/cn/units/Troll/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 11 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 11 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  亡瞳獵手  |
   | 12 | ![大惡魔](/images/u/ti_daemo.jpg) | [大惡魔](/cn/units/Devil/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  原罪魔王  |
-  | 13 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 13 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 14 | ![娜迦蛇妖](/images/u/ti_shenv.jpg) | [娜迦蛇妖](/cn/units/Naga/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  娜迦女王  |
   | 15 | ![龍龜](/images/u/ti_longgui.jpg) | [龍龜](/cn/units/Dragon Turtle/) | 防禦 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  遠古龍龜  |
   | 16 | ![泰坦巨人](/images/u/ti_taitan.jpg) | [泰坦巨人](/cn/units/Giant/) | 魔法 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  雷霆使者  |

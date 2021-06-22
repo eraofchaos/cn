@@ -2,7 +2,7 @@
 title: "寶物 - 魔力源泉 - 魔法護符"
 permalink: /artifacts/Magic Charm/
 excerpt: "魔法门之英雄无敌：战争纪元  魔力源泉 - 魔法護符. 蘊含著魔法力量的護符，魔力源泉的元件之一"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Magic Charm.md"
 toc: false

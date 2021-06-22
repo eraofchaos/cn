@@ -2,7 +2,7 @@
 title: "寶物 - 寒冰之劍 - 冰晶護盾"
 permalink: /artifacts/Ice Crystal Shield/
 excerpt: "魔法门之英雄无敌：战争纪元  寒冰之劍 - 冰晶護盾. 在布拉卡達高原上封存的聖盾，寒冰之劍的元件之一"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Ice Crystal Shield.md"
 toc: false

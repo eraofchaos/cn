@@ -2,7 +2,7 @@
 title: "聖徽 - 遠古祕火"
 permalink: /Emblem/Ancient Fire/
 excerpt: "魔法门之英雄无敌：战争纪元 遠古祕火. 遠古祕火. 魔法门之英雄无敌：战争纪元 聖徽 遠古祕火. 魔法门之英雄无敌：战争纪元 守序 遠古祕火"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Ancient Fire.md"
 toc: false

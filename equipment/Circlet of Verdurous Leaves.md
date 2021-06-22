@@ -2,7 +2,7 @@
 title: "翠葉髮帶"
 permalink: /equipment/Circlet of Verdurous Leaves/
 excerpt: "魔法门之英雄无敌：战争纪元 翠葉髮帶. 翠葉髮帶"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Circlet of Verdurous Leaves.md"
 toc: false

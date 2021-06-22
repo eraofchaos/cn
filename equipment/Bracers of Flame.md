@@ -2,7 +2,7 @@
 title: "烈火護臂"
 permalink: /equipment/Bracers of Flame/
 excerpt: "魔法门之英雄无敌：战争纪元 烈火護臂. 烈火護臂"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Bracers of Flame.md"
 toc: false

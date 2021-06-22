@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十四章 安全通道"
 permalink: /Main Story/Chapter 14/
 excerpt: "第十四章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十四章. 安全通道"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Chapter 14.md"
 toc: false

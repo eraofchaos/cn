@@ -2,7 +2,7 @@
 title: "寶物 - 魔法師之帽 - 氣系魔法書"
 permalink: /artifacts/Tome of Air Magic/
 excerpt: "魔法门之英雄无敌：战争纪元  魔法師之帽 - 氣系魔法書. 這是一本記載著高階氣系魔法的魔法書，翻閱時你能感受到氣系元素，魔法師之帽的元件之一"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Tome of Air Magic.md"
 toc: false

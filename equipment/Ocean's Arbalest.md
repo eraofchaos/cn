@@ -2,7 +2,7 @@
 title: "海神勁弩"
 permalink: /equipment/Ocean's Arbalest/
 excerpt: "魔法门之英雄无敌：战争纪元 海神勁弩. 海神勁弩"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Ocean's Arbalest.md"
 toc: false

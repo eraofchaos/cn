@@ -2,7 +2,7 @@
 title: "戰陣 幽暗地城"
 permalink: /Battle Formation/Battle Formation Faction Dungeon
 excerpt: "戰陣 幽暗地城"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "BattleFormationFactionDungeon"
 toc: false

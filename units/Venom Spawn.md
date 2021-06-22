@@ -3,14 +3,11 @@ title: "炎魔"
 permalink: /units/Venom Spawn/
 excerpt: "魔法门之英雄无敌：战争纪元 炎魔. 炎魔 兵團. null. 魔法门之英雄无敌：战争纪元 在墮落的地獄之火中，誕生於火焰與陰影中的惡魔，它們是人們傳說中的最令人恐懼的夢魘，將身上罪惡的業火燃遍了每一處戰場。"
 unitID: 509
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "炎魔"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![炎魔](/images/u/ti_yanmo.jpg)
 
 ## General information
@@ -30,14 +27,14 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/cn/units/Star 3/)
 
- **Unit Soul:** [Tool_3509](/cn/Items/unt_234/)
+ **Unit Soul:** [炎魔](/cn/Items/unt_234/)
 
  **Short description:** 掠魂翻盤 致死而生
 
  **Position :** 掠魂翻盤 致死而生
 
 ## 基礎屬性
- **Base HP: 13350.0**
+ **Base HP: 14000.0**
 
  **Base ATK: 375.0**
 
@@ -45,37 +42,37 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | 綠色 | 187.5 | 16.0 | 10012.5 |
-  | 藍色 | 375.0 | 32.0 | 20025.0 |
-  | 藍色 +1 | 562.5 | 48.0 | 30037.5 |
-  | 藍色 +2 | 787.5 | 67.2 | 42052.5 |
-  | 紫色 | 1012.5 | 86.4 | 54067.5 |
-  | 紫色 +1 | 1237.5 | 105.6 | 66082.5 |
-  | 紫色 +2 | 1500.0 | 128.0 | 80100.0 |
-  | 紫色 +3 | 1762.5 | 150.4 | 94117.5 |
-  | 橙色 | 2025.0 | 172.8 | 108135.0 |
-  | 橙色 +1 | 2325.0 | 198.4 | 124155.0 |
-  | 橙色 +2 | 2625.0 | 224.0 | 140175.0 |
-  | 橙色 +3 | 2925.0 | 249.6 | 156195.0 |
-  | 橙色 +4 | 3225.0 | 275.2 | 172215.0 |
-  | 橙色 +5 | 3675.0 | 313.6 | 196245.0 |
-  | 紅 | 4275.0 | 364.8 | 228285.0 |
+  | 綠色 | 187.5 | 20.5 | 10500.0 |
+  | 藍色 | 375.0 | 41.0 | 21000.0 |
+  | 藍色 +1 | 562.5 | 61.5 | 31500.0 |
+  | 藍色 +2 | 787.5 | 86.1 | 44100.0 |
+  | 紫色 | 1012.5 | 110.7 | 56700.0 |
+  | 紫色 +1 | 1237.5 | 135.3 | 69300.0 |
+  | 紫色 +2 | 1500.0 | 164.0 | 84000.0 |
+  | 紫色 +3 | 1762.5 | 192.7 | 98700.0 |
+  | 橙色 | 2025.0 | 221.4 | 113400.0 |
+  | 橙色 +1 | 2325.0 | 254.2 | 130200.0 |
+  | 橙色 +2 | 2625.0 | 287.0 | 147000.0 |
+  | 橙色 +3 | 2925.0 | 319.8 | 163800.0 |
+  | 橙色 +4 | 3225.0 | 352.6 | 180600.0 |
+  | 橙色 +5 | 3675.0 | 401.8 | 205800.0 |
+  | 紅 | 4275.0 | 467.4 | 239400.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 52.5 | 0.33 | 8.04 | 1869.0 |
-  | **4x** <i class="fas fa-star"/> | 60.0 | 0.35 | 8.86 | 2136.0 |
-  | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 9.68 | 2403.0 |
-  | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 10.5 | 2670.0 |
+  | **3x** <i class="fas fa-star"/> | 52.5 | 0.33 | 10.02 | 1960.0 |
+  | **4x** <i class="fas fa-star"/> | 60.0 | 0.35 | 10.93 | 2240.0 |
+  | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 11.84 | 2520.0 |
+  | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 12.75 | 2800.0 |
 
 ## 裝備
 
   | I | 裝備  |  Basic stat 1 | Basic stat 2 | 
   |:-:|:-------------|:-------------:|:------------:|
-  | ![UnknownEquipment_5091](/images/e/e_5091.png) | [UnknownEquipment_5091](/cn/equipment/UnknownEquipment_5091/) | **攻擊** | **防禦** | 
-  | ![UnknownEquipment_5092](/images/e/e_5092.png) | [UnknownEquipment_5092](/cn/equipment/UnknownEquipment_5092/) | **生命** | **防禦** | 
-  | ![UnknownEquipment_5093](/images/e/e_5093.png) | [UnknownEquipment_5093](/cn/equipment/UnknownEquipment_5093/) | **攻擊** | **防禦** | 
-  | ![UnknownEquipment_5094](/images/e/e_5094.png) | [UnknownEquipment_5094](/cn/equipment/UnknownEquipment_5094/) | **生命** | **防禦** | 
+  | ![魔獸瞳孔](/images/e/e_5091.png) | [魔獸瞳孔](/cn/equipment/Beastly Eye/) | **攻擊** | **防禦** | 
+  | ![死亡吞噬](/images/e/e_5092.png) | [死亡吞噬](/cn/equipment/Swallow of Death/) | **生命** | **防禦** | 
+  | ![熾炎之握](/images/e/e_5093.png) | [熾炎之握](/cn/equipment/Fire's Grasp/) | **攻擊** | **防禦** | 
+  | ![烈火殘遺](/images/e/e_5094.png) | [烈火殘遺](/cn/equipment/Remnant of Flames/) | **生命** | **防禦** | 
 
 ## 專屬
 
@@ -223,6 +220,7 @@ toc: true
 ### 英雄關聯
 * [孟斐拉](/cn/heroes/Mephala/)  ->   專長：<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [塞爾倫](/cn/heroes/Xeron/)  ->   專長：<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [納美斯](/cn/heroes/Nymus/)  ->   專長：<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## 天賦
 
@@ -307,7 +305,7 @@ toc: true
 
  **label1:** 4
 
- **speedmove:** 110
+ **speedmove:** 90
 
  **posclass:** 2
 

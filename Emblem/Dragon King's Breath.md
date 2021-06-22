@@ -2,7 +2,7 @@
 title: "聖徽 - 龍王之息"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "魔法门之英雄无敌：战争纪元 龍王之息. 龍王之息. 魔法门之英雄无敌：战争纪元 聖徽 龍王之息. 魔法门之英雄无敌：战争纪元 邪惡 龍王之息"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Dragon King's Breath.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Unit Rank SR"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | ![烈火精靈](/images/u/ti_liehuojingling.jpg) | [烈火精靈](/cn/units/Efreeti/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  烈火暴徒  |
   | 12 | ![石像鬼](/images/u/ti_shixianggui.jpg) | [石像鬼](/cn/units/Stone Gargoyle/) | 攻擊 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 13 | ![大法師](/images/u/ti_dafashi.jpg) | [大法師](/cn/units/Arch Mage/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  祕法大師  |
-  | 14 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 14 | ![鮫人守衛](/images/u/ti_yurenyongshi.jpg) | [鮫人守衛](/cn/units/Regnan Serpent/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  潮汐庭衛  |
   | 15 | ![夢魘獸](/images/u/ti_mengyanshou.jpg) | [夢魘獸](/cn/units/Nightmare/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  煉獄血蹄  |
   | 16 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
   | 17 | ![神燈](/images/u/ti_shenguai.jpg) | [神燈](/cn/units/Genie/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  如願燈神  |
