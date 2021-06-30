@@ -2,7 +2,7 @@
 title: "主線劇情 - 第四章 - 4-7 喚風塔樓"
 permalink: /Main Story/Chapter 4_7/
 excerpt: "第四章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第四章_7. 4-7 喚風塔樓"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 4_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Warlock -  Heroes"
 permalink: /heroes/Profession Warlock/
 excerpt: "魔法门之英雄无敌：战争纪元 Profession Warlock. Profession Warlock. List of Profession  in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Profession Warlock"
 toc: false

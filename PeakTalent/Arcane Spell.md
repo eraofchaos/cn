@@ -2,7 +2,7 @@
 title: "法術奧義. 巔峰天賦 - 法術奧義"
 permalink: /PeakTalent/Arcane Spell/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 法術奧義. 巔峰天賦 法術奧義. 法術奧義"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Arcane Spell.md"
 toc: false

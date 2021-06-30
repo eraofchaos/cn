@@ -2,7 +2,7 @@
 title: "寶物 - 金蘋果 - 水晶骷髏"
 permalink: /artifacts/Crystal Skull/
 excerpt: "魔法门之英雄无敌：战争纪元  金蘋果 - 水晶骷髏. 未知文明利用水晶打磨出的骷髏，擁有看透人心的力量"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Crystal Skull.md"
 toc: false

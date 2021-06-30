@@ -2,7 +2,7 @@
 title: "勇者騎槍"
 permalink: /equipment/Cavalier's Lance/
 excerpt: "魔法门之英雄无敌：战争纪元 勇者騎槍. 勇者騎槍"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Cavalier's Lance.md"
 toc: false

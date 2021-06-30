@@ -2,7 +2,7 @@
 title: "升空系統"
 permalink: /equipment/Lift-off System/
 excerpt: "魔法门之英雄无敌：战争纪元 升空系統. 升空系統"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Lift-off System.md"
 toc: false

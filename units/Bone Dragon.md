@@ -3,7 +3,7 @@ title: "骨龍"
 permalink: /units/Bone Dragon/
 excerpt: "魔法门之英雄无敌：战争纪元 骨龍. 骨龍 兵團. 鬼龍. 魔法门之英雄无敌：战争纪元 儘管龍族一直將骨龍視為生死大敵，但作為墓園的頂級兵種，骨龍與龍族仍為勢均力敵的存在。"
 unitID: 307
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "骨龍"
 toc: true

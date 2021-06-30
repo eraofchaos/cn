@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿五章 - 25-2 地下世界"
 permalink: /Main Story/Chapter 25_2/
 excerpt: "第廿五章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿五章_2. 25-2 地下世界"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 25_2.md"
 toc: false

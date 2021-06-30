@@ -2,7 +2,7 @@
 title: "地下城 - 第廿八章 地下通道"
 permalink: /Underground/Chapter 28/
 excerpt: "第廿八章 地下通道. 魔法门之英雄无敌：战争纪元  地下城 - 第廿八章. 地下通道"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 28.md"
 toc: false

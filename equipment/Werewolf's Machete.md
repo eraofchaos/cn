@@ -2,7 +2,7 @@
 title: "狼人彎刀"
 permalink: /equipment/Werewolf's Machete/
 excerpt: "魔法门之英雄无敌：战争纪元 狼人彎刀. 狼人彎刀"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Werewolf's Machete.md"
 toc: false

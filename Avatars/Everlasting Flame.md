@@ -2,7 +2,7 @@
 title: "頭像 - 永世炙焰"
 permalink: /Avatars/Everlasting Flame/
 excerpt: "魔法门之英雄无敌：战争纪元  永世炙焰"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Everlasting Flame.md"
 toc: false

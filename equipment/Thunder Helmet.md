@@ -2,7 +2,7 @@
 title: "雷雲頭盔"
 permalink: /equipment/Thunder Helmet/
 excerpt: "魔法门之英雄无敌：战争纪元 雷雲頭盔. 雷雲頭盔"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Thunder Helmet.md"
 toc: false

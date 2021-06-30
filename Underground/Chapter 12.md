@@ -2,7 +2,7 @@
 title: "地下城 - 第十二章 罪的懲罰"
 permalink: /Underground/Chapter 12/
 excerpt: "第十二章 罪的懲罰. 魔法门之英雄无敌：战争纪元  地下城 - 第十二章. 罪的懲罰"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 12.md"
 toc: false

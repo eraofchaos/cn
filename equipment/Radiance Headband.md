@@ -2,7 +2,7 @@
 title: "輝耀頭環"
 permalink: /equipment/Radiance Headband/
 excerpt: "魔法门之英雄无敌：战争纪元 輝耀頭環. 輝耀頭環"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Radiance Headband.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Dungeon. 專屬 Dungeon. List of 專屬 Dungeon in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Exclusive Dungeon"
 toc: false

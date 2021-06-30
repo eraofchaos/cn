@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十二章 - 12-13 隱藏之密"
 permalink: /Main Story/Chapter 12_13/
 excerpt: "第十二章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十二章_13. 12-13 隱藏之密"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 12_13.md"
 toc: false

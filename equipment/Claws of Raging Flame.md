@@ -2,7 +2,7 @@
 title: "烈焰利爪"
 permalink: /equipment/Claws of Raging Flame/
 excerpt: "魔法门之英雄无敌：战争纪元 烈焰利爪. 烈焰利爪"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Claws of Raging Flame.md"
 toc: false

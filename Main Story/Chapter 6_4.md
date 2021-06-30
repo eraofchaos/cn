@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-4 死亡詛咒"
 permalink: /Main Story/Chapter 6_4/
 excerpt: "第六章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_4. 6-4 死亡詛咒"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 6_4.md"
 toc: false

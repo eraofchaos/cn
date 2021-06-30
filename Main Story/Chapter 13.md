@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 日日夜夜"
 permalink: /Main Story/Chapter 13/
 excerpt: "第十三章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章. 日日夜夜"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 13.md"
 toc: false

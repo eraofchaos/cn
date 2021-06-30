@@ -2,7 +2,7 @@
 title: "巨力腰帶"
 permalink: /equipment/Mighty Belt/
 excerpt: "魔法门之英雄无敌：战争纪元 巨力腰帶. 巨力腰帶"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Mighty Belt.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "永固鐐銬"
 permalink: /equipment/Shackles of War/
 excerpt: "魔法门之英雄无敌：战争纪元 永固鐐銬. 永固鐐銬"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Shackles of War.md"
 toc: false

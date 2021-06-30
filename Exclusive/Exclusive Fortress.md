@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Fortress. 專屬 Fortress. List of 專屬 Fortress in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Exclusive Fortress"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | 專屬 | Open  |    Type   |  Item to Rank UP      |  塗裝   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [豺狼人](/cn/units/Gnoll/) | [無畏狂攻](/cn/Exclusive/Gnoll Sword/) | - | 衝鋒 | [無畏狂攻碎片](/cn/Items/con_912/) | - |
+  | 1  | [豺狼人](/cn/units/Gnoll/) | [無畏狂攻](/cn/Exclusive/Gnoll Sword/) | + | 衝鋒 | [無畏狂攻碎片](/cn/Items/con_912/) | - |
   | 2  | [蜥蜴人](/cn/units/Lizardman/) | [獵影逐風](/cn/Exclusive/Lizardman Long Bow/) | + | 衝鋒 | [獵影逐風碎片](/cn/Items/con_914/) | - |
   | 3  | [龍蠅](/cn/units/Serpent Fly/) | [奧術詠唱](/cn/Exclusive/Serpent Fly Arcane Chant/) | + | 衝鋒 | [奧術詠唱碎片](/cn/Items/con_915/) | - |
   | 4  | [蜥蜴](/cn/units/Basilisk/) | [巴吉裡斯克](/cn/Exclusive/Basilisk Basilisk's Tail/) | - | 遠距 | [巴吉裡斯克碎片](/cn/Items/con_994/) | [巴吉里斯克特效塗裝](/cn/Items/con_662/) |

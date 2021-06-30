@@ -2,7 +2,7 @@
 title: "寶物 - 報復之鏡 - 寒冰天平"
 permalink: /artifacts/Ice Scale/
 excerpt: "魔法门之英雄无敌：战争纪元  報復之鏡 - 寒冰天平. 用於調節冰霜魔法力量的道具，報復之鏡的組件之一"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Ice Scale.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "組合說明 for 瘟疫"
 permalink: /combination/Plague/
 excerpt: "組合說明 - 瘟疫. Units and Heroes Formation."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "瘟疫.md"
 toc: false

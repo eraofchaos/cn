@@ -2,7 +2,7 @@
 title: "競技之盾. 巔峰天賦 - 競技之盾"
 permalink: /PeakTalent/Shield of Gladiators/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 競技之盾. 巔峰天賦 競技之盾. 競技之盾"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Shield of Gladiators.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "人魚之衣"
 permalink: /equipment/Cloth of the Mermaid/
 excerpt: "魔法门之英雄无敌：战争纪元 人魚之衣. 人魚之衣"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Cloth of the Mermaid.md"
 toc: false

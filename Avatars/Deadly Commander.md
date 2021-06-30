@@ -2,7 +2,7 @@
 title: "頭像 - 死亡統領"
 permalink: /Avatars/Deadly Commander/
 excerpt: "魔法门之英雄无敌：战争纪元  死亡統領"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Deadly Commander.md"
 toc: false

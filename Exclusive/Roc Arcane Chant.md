@@ -2,7 +2,7 @@
 title: "專屬 - 奧術詠唱 (Roc)"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "魔法门之英雄无敌：战争纪元 奧術詠唱. 奧術詠唱. 魔法门之英雄无敌：战争纪元 專屬 奧術詠唱. 雷鳥 專屬."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Roc 奧術詠唱.md"
 toc: false

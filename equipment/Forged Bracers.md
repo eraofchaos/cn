@@ -2,7 +2,7 @@
 title: "百鍛護臂"
 permalink: /equipment/Forged Bracers/
 excerpt: "魔法门之英雄无敌：战争纪元 百鍛護臂. 百鍛護臂"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Forged Bracers.md"
 toc: false

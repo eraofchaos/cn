@@ -2,7 +2,7 @@
 title: "地下城 - 第廿四章 - 24-2 火焰煉獄"
 permalink: /Underground/Chapter 24_2/
 excerpt: "第廿四章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第廿四章_2. 24-2 火焰煉獄"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 24_2.md"
 toc: false

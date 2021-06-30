@@ -2,7 +2,7 @@
 title: "寶物 - 金蘋果 - 伊甸權杖"
 permalink: /artifacts/Staff of Eden/
 excerpt: "魔法门之英雄无敌：战争纪元  金蘋果 - 伊甸權杖. 先行者文明的權杖，能夠賜予持有者無盡的時間和知識"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Staff of Eden.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情"
 permalink: /Main Story/
 excerpt: "主線劇情. 魔法门之英雄无敌：战争纪元  主線劇情."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "index.md"
 toc: false

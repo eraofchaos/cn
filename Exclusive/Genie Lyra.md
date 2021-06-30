@@ -2,7 +2,7 @@
 title: "專屬 - 天琴座 (Genie)"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "魔法门之英雄无敌：战争纪元 天琴座. 天琴座. 魔法门之英雄无敌：战争纪元 專屬 天琴座. 神燈 專屬."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Genie 天琴座.md"
 toc: false

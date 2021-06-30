@@ -2,7 +2,7 @@
 title: "專屬 - 狂熱屠戮 (Berserker)"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "魔法门之英雄无敌：战争纪元 狂熱屠戮. 狂熱屠戮. 魔法门之英雄无敌：战争纪元 專屬 狂熱屠戮. 狂戰士 專屬."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Berserker 狂熱屠戮.md"
 toc: false

@@ -3,7 +3,7 @@ title: "石元素"
 permalink: /units/Stone Elemental/
 excerpt: "魔法门之英雄无敌：战争纪元 石元素. 石元素 兵團. null. 魔法门之英雄无敌：战争纪元 在地質作用下由多種礦物所組成的混合元素，石元素在倒下後會分裂成石頭人繼續作戰。"
 unitID: 905
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "石元素"
 toc: true

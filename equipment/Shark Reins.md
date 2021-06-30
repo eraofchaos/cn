@@ -2,7 +2,7 @@
 title: "馴鯊韁繩"
 permalink: /equipment/Shark Reins/
 excerpt: "魔法门之英雄无敌：战争纪元 馴鯊韁繩. 馴鯊韁繩"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Shark Reins.md"
 toc: false

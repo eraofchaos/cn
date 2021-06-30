@@ -2,7 +2,7 @@
 title: "破脊骨刺"
 permalink: /equipment/Spine-breaking Stab/
 excerpt: "魔法门之英雄无敌：战争纪元 破脊骨刺. 破脊骨刺"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Spine-breaking Stab.md"
 toc: false

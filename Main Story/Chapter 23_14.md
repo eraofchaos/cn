@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-14 硫磺氣味"
 permalink: /Main Story/Chapter 23_14/
 excerpt: "第廿三章 - 14. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_14. 23-14 硫磺氣味"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 23_14.md"
 toc: false

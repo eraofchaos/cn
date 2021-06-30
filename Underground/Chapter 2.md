@@ -2,7 +2,7 @@
 title: "地下城 - 第二章 守護天使"
 permalink: /Underground/Chapter 2/
 excerpt: "第二章 守護天使. 魔法门之英雄无敌：战争纪元  地下城 - 第二章. 守護天使"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 2.md"
 toc: false

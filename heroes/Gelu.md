@@ -4,7 +4,7 @@ permalink: /heroes/Gelu/
 excerpt: "魔法门之英雄无敌：战争纪元 格魯. 格魯. 格魯是人類和精靈的混血兒、艾拉西亞最耀眼的戰士，他在為凱瑟琳女王服役時被摩根．肯達爾將軍發現並提拔。"
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Gelu"
 toc: true

@@ -2,7 +2,7 @@
 title: "專屬 - 奧術詠唱 (Monk)"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "魔法门之英雄无敌：战争纪元 奧術詠唱. 奧術詠唱. 魔法门之英雄无敌：战争纪元 專屬 奧術詠唱. 僧侶 專屬."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Monk 奧術詠唱.md"
 toc: false

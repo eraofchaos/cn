@@ -2,7 +2,7 @@
 title: "副官 肯達爾"
 permalink: /heroes/Adjutant Kendal/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 肯達爾"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Adjutant Kendal.md"
 QR: adhero_60104

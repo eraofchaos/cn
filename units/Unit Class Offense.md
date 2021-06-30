@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Unit Class Offense"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![大惡魔](/images/u/ti_daemo.jpg) | [大惡魔](/cn/units/Devil/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  原罪魔王  |
   | 9 | ![穴居人](/images/u/ti_dongxueren.jpg) | [穴居人](/cn/units/Troglodyte/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  幽暗穴居人  |
   | 10 | ![娜迦蛇妖](/images/u/ti_shenv.jpg) | [娜迦蛇妖](/cn/units/Naga/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  娜迦女王  |
-  | 11 | ![豺狼人](/images/u/ti_langren.jpg) | [豺狼人](/cn/units/Gnoll/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  豺狼勇士  |
+  | 11 | ![豺狼人](/images/u/ti_langren.jpg) | [豺狼人](/cn/units/Gnoll/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  豺狼勇士  |
   | 12 | ![大天使](/images/u/ti_datianshi.jpg) | [大天使](/cn/units/Angel/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  天使長  |
   | 13 | ![瑞格納海盜](/images/u/ti_haidao.jpg) | [瑞格納海盜](/cn/units/Regnan Pirates/) | 攻擊 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  黑帆大副  |
   | 14 | ![紅龍](/images/u/ti_chilong.jpg) | [紅龍](/cn/units/Red Dragon/) | 攻擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |

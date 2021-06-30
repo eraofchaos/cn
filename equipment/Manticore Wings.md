@@ -2,7 +2,7 @@
 title: "蠍獅之翼"
 permalink: /equipment/Manticore Wings/
 excerpt: "魔法门之英雄无敌：战争纪元 蠍獅之翼. 蠍獅之翼"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Manticore Wings.md"
 toc: false

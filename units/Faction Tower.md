@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Tower -  Units"
 permalink: /units/Faction Tower/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Tower. Faction Tower. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Faction Tower"
 toc: false

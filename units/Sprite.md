@@ -3,7 +3,7 @@ title: "魔法仙靈"
 permalink: /units/Sprite/
 excerpt: "魔法门之英雄无敌：战争纪元 魔法仙靈. 魔法仙靈 兵團. 精靈魔法使. 魔法门之英雄无敌：战争纪元 僅存於傳說和童話中的美麗仙靈，任何對她不利的角色都會遭到聽眾們的厭惡，從而結局悲慘淒涼。"
 unitID: 901
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "魔法仙靈"
 toc: true

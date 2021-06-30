@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "index.md"
 toc: false
@@ -91,7 +91,7 @@ classes: wide
   | 69 | ![蠍尾獅](/images/u/ti_shixie.jpg) | [蠍尾獅](/cn/units/Manticore/) | 突擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  曼提柯爾  |
   | 70 | ![蠻牛](/images/u/ti_manniu.jpg) | [蠻牛](/cn/units/Gorgon/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  死兆牡牛  |
   | 71 | ![訓鯊師](/images/u/ti_xunshashi.jpg) | [訓鯊師](/cn/units/Shark Trainer/) | 突擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  馭鯊狂徒  |
-  | 72 | ![豺狼人](/images/u/ti_langren.jpg) | [豺狼人](/cn/units/Gnoll/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  豺狼勇士  |
+  | 72 | ![豺狼人](/images/u/ti_langren.jpg) | [豺狼人](/cn/units/Gnoll/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  豺狼勇士  |
   | 73 | ![邪眼](/images/u/ti_xieyan.jpg) | [邪眼](/cn/units/Beholder/) | 魔法 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  深淵之眼  |
   | 74 | ![邪魔女](/images/u/ti_xiemonv.jpg) | [邪魔女](/cn/units/Evil Sorceress/) | 突擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 75 | ![銀翼飛馬](/images/u/ti_feima.jpg) | [銀翼飛馬](/cn/units/Pegasus/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  銀翼衛士  |

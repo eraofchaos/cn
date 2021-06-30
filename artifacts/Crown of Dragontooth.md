@@ -2,7 +2,7 @@
 title: "寶物 - 龍王神力 - 龍牙冠"
 permalink: /artifacts/Crown of Dragontooth/
 excerpt: "魔法门之英雄无敌：战争纪元  龍王神力 - 龍牙冠. 龍牙熔鍊而成的頭盔，龍王神力的元件之一"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Crown of Dragontooth.md"
 toc: false

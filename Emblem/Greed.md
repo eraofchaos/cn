@@ -2,7 +2,7 @@
 title: "聖徽 - 貪婪"
 permalink: /Emblem/Greed/
 excerpt: "魔法门之英雄无敌：战争纪元 貪婪. 貪婪. 魔法门之英雄无敌：战争纪元 聖徽 貪婪. 魔法门之英雄无敌：战争纪元 混亂 貪婪"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Greed.md"
 toc: false

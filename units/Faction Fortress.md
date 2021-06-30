@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Faction Fortress"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | 排名 |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![白虎](/images/u/ti_baihu.jpg) | [白虎](/cn/units/White Tiger/) | 突擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
-  | 2 | ![豺狼人](/images/u/ti_langren.jpg) | [豺狼人](/cn/units/Gnoll/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  豺狼勇士  |
+  | 2 | ![豺狼人](/images/u/ti_langren.jpg) | [豺狼人](/cn/units/Gnoll/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  豺狼勇士  |
   | 3 | ![蜥蜴人](/images/u/ti_xiyiren.jpg) | [蜥蜴人](/cn/units/Lizardman/) | 射手 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 4 | ![龍蠅](/images/u/ti_longying.jpg) | [龍蠅](/cn/units/Serpent Fly/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  毒疫龍蠅  |
   | 5 | ![蜥蜴](/images/u/ti_xiyi.jpg) | [蜥蜴](/cn/units/Basilisk/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

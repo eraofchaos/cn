@@ -3,7 +3,7 @@ title: "皇家騎士"
 permalink: /units/Cavalier/
 excerpt: "魔法门之英雄无敌：战争纪元 皇家騎士. 皇家騎士 兵團. 冠軍騎士. 魔法门之英雄无敌：战争纪元 皇家騎士身著厚重的鎧甲，駕馭著戰馬向敵人發起衝鋒，他們戰無不勝，令無數敵人顫抖。"
 unitID: 106
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "皇家騎士"
 toc: true

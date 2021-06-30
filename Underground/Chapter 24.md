@@ -2,7 +2,7 @@
 title: "地下城 - 第廿四章 元素之潮"
 permalink: /Underground/Chapter 24/
 excerpt: "第廿四章 元素之潮. 魔法门之英雄无敌：战争纪元  地下城 - 第廿四章. 元素之潮"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 24.md"
 toc: false

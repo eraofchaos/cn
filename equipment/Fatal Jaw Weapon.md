@@ -2,7 +2,7 @@
 title: "致命口器"
 permalink: /equipment/Fatal Jaw Weapon/
 excerpt: "魔法门之英雄无敌：战争纪元 致命口器. 致命口器"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Fatal Jaw Weapon.md"
 toc: false

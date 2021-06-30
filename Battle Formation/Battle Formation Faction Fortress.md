@@ -2,7 +2,7 @@
 title: "戰陣 沼澤要塞"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "戰陣 沼澤要塞"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "BattleFormationFactionFortress"
 toc: false

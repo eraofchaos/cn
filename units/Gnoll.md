@@ -3,7 +3,7 @@ title: "豺狼人"
 permalink: /units/Gnoll/
 excerpt: "魔法门之英雄无敌：战争纪元 豺狼人. 豺狼人 兵團. 豺狼勇士. 魔法门之英雄无敌：战争纪元 居住在沼澤中的兇殘生物，善於利用群體優勢圍捕落單或軟弱的獵物。"
 unitID: 801
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "豺狼人"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **名字:** [無畏狂攻](/cn/Exclusive/Gnoll Sword/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to 升星:** [無畏狂攻碎片](/cn/Items/con_912/)
 

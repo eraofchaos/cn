@@ -2,7 +2,7 @@
 title: "寶物 - 幸運鐵蹄 - 幸運鳥"
 permalink: /artifacts/Ladybird of Luck/
 excerpt: "魔法门之英雄无敌：战争纪元  幸運鐵蹄 - 幸運鳥. 閃閃發光的小鳥雕像，幸運鐵蹄的元件之一"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Ladybird of Luck.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Backup - 死神鐮勢"
 permalink: /Backup/Scythe of the Death/
 excerpt: "魔法门之英雄无敌：战争纪元  死神鐮勢"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Scythe of the Death.md"
 toc: false

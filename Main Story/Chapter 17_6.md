@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十七章 - 17-6 矮人酒館"
 permalink: /Main Story/Chapter 17_6/
 excerpt: "第十七章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十七章_6. 17-6 矮人酒館"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 17_6.md"
 toc: false

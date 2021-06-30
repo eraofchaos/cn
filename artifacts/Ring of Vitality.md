@@ -2,7 +2,7 @@
 title: "寶物 - 神聖血瓶 - 活力之戒"
 permalink: /artifacts/Ring of Vitality/
 excerpt: "魔法门之英雄无敌：战争纪元  神聖血瓶 - 活力之戒. 能夠提供活力的戒指，神聖血瓶的元件之一"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Ring of Vitality.md"
 toc: false

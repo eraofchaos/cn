@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-4 中毒老人"
 permalink: /Main Story/Chapter 23_4/
 excerpt: "第廿三章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_4. 23-4 中毒老人"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 23_4.md"
 toc: false

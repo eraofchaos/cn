@@ -3,7 +3,7 @@ title: "骷髏戰士"
 permalink: /units/Skeleton/
 excerpt: "魔法门之英雄无敌：战争纪元 骷髏戰士. 骷髏戰士 兵團. 骷髏王. 魔法门之英雄无敌：战争纪元 這些脆弱的骨頭架子看起來毫無價值，然而出人意料的是他們在降低士氣方面頗有建樹。"
 unitID: 301
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "骷髏戰士"
 toc: true

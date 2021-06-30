@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-12 龍去城空"
 permalink: /Main Story/Chapter 24_12/
 excerpt: "第廿四章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_12. 24-12 龍去城空"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 24_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "頭像 - 火焰主宰"
 permalink: /Avatars/Ruler of Flames/
 excerpt: "魔法门之英雄无敌：战争纪元  火焰主宰"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Ruler of Flames.md"
 toc: false

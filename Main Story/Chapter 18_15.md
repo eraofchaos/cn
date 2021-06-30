@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十八章 - 18-15 皮爾邦特"
 permalink: /Main Story/Chapter 18_15/
 excerpt: "第十八章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十八章_15. 18-15 皮爾邦特"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 18_15.md"
 toc: false

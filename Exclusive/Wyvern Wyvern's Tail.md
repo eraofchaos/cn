@@ -2,7 +2,7 @@
 title: "專屬 - 瓦威恩 (Wyvern)"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "魔法门之英雄无敌：战争纪元 瓦威恩. 瓦威恩. 魔法门之英雄无敌：战争纪元 專屬 瓦威恩. 雙足飛龍 專屬."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Wyvern 瓦威恩.md"
 toc: false

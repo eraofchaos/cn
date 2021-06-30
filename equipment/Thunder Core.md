@@ -2,7 +2,7 @@
 title: "雷霆核心"
 permalink: /equipment/Thunder Core/
 excerpt: "魔法门之英雄无敌：战争纪元 雷霆核心. 雷霆核心"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Thunder Core.md"
 toc: false

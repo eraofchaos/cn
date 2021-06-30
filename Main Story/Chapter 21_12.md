@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-12 邪惡印象"
 permalink: /Main Story/Chapter 21_12/
 excerpt: "第廿一章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_12. 21-12 邪惡印象"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 21_12.md"
 toc: false

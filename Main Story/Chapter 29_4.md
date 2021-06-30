@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿九章 - 29-4 鮮血祭壇"
 permalink: /Main Story/Chapter 29_4/
 excerpt: "第廿九章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿九章_4. 29-4 鮮血祭壇"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 29_4.md"
 toc: false

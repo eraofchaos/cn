@@ -2,7 +2,7 @@
 title: "護指手套"
 permalink: /equipment/Protective Gloves/
 excerpt: "魔法门之英雄无敌：战争纪元 護指手套. 護指手套"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Protective Gloves.md"
 toc: false

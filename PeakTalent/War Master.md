@@ -2,7 +2,7 @@
 title: "戰鬥精通. 巔峰天賦 - 戰鬥精通"
 permalink: /PeakTalent/War Master/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 戰鬥精通. 巔峰天賦 戰鬥精通. 戰鬥精通"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "War Master.md"
 toc: false

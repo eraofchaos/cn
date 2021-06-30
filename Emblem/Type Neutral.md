@@ -2,7 +2,7 @@
 title: "聖徽 - 中立"
 permalink: /Emblem/Type Neutral/
 excerpt: "魔法门之英雄无敌：战争纪元 聖徽. 聖徽. 魔法门之英雄无敌：战争纪元 聖徽 中立. 魔法门之英雄无敌：战争纪元 中立"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "type中立.md"
 toc: false

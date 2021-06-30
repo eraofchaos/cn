@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿五章 - 25-6 最老領主"
 permalink: /Main Story/Chapter 25_6/
 excerpt: "第廿五章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿五章_6. 25-6 最老領主"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 25_6.md"
 toc: false

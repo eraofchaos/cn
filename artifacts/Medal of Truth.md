@@ -2,7 +2,7 @@
 title: "寶物 - 活體鷹眼 - 真理徽章"
 permalink: /artifacts/Medal of Truth/
 excerpt: "魔法门之英雄无敌：战争纪元  活體鷹眼 - 真理徽章. 一個鑲刻眼球的女巫護符，活體鷹眼的元件之一"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Medal of Truth.md"
 toc: false

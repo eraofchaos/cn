@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十五章 - 15-9 再次相遇"
 permalink: /Main Story/Chapter 15_9/
 excerpt: "第十五章 - 9. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十五章_9. 15-9 再次相遇"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 15_9.md"
 toc: false

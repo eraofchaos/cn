@@ -2,7 +2,7 @@
 title: "頭像 - 狂暴之怒"
 permalink: /Avatars/Berserker Rage/
 excerpt: "魔法门之英雄无敌：战争纪元  狂暴之怒"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Berserker Rage.md"
 toc: false

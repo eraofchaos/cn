@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十一章 泰塔利亞"
 permalink: /Main Story/Chapter 11/
 excerpt: "第十一章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十一章. 泰塔利亞"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 11.md"
 toc: false

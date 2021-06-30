@@ -2,7 +2,7 @@
 title: "狼人方盾"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 狼人方盾. 狼人方盾"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Werewolf's Square Shield.md"
 toc: false

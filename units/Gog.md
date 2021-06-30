@@ -3,7 +3,7 @@ title: "歌革"
 permalink: /units/Gog/
 excerpt: "魔法门之英雄无敌：战争纪元 歌革. 歌革 兵團. 烈焰妖姬. 魔法门之英雄无敌：战争纪元 歌革這種生物看起來很溫柔，但是作為惡魔的一員，同樣有著極強的攻擊傾向。"
 unitID: 502
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "歌革"
 toc: true

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十四章 - 14-6 遭遇怪物"
 permalink: /Main Story/Chapter 14_6/
 excerpt: "第十四章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十四章_6. 14-6 遭遇怪物"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 14_6.md"
 toc: false

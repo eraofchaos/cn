@@ -2,7 +2,7 @@
 title: "地下城 - 第廿三章 - 23-1 百發百中"
 permalink: /Underground/Chapter 23_1/
 excerpt: "第廿三章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第廿三章_1. 23-1 百發百中"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 23_1.md"
 toc: false

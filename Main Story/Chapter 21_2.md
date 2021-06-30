@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-2 短暫輝煌"
 permalink: /Main Story/Chapter 21_2/
 excerpt: "第廿一章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_2. 21-2 短暫輝煌"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 21_2.md"
 toc: false

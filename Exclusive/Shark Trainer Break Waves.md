@@ -2,7 +2,7 @@
 title: "專屬 - 破浪 (Shark Trainer)"
 permalink: /Exclusive/Shark Trainer Break Waves/
 excerpt: "魔法门之英雄无敌：战争纪元 破浪. 破浪. 魔法门之英雄无敌：战争纪元 專屬 破浪. 訓鯊師 專屬."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Shark Trainer 破浪.md"
 toc: false

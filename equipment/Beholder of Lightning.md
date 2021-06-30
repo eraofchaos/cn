@@ -2,7 +2,7 @@
 title: "閃電邪眼"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "魔法门之英雄无敌：战争纪元 閃電邪眼. 閃電邪眼"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Beholder of Lightning.md"
 toc: false

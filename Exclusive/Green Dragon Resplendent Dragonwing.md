@@ -2,7 +2,7 @@
 title: "專屬 - 璀璨之翼 (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "魔法门之英雄无敌：战争纪元 璀璨之翼. 璀璨之翼. 魔法门之英雄无敌：战争纪元 專屬 璀璨之翼. 綠龍 專屬."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Green Dragon 璀璨之翼.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "副官 人類山德魯"
 permalink: /heroes/Adjutant Human Sandro/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 人類山德魯"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Adjutant Human Sandro.md"
 QR: adhero_60503

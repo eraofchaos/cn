@@ -2,7 +2,7 @@
 title: "遠古繃帶"
 permalink: /equipment/Ancient Bandage/
 excerpt: "魔法门之英雄无敌：战争纪元 遠古繃帶. 遠古繃帶"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Ancient Bandage.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Dracon/
 excerpt: "魔法门之英雄无敌：战争纪元 德肯. 德肯. 作為被眾多長輩視為魔法天才的德肯，他的人生目標就是成為最偉大的屠龍英雄。"
 heroID: 61202
 QR: hero_61202
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Dracon"
 toc: true

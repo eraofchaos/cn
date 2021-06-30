@@ -2,7 +2,7 @@
 title: "專屬 - 獵影逐風 (Storm Elemental)"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "魔法门之英雄无敌：战争纪元 獵影逐風. 獵影逐風. 魔法门之英雄无敌：战争纪元 專屬 獵影逐風. 雷元素 專屬."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Storm Elemental 獵影逐風.md"
 toc: false

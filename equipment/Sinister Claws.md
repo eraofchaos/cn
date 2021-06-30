@@ -2,7 +2,7 @@
 title: "邪惡利爪"
 permalink: /equipment/Sinister Claws/
 excerpt: "魔法门之英雄无敌：战争纪元 邪惡利爪. 邪惡利爪"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Sinister Claws.md"
 toc: false

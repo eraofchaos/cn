@@ -2,7 +2,7 @@
 title: "頭像 - 協調者"
 permalink: /Avatars/Coordinator/
 excerpt: "魔法门之英雄无敌：战争纪元  協調者"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Coordinator.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿六章 - 26-6 毫無訊息"
 permalink: /Main Story/Chapter 26_6/
 excerpt: "第廿六章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿六章_6. 26-6 毫無訊息"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 26_6.md"
 toc: false

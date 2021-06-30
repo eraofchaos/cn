@@ -2,7 +2,7 @@
 title: "黑晶利爪"
 permalink: /equipment/Serrated Claws/
 excerpt: "魔法门之英雄无敌：战争纪元 黑晶利爪. 黑晶利爪"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Serrated Claws.md"
 toc: false

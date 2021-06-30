@@ -2,7 +2,7 @@
 title: "聖徽 - 繼業者的法理"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "魔法门之英雄无敌：战争纪元 繼業者的法理. 繼業者的法理. 魔法门之英雄无敌：战争纪元 聖徽 繼業者的法理. 魔法门之英雄无敌：战争纪元 中立 繼業者的法理"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Successors' Legal Principles.md"
 toc: false

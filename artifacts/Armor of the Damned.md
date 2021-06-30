@@ -2,7 +2,7 @@
 title: "寶物 - 詛咒鎧甲"
 permalink: /artifacts/Armor of the Damned/
 excerpt: "魔法门之英雄无敌：战争纪元  詛咒鎧甲. 詛咒鎧甲 由數件亡靈法器組合而成，佩戴即可削弱敵人各項屬性"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Armor of the Damned.md"
 toc: false

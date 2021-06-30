@@ -2,7 +2,7 @@
 title: "寶物 - 神聖血瓶 - 活力聖瓶"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "魔法门之英雄无敌：战争纪元  神聖血瓶 - 活力聖瓶. 戴上它會感覺活力無窮，神聖血瓶的元件之一"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Bottle of Energy.md"
 toc: false

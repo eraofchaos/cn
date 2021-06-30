@@ -2,7 +2,7 @@
 title: "主線劇情 - 第七章 - 7-1 包藏禍心"
 permalink: /Main Story/Chapter 7_1/
 excerpt: "第七章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第七章_1. 7-1 包藏禍心"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Chapter 7_1.md"
 toc: false

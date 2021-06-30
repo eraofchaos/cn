@@ -2,7 +2,7 @@
 title: "寶物 - 幻影神弓 - 天羽箭"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "魔法门之英雄无敌：战争纪元  幻影神弓 - 天羽箭. 精靈們拾取羽毛做成的魔法箭，幻影神弓的元件之一"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Angel Feather Arrows.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "邪惡羽翼"
 permalink: /equipment/Sinister Wings/
 excerpt: "魔法门之英雄无敌：战争纪元 邪惡羽翼. 邪惡羽翼"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "Sinister Wings.md"
 toc: false
