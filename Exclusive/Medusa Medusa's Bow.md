@@ -2,7 +2,7 @@
 title: "專屬 - 蛇吻 (Medusa)"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "魔法门之英雄无敌：战争纪元 蛇吻. 蛇吻. 魔法门之英雄无敌：战争纪元 專屬 蛇吻. 美杜莎 專屬."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Medusa 蛇吻.md"
 toc: false

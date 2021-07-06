@@ -3,7 +3,7 @@ title: "雷元素"
 permalink: /units/Storm Elemental/
 excerpt: "魔法门之英雄无敌：战争纪元 雷元素. 雷元素 兵團. 閃電風暴. 魔法门之英雄无敌：战争纪元 從氣元素之間的衝突和戰爭中誕生的能量體，任何敢於直面它的敵人都會被激盪的電荷所標記。"
 unitID: 902
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "雷元素"
 toc: true

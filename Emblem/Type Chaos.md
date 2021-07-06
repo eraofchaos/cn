@@ -2,7 +2,7 @@
 title: "聖徽 - 混亂"
 permalink: /Emblem/Type Chaos/
 excerpt: "魔法门之英雄无敌：战争纪元 聖徽. 聖徽. 魔法门之英雄无敌：战争纪元 聖徽 混亂. 魔法门之英雄无敌：战争纪元 混亂"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "type混亂.md"
 toc: false

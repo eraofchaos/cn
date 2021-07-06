@@ -3,7 +3,7 @@ title: "牛頭怪"
 permalink: /units/Minotaur/
 excerpt: "魔法门之英雄无敌：战争纪元 牛頭怪. 牛頭怪 兵團. 米諾陶洛斯. 魔法门之英雄无敌：战争纪元 隱匿於幽暗迷宮中的強大生物，它的巨斧會把所有迷途之敵都削成肉塊。"
 unitID: 705
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "牛頭怪"
 toc: true

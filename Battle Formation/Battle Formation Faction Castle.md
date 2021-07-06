@@ -2,7 +2,7 @@
 title: "戰陣 平原城堡"
 permalink: /Battle Formation/Battle Formation Faction Castle
 excerpt: "戰陣 平原城堡"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "BattleFormationFactionCastle"
 toc: false

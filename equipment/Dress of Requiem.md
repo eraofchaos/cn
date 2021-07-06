@@ -2,7 +2,7 @@
 title: "安魂長裙"
 permalink: /equipment/Dress of Requiem/
 excerpt: "魔法门之英雄无敌：战争纪元 安魂長裙. 安魂長裙"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Dress of Requiem.md"
 toc: false

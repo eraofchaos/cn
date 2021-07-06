@@ -2,7 +2,7 @@
 title: "狼人護手"
 permalink: /equipment/Werewolf's Gauntlets/
 excerpt: "魔法门之英雄无敌：战争纪元 狼人護手. 狼人護手"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Werewolf's Gauntlets.md"
 toc: false

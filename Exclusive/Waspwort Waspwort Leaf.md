@@ -2,7 +2,7 @@
 title: "專屬 - 維斯珀忒 (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "魔法门之英雄无敌：战争纪元 維斯珀忒. 維斯珀忒. 魔法门之英雄无敌：战争纪元 專屬 維斯珀忒. 毒蜂草 專屬."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Waspwort 維斯珀忒.md"
 toc: false

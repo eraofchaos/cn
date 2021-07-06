@@ -2,7 +2,7 @@
 title: "頭像 - 黑暗主宰"
 permalink: /Avatars/Darkness Dominance/
 excerpt: "魔法门之英雄无敌：战争纪元  黑暗主宰"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Darkness Dominance.md"
 toc: false

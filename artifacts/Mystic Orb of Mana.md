@@ -2,7 +2,7 @@
 title: "寶物 - 魔力源泉 - 魔力球"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "魔法门之英雄无敌：战争纪元  魔力源泉 - 魔力球. 儲存了大量的魔力的水晶球，魔力源泉的元件之一"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Mystic Orb of Mana.md"
 toc: false

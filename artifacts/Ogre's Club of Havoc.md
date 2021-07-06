@@ -2,7 +2,7 @@
 title: "寶物 - 野蠻之斧 - 惡魔之棒"
 permalink: /artifacts/Ogre's Club of Havoc/
 excerpt: "魔法门之英雄无敌：战争纪元  野蠻之斧 - 惡魔之棒. 在路邊酒館從食人魔首領那奪來的巨棒，野蠻之斧的元件之一"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Ogre's Club of Havoc.md"
 toc: false

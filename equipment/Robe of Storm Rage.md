@@ -2,7 +2,7 @@
 title: "怒風法袍"
 permalink: /equipment/Robe of Storm Rage/
 excerpt: "魔法门之英雄无敌：战争纪元 怒風法袍. 怒風法袍"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Robe of Storm Rage.md"
 toc: false

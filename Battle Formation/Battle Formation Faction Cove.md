@@ -2,7 +2,7 @@
 title: "戰陣 海盜港口"
 permalink: /Battle Formation/Battle Formation Faction Cove
 excerpt: "戰陣 海盜港口"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "BattleFormationFactionCove"
 toc: false

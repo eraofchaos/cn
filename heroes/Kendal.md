@@ -4,7 +4,7 @@ permalink: /heroes/Kendal/
 excerpt: "魔法门之英雄无敌：战争纪元 肯達爾. 肯達爾. 忠於王室的艾拉西亞的將軍。克里鋒國王死後，摩根．肯達爾攝政艾拉西亞，在合法的繼承人歸來之前代其掌管國事。"
 heroID: 60104
 QR: hero_60104
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Kendal"
 toc: true

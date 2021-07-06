@@ -2,7 +2,7 @@
 title: "主線劇情 - 第八章 - 8-3 生死哀嚎"
 permalink: /Main Story/Chapter 8_3/
 excerpt: "第八章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第八章_3. 8-3 生死哀嚎"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 8_3.md"
 toc: false

@@ -3,7 +3,7 @@ title: "勒維亞坦"
 permalink: /units/Revyaratan/
 excerpt: "魔法门之英雄无敌：战争纪元 勒維亞坦. 勒維亞坦 兵團. 深淵巨噬. 魔法门之英雄无敌：战争纪元 遊蕩在深海的怪獸，巨大的怪口彷彿能吞噬一切。"
 unitID: 9908
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "勒維亞坦"
 toc: true

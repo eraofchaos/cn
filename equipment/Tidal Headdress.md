@@ -2,7 +2,7 @@
 title: "流波頭飾"
 permalink: /equipment/Tidal Headdress/
 excerpt: "魔法门之英雄无敌：战争纪元 流波頭飾. 流波頭飾"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Tidal Headdress.md"
 toc: false

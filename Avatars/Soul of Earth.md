@@ -2,7 +2,7 @@
 title: "頭像 - 大地之靈"
 permalink: /Avatars/Soul of Earth/
 excerpt: "魔法门之英雄无敌：战争纪元  大地之靈"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Soul of Earth.md"
 toc: false

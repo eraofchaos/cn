@@ -2,7 +2,7 @@
 title: "地下城 - 第十九章 - 19-4 魔法真諦"
 permalink: /Underground/Chapter 19_4/
 excerpt: "第十九章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第十九章_4. 19-4 魔法真諦"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 19_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "專屬 - 死亡獻禮 (Lich)"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "魔法门之英雄无敌：战争纪元 死亡獻禮. 死亡獻禮. 魔法门之英雄无敌：战争纪元 專屬 死亡獻禮. 巫妖 專屬."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Lich 死亡獻禮.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "聖徽 - 塔南的罪責"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "魔法门之英雄无敌：战争纪元 塔南的罪責. 塔南的罪責. 魔法门之英雄无敌：战争纪元 聖徽 塔南的罪責. 魔法门之英雄无敌：战争纪元 中立 塔南的罪責"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Tarnum's Culpability.md"
 toc: false

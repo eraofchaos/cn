@@ -2,7 +2,7 @@
 title: "專屬 - 神跡 (Regnan Archer)"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "魔法门之英雄无敌：战争纪元 神跡. 神跡. 魔法门之英雄无敌：战争纪元 專屬 神跡. 寶藏獵人 專屬."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Regnan Archer 神跡.md"
 toc: false

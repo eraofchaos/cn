@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十六章 國家與王"
 permalink: /Main Story/Chapter 16/
 excerpt: "第十六章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十六章. 國家與王"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 16.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "頭像 - 墓園陣營"
 permalink: /Avatars/Necropolis/
 excerpt: "魔法门之英雄无敌：战争纪元  墓園陣營"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Necropolis.md"
 toc: false

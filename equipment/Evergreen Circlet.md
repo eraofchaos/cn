@@ -2,7 +2,7 @@
 title: "聖潔髮帶"
 permalink: /equipment/Evergreen Circlet/
 excerpt: "魔法门之英雄无敌：战争纪元 聖潔髮帶. 聖潔髮帶"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Evergreen Circlet.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "獸骨項鍊"
 permalink: /equipment/Necklace of Bone/
 excerpt: "魔法门之英雄无敌：战争纪元 獸骨項鍊. 獸骨項鍊"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Necklace of Bone.md"
 toc: false

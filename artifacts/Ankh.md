@@ -2,7 +2,7 @@
 title: "寶物 - 金蘋果 - 永生十字架"
 permalink: /artifacts/Ankh/
 excerpt: "魔法门之英雄无敌：战争纪元  金蘋果 - 永生十字架. 能夠賜予佩戴者永生的十字架，不知道上一任主人身在何方"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Ankh.md"
 toc: false

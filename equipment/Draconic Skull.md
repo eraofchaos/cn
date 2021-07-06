@@ -2,7 +2,7 @@
 title: "穿心骨刺"
 permalink: /equipment/Draconic Skull/
 excerpt: "魔法门之英雄无敌：战争纪元 穿心骨刺. 穿心骨刺"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Draconic Skull.md"
 toc: false

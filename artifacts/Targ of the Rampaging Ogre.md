@@ -2,7 +2,7 @@
 title: "寶物 - 野蠻之斧 - 狂魔盾"
 permalink: /artifacts/Targ of the Rampaging Ogre/
 excerpt: "魔法门之英雄无敌：战争纪元  野蠻之斧 - 狂魔盾. 擊敗食人魔副官奪得的戰利品，野蠻之斧的元件之一"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Targ of the Rampaging Ogre.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "合金利爪"
 permalink: /equipment/Alloy Claw/
 excerpt: "魔法门之英雄无敌：战争纪元 合金利爪. 合金利爪"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Alloy Claw.md"
 toc: false

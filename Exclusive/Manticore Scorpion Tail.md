@@ -2,7 +2,7 @@
 title: "專屬 - 蠍狩 (Manticore)"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "魔法门之英雄无敌：战争纪元 蠍狩. 蠍狩. 魔法门之英雄无敌：战争纪元 專屬 蠍狩. 蠍尾獅 專屬."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Manticore 蠍狩.md"
 toc: false

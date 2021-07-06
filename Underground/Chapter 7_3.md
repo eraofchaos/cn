@@ -2,7 +2,7 @@
 title: "地下城 - 第七章 - 7-3 淘金熱潮"
 permalink: /Underground/Chapter 7_3/
 excerpt: "第七章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第七章_3. 7-3 淘金熱潮"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 7_3.md"
 toc: false

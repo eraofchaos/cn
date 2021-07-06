@@ -2,7 +2,7 @@
 title: "寶物 - 龍王神力 - 龍盾"
 permalink: /artifacts/Dragon Scale Shield/
 excerpt: "魔法门之英雄无敌：战争纪元  龍王神力 - 龍盾. 經龍王魔法加持過的盾牌，龍王神力的元件之一"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Dragon Scale Shield.md"
 toc: false

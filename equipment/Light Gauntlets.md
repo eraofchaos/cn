@@ -2,7 +2,7 @@
 title: "光明護手"
 permalink: /equipment/Light Gauntlets/
 excerpt: "魔法门之英雄无敌：战争纪元 光明護手. 光明護手"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Light Gauntlets.md"
 toc: false

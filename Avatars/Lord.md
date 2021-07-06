@@ -2,7 +2,7 @@
 title: "頭像 - 領主"
 permalink: /Avatars/Lord/
 excerpt: "魔法门之英雄无敌：战争纪元  領主"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Lord.md"
 toc: false

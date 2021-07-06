@@ -2,7 +2,7 @@
 title: "夜光鏈錘"
 permalink: /equipment/Lightning's Flail/
 excerpt: "魔法门之英雄无敌：战争纪元 夜光鏈錘. 夜光鏈錘"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Lightning's Flail.md"
 toc: false

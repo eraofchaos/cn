@@ -2,7 +2,7 @@
 title: "雷霆霹靂"
 permalink: /equipment/Thunderbolt/
 excerpt: "魔法门之英雄无敌：战争纪元 雷霆霹靂. 雷霆霹靂"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Thunderbolt.md"
 toc: false

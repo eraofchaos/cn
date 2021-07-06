@@ -2,7 +2,7 @@
 title: "巔峰天賦 EXP"
 permalink: /PeakTalent/Peak Talent EXP/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 EXP. 巔峰天賦 EXP"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Peak Talent EXP.md"
 toc: false

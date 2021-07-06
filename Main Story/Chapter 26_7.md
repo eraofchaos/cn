@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿六章 - 26-7 智者贈物"
 permalink: /Main Story/Chapter 26_7/
 excerpt: "第廿六章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿六章_7. 26-7 智者贈物"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 26_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "專屬 - 奧術詠唱 (Gog)"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "魔法门之英雄无敌：战争纪元 奧術詠唱. 奧術詠唱. 魔法门之英雄无敌：战争纪元 專屬 奧術詠唱. 歌革 專屬."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Gog 奧術詠唱.md"
 toc: false

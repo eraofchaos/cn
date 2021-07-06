@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿八章 - 28-5 米斯爾特"
 permalink: /Main Story/Chapter 28_5/
 excerpt: "第廿八章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿八章_5. 28-5 米斯爾特"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 28_5.md"
 toc: false

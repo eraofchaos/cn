@@ -2,7 +2,7 @@
 title: "海魂神權"
 permalink: /equipment/Divine Scepter of the Ocean's Soul/
 excerpt: "魔法门之英雄无敌：战争纪元 海魂神權. 海魂神權"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Divine Scepter of the Ocean's Soul.md"
 toc: false

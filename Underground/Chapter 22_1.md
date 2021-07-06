@@ -2,7 +2,7 @@
 title: "地下城 - 第廿二章 - 22-1 生命種子"
 permalink: /Underground/Chapter 22_1/
 excerpt: "第廿二章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第廿二章_1. 22-1 生命種子"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 22_1.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Lord Haart/
 excerpt: "魔法门之英雄无敌：战争纪元 羅德．哈特. 羅德．哈特. 羅德．哈特又復活了，這次他得到了更為恐怖的能力，成為了不死軍團的一員大將。"
 heroID: 60401
 QR: hero_60401
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Lord Haart"
 toc: true

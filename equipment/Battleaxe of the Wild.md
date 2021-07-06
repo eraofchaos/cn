@@ -2,7 +2,7 @@
 title: "狂野戰斧"
 permalink: /equipment/Battleaxe of the Wild/
 excerpt: "魔法门之英雄无敌：战争纪元 狂野戰斧. 狂野戰斧"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Battleaxe of the Wild.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "獸皮護肩"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "魔法门之英雄无敌：战争纪元 獸皮護肩. 獸皮護肩"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Leather Pauldrons.md"
 toc: false

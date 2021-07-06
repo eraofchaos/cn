@@ -2,7 +2,7 @@
 title: "頭像 - 傳說勇者（14天）"
 permalink: /Avatars/Legendary Warrior (14 Days)/
 excerpt: "魔法门之英雄无敌：战争纪元  傳說勇者（14天）"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Legendary Warrior (14 Days).md"
 toc: false

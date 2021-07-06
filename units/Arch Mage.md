@@ -3,7 +3,7 @@ title: "大法師"
 permalink: /units/Arch Mage/
 excerpt: "魔法门之英雄无敌：战争纪元 大法師. 大法師 兵團. 祕法大師. 魔法门之英雄无敌：战争纪元 大法師是對強大的馭法者們的尊稱，在戰場上他們的存在會令敵方的將領在使用魔法時格外慎重。"
 unitID: 604
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "大法師"
 toc: true

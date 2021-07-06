@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "index.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 2 | ![僧侶](/images/u/ti_senglv.jpg) | [僧侶](/cn/units/Monk/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  祭司  |
   | 3 | ![冰元素](/images/u/ti_bingyuansu2.jpg) | [冰元素](/cn/units/Ice Elemental/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  寂滅雪靈  |
   | 4 | ![冰魔](/images/u/ti_bingmo.jpg) | [冰魔](/cn/units/Ice Demon/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
-  | 5 | ![刺客](/images/u/ti_cishazhe.jpg) | [刺客](/cn/units/Assassin/) | 突擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 5 | ![刺客](/images/u/ti_cishazhe.jpg) | [刺客](/cn/units/Assassin/) | 突擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 6 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  深淵巨噬  |
   | 7 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  半人馬酋長  |
   | 8 | ![半獸人](/images/u/ti_shourentoufushou.jpg) | [半獸人](/cn/units/Orc/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  半獸人統領  |
@@ -41,7 +41,7 @@ classes: wide
   | 19 | ![大法師](/images/u/ti_dafashi.jpg) | [大法師](/cn/units/Arch Mage/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  祕法大師  |
   | 20 | ![娜迦蛇妖](/images/u/ti_shenv.jpg) | [娜迦蛇妖](/cn/units/Naga/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  娜迦女王  |
   | 21 | ![審判官](/images/u/ti_shenpanguan.jpg) | [審判官](/cn/units/Judicator/) | 魔法 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
-  | 22 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  亡瞳獵手  |
+  | 22 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/units/Regnan Archer/) | 射手 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  亡瞳獵手  |
   | 23 | ![小惡魔](/images/u/ti_xiaoemo.jpg) | [小惡魔](/cn/units/Imp/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  詭變魔僕  |
   | 24 | ![巫妖](/images/u/ti_wuyao.jpg) | [巫妖](/cn/units/Lich/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  寂亡女士  |
   | 25 | ![帝國弩手](/images/u/ti_nushou.jpg) | [帝國弩手](/cn/units/Marksman/) | 射手 | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  神射手  |

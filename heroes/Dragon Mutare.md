@@ -4,7 +4,7 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "魔法门之英雄无敌：战争纪元 巨龍摩莉爾. 巨龍摩莉爾. 喝了龍之血瓶以後，摩莉爾變成了一條保留了人類意識的巨龍。有人推測，她的變化預示著龍之父的降臨。"
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Dragon Mutare"
 toc: true

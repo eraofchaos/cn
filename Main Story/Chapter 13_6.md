@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-6 突圍求助"
 permalink: /Main Story/Chapter 13_6/
 excerpt: "第十三章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_6. 13-6 突圍求助"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 13_6.md"
 toc: false

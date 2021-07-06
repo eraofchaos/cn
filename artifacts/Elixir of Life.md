@@ -2,7 +2,7 @@
 title: "寶物 - 神聖血瓶"
 permalink: /artifacts/Elixir of Life/
 excerpt: "魔法门之英雄无敌：战争纪元  神聖血瓶. 神聖血瓶 彙集了龐大的生命力組成的神器，能夠提升軍隊生命力"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Elixir of Life.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "聖徽 - 不朽奧祕"
 permalink: /Emblem/Everlasting Secret/
 excerpt: "魔法门之英雄无敌：战争纪元 不朽奧祕. 不朽奧祕. 魔法门之英雄无敌：战争纪元 聖徽 不朽奧祕. 魔法门之英雄无敌：战争纪元 守序 不朽奧祕"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Everlasting Secret.md"
 toc: false

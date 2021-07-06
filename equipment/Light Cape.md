@@ -2,7 +2,7 @@
 title: "光明法袍"
 permalink: /equipment/Light Cape/
 excerpt: "魔法门之英雄无敌：战争纪元 光明法袍. 光明法袍"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Light Cape.md"
 toc: false

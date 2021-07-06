@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Neutral Army"
 permalink: /Exclusive/Exclusive Neutral Army/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Neutral Army. 專屬 Neutral Army. List of 專屬 Neutral Army in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Exclusive Neutral Army"
 toc: false
@@ -17,5 +17,5 @@ classes: wide
 
   | Nr |         Unit        | 專屬 | Open  |    Type   |  Item to Rank UP      |  塗裝   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [刺客](/cn/units/Assassin/) | - | - | - | none | none |
+  | 1  | [刺客](/cn/units/Assassin/) | [袖箭](/cn/Exclusive/Assassin Hidden Blade/) | + | 輔助 | [袖箭碎片](/cn/Items/con_2200/) | [袖箭特效塗裝](/cn/Items/con_2199/) |
   | 2  | [斯巴達戰士](/cn/units/Spartan Warriors/) | - | - | - | none | none |

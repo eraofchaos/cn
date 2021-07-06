@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-1 亡靈之地"
 permalink: /Main Story/Chapter 6_1/
 excerpt: "第六章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_1. 6-1 亡靈之地"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 6_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十九章 - 19-6 二元政體"
 permalink: /Main Story/Chapter 19_6/
 excerpt: "第十九章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十九章_6. 19-6 二元政體"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 19_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十二章 - 12-14 亡靈蹤跡"
 permalink: /Main Story/Chapter 12_14/
 excerpt: "第十二章 - 14. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十二章_14. 12-14 亡靈蹤跡"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 12_14.md"
 toc: false

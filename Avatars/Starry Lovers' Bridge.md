@@ -2,7 +2,7 @@
 title: "頭像 - 星橋鵲駕"
 permalink: /Avatars/Starry Lovers' Bridge/
 excerpt: "魔法门之英雄无敌：战争纪元  星橋鵲駕"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Starry Lovers' Bridge.md"
 toc: false

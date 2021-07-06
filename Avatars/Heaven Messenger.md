@@ -2,7 +2,7 @@
 title: "頭像 - 天堂使者"
 permalink: /Avatars/Heaven Messenger/
 excerpt: "魔法门之英雄无敌：战争纪元  天堂使者"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Heaven Messenger.md"
 toc: false

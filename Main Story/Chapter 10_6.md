@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十章 - 10-6 蒐集碎片"
 permalink: /Main Story/Chapter 10_6/
 excerpt: "第十章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十章_6. 10-6 蒐集碎片"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 10_6.md"
 toc: false

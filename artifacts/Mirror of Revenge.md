@@ -2,7 +2,7 @@
 title: "寶物 - 報復之鏡"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "魔法门之英雄无敌：战争纪元  報復之鏡. 報復之鏡 一名弱小的魔法師為了復仇，使用禁忌法術煉製的邪惡寶物，可以增強部隊的戰鬥能力"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Mirror of Revenge.md"
 toc: false

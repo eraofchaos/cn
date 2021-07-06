@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀守護 (Dwarf)"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀守護. 榮耀守護. 魔法门之英雄无敌：战争纪元 專屬 榮耀守護. 戰鬥矮人 專屬."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Dwarf 榮耀守護.md"
 toc: false

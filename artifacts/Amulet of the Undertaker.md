@@ -2,7 +2,7 @@
 title: "寶物 - 鬼王斗篷 - 亡靈護身符"
 permalink: /artifacts/Amulet of the Undertaker/
 excerpt: "魔法门之英雄无敌：战争纪元  鬼王斗篷 - 亡靈護身符. 亡靈巫妖用來保護自身的護符，鬼王斗篷的元件之一"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Amulet of the Undertaker.md"
 toc: false

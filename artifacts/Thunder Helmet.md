@@ -2,7 +2,7 @@
 title: "寶物 - 泰坦神箭 - 雷神之盔"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "魔法门之英雄无敌：战争纪元  泰坦神箭 - 雷神之盔. 雷神使用的頭盔，泰坦神箭的元件之一"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Thunder Helmet.md"
 toc: false

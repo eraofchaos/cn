@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-6 全軍覆沒"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "第六章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_6. 6-6 全軍覆沒"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 6_6.md"
 toc: false

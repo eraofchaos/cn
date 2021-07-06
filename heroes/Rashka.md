@@ -4,7 +4,7 @@ permalink: /heroes/Rashka/
 excerpt: "魔法门之英雄无敌：战争纪元 瑞斯卡. 瑞斯卡. 瑞斯卡的領導方法是採用威嚇作為激勵的手段，目前為止，非常起作用。"
 heroID: 60802
 QR: hero_60802
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Rashka"
 toc: true

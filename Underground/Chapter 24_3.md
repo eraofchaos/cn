@@ -2,7 +2,7 @@
 title: "地下城 - 第廿四章 - 24-3 雷電之力"
 permalink: /Underground/Chapter 24_3/
 excerpt: "第廿四章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第廿四章_3. 24-3 雷電之力"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 24_3.md"
 toc: false

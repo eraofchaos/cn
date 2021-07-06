@@ -2,7 +2,7 @@
 title: "副官 維德尼娜"
 permalink: /heroes/Adjutant Vidomina/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 維德尼娜"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Adjutant Vidomina.md"
 QR: adhero_60502

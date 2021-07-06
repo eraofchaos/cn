@@ -2,7 +2,7 @@
 title: "魔獸瞳孔"
 permalink: /equipment/Beastly Eye/
 excerpt: "魔法门之英雄无敌：战争纪元 魔獸瞳孔. 魔獸瞳孔"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Beastly Eye.md"
 toc: false

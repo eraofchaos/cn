@@ -2,7 +2,7 @@
 title: "地下城 - 第廿二章 - 22-3 炮灰思想"
 permalink: /Underground/Chapter 22_3/
 excerpt: "第廿二章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第廿二章_3. 22-3 炮灰思想"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 22_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "地下城 - 第十六章 - 16-4 戰爭迴響"
 permalink: /Underground/Chapter 16_4/
 excerpt: "第十六章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第十六章_4. 16-4 戰爭迴響"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 16_4.md"
 toc: false

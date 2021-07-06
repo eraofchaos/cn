@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-8 斥候下落"
 permalink: /Main Story/Chapter 23_8/
 excerpt: "第廿三章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_8. 23-8 斥候下落"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 23_8.md"
 toc: false

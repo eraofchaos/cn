@@ -2,7 +2,7 @@
 title: "地下城 - 第十五章 - 15-1 惡魔雕像"
 permalink: /Underground/Chapter 15_1/
 excerpt: "第十五章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第十五章_1. 15-1 惡魔雕像"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 15_1.md"
 toc: false

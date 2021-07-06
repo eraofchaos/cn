@@ -2,7 +2,7 @@
 title: "戰疫前兆. 巔峰天賦 - 戰疫前兆"
 permalink: /PeakTalent/Omens of the War/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 戰疫前兆. 巔峰天賦 戰疫前兆. 戰疫前兆"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Omens of the War.md"
 toc: false

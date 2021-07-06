@@ -2,7 +2,7 @@
 title: "深淵戰甲"
 permalink: /equipment/Abyss Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 深淵戰甲. 深淵戰甲"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Abyss Armor.md"
 toc: false

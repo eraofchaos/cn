@@ -2,7 +2,7 @@
 title: "先祖肩甲"
 permalink: /equipment/Shadow Shoulders/
 excerpt: "魔法门之英雄无敌：战争纪元 先祖肩甲. 先祖肩甲"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Shadow Shoulders.md"
 toc: false

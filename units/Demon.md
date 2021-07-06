@@ -3,7 +3,7 @@ title: "長角惡魔"
 permalink: /units/Demon/
 excerpt: "魔法门之英雄无敌：战争纪元 長角惡魔. 長角惡魔 兵團. 地獄鐵衛. 魔法门之英雄无敌：战争纪元 長角惡魔以頭上尖銳的長角為名，這也是他最銳利的武器，可以輕易刺穿敵人的盔甲和身軀。"
 unitID: 504
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "長角惡魔"
 toc: true

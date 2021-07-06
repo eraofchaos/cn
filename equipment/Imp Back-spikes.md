@@ -2,7 +2,7 @@
 title: "怪物背刺"
 permalink: /equipment/Imp Back-spikes/
 excerpt: "魔法门之英雄无敌：战争纪元 怪物背刺. 怪物背刺"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Imp Back-spikes.md"
 toc: false

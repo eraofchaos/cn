@@ -3,7 +3,7 @@ title: "寶藏獵人"
 permalink: /units/Regnan Archer/
 excerpt: "魔法门之英雄无敌：战争纪元 寶藏獵人. 寶藏獵人 兵團. 亡瞳獵手. 魔法门之英雄无敌：战争纪元 天註定其將擁有財富，弩箭所指，皆是目標。"
 unitID: 9902
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "寶藏獵人"
 toc: true
@@ -187,40 +187,40 @@ toc: true
   ![亡瞳獵手](/images/u/tia_baozang.jpg)
 
 ### Awaking 詳情
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** 亡瞳獵手
 
  **Awaking 玩法詳解:** 女海盜們擁有攝人心魄的紅色雙眼，無知的蠢蛋們被迷得神魂顛倒，而真正的聰明人絕不會讓自己暴露在她們的視線當中
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">寶藏獵人上陣且港口兵團至少上陣</span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px">個，通關一次冷酷級或以上龍之國。(掃蕩不計入任務）</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">在聯盟探索中，採集</span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px">份資源。</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">在地下城16-2,16-4中收集</span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px">個亡瞳獵手英魂。</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">上陣寶藏獵人且港口陣營上陣</span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px">個，在戰役中取得3次勝利。(掃蕩不計入任務）</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 奪魂之矢
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【奪魂之箭】</span><span style="color: #645252;font-size:18px">開場8秒後，對目標單位造成自身攻擊力500%的傷害，並造成「流血」效果，每秒造成1%最大生命值傷害，持續10秒，對免疫「流血」單位也造成傷害，冷卻20秒</span>
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【奪魂之箭】</span><span style="color: #645252;font-size:18px">開場8秒後，對目標單位造成自身攻擊力400%的傷害，並造成「流血」效果，每秒造成1%最大生命值傷害，持續10秒，對免疫「流血」單位也造成傷害，冷卻25秒</span>
 
 ### 2nd Skill (or 1st): 奪命之矢
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【奪魂之箭】</span><span style="color: #645252;font-size:18px">開場8秒後，對目標單位造成自身攻擊力500%的傷害，並造成「減速」效果，每秒造成1%最大生命值傷害，持續10秒，對免疫「減速」單位也造成傷害，冷卻20秒</span>
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【奪魂之箭】</span><span style="color: #645252;font-size:18px">開場8秒後，對目標單位造成自身攻擊力400%的傷害，並造成「減速」效果，每秒造成1%最大生命值傷害，持續10秒，對免疫「減速」單位也造成傷害，冷卻25秒</span>
 
 ### 3rd Skill (or 4th): 戰術回避
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【戰術修養】</span><span style="color: #645252;font-size:18px">受到「眩暈、石化、晶化、冰封、時間凝滯」時，自身獲得30%最大生命值的氣泡，並提高15%防禦，持續6秒，冷卻時間12秒（未佩戴聖輝時該技能不生效）</span>
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【戰術修養】</span><span style="color: #645252;font-size:18px">受到「眩暈、石化、晶化、冰封、時間凝滯」時，自身獲得30%最大生命值的氣泡，並提高20%防禦，持續6秒，冷卻時間12秒（未佩戴聖輝時該技能不生效）</span>
 
 ### 4th Skill (or 3rd): 戰術武裝
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【戰術修養】</span><span style="color: #645252;font-size:18px">受到「沉默、士氣低落、麻痹、威懾、失明」時，自身提高30%攻擊速度，15%暴擊傷害。持續6秒，冷卻時間12秒（未佩戴聖輝時該技能不生效）</span>
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【戰術修養】</span><span style="color: #645252;font-size:18px">受到「沉默、士氣低落、麻痹、威懾、失明」時，自身提高30%攻擊速度，20%暴擊傷害。持續6秒，冷卻時間12秒（未佩戴聖輝時該技能不生效）</span>
 
 ### 5th Skill (or 6th): 抵近射擊
  **玩法詳解:** <span style="color: #48b946;font-size:18px">【支援射擊】</span><span style="color: #645252;font-size:18px">每隔13秒對距離自己最近的敵方兵團釋放一次【抵近射擊】，造成自身攻擊230%的傷害，對「脆弱」狀態的兵團翻倍</span>
 
 ### 6th Skill (or 5th): 火力支援
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【支援射擊】</span><span style="color: #645252;font-size:18px">當己方港口兵團單次受到超過最大生命值20%的傷害時，寶藏獵人將釋放【火力支援】，提高自身200點暴擊值和40%攻擊力，持續5秒，最多可疊加兩次</span>
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【支援射擊】</span><span style="color: #645252;font-size:18px">當己方港口兵團單次受到超過最大生命值20%的傷害時，寶藏獵人將釋放【火力支援】，提高自身300點暴擊值和40%攻擊力，持續5秒，最多可疊加兩次</span>
 
 ## Technical info
  **runart:** 0

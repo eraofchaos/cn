@@ -4,7 +4,7 @@ permalink: /heroes/Monere/
 excerpt: "魔法门之英雄无敌：战争纪元 莫奈爾. 莫奈爾. 莫奈爾天生具有控制精神元素和魔法元素的本領，是元素城的重要將領。"
 heroID: 60702
 QR: hero_60702
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Monere"
 toc: true

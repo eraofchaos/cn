@@ -2,7 +2,7 @@
 title: "魚人扇耳"
 permalink: /equipment/Merman Earrings/
 excerpt: "魔法门之英雄无敌：战争纪元 魚人扇耳. 魚人扇耳"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Merman Earrings.md"
 toc: false

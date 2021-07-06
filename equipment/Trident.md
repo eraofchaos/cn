@@ -2,7 +2,7 @@
 title: "三叉戰戟"
 permalink: /equipment/Trident/
 excerpt: "魔法门之英雄无敌：战争纪元 三叉戰戟. 三叉戰戟"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Trident.md"
 toc: false

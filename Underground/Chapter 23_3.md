@@ -2,7 +2,7 @@
 title: "地下城 - 第廿三章 - 23-3 雷霆肆虐"
 permalink: /Underground/Chapter 23_3/
 excerpt: "第廿三章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第廿三章_3. 23-3 雷霆肆虐"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 23_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "女妖護肩"
 permalink: /equipment/Enchantress' Shoulder-guards/
 excerpt: "魔法门之英雄无敌：战争纪元 女妖護肩. 女妖護肩"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Enchantress' Shoulder-guards.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "聖徽 - 善良"
 permalink: /Emblem/Type Goodness/
 excerpt: "魔法门之英雄无敌：战争纪元 聖徽. 聖徽. 魔法门之英雄无敌：战争纪元 聖徽 善良. 魔法门之英雄无敌：战争纪元 善良"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "type善良.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Korbac/
 excerpt: "魔法门之英雄无敌：战争纪元 克巴斯. 克巴斯. 克巴斯因拯救了學者冉瑟，而作為英雄被艾拉西亞的人們所熟知。但不管其真相如何，克巴斯在為泰塔利亞服役時的表現都證明了他的勇猛。"
 heroID: 61502
 QR: hero_61502
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Korbac"
 toc: true

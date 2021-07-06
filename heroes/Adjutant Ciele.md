@@ -2,7 +2,7 @@
 title: "副官 薩麗爾"
 permalink: /heroes/Adjutant Ciele/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 薩麗爾"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Adjutant Ciele.md"
 QR: adhero_60705

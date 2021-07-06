@@ -4,7 +4,7 @@ permalink: /heroes/Yog/
 excerpt: "魔法门之英雄无敌：战争纪元 約克. 約克. 約克跟隨布拉卡達的法師們學習多年，但是他更加偏愛閱讀戰爭方面的文章而不是研習魔法符文。後來收到克魯羅德公爵的賞識，成為野蠻人軍中出色的將領。"
 heroID: 60604
 QR: hero_60604
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Yog"
 toc: true

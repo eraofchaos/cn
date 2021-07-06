@@ -2,7 +2,7 @@
 title: "組合說明 for 石化"
 permalink: /combination/Petrify/
 excerpt: "組合說明 - 石化. Units and Heroes Formation."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "石化.md"
 toc: false

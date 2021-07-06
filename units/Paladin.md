@@ -3,7 +3,7 @@ title: "聖堂武士"
 permalink: /units/Paladin/
 excerpt: "魔法门之英雄无敌：战争纪元 聖堂武士. 聖堂武士 兵團. 聖堂誅罪官. 魔法门之英雄无敌：战争纪元 聖堂武士是城堡陣營最堅實的盾牌，他們善於激勵部隊的士氣，使他們發揮出更強的力量。"
 unitID: 108
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "聖堂武士"
 toc: true

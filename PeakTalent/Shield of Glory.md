@@ -2,7 +2,7 @@
 title: "榮耀之盾. 巔峰天賦 - 榮耀之盾"
 permalink: /PeakTalent/Shield of Glory/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 榮耀之盾. 巔峰天賦 榮耀之盾. 榮耀之盾"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Shield of Glory.md"
 toc: false

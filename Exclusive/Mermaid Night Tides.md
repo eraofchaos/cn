@@ -2,7 +2,7 @@
 title: "專屬 - 喚汐 (Mermaid)"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "魔法门之英雄无敌：战争纪元 喚汐. 喚汐. 魔法门之英雄无敌：战争纪元 專屬 喚汐. 美人魚 專屬."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Mermaid 喚汐.md"
 toc: false

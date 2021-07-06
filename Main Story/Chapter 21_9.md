@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-9 獸人起源"
 permalink: /Main Story/Chapter 21_9/
 excerpt: "第廿一章 - 9. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_9. 21-9 獸人起源"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Chapter 21_9.md"
 toc: false

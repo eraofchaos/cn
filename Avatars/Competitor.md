@@ -2,7 +2,7 @@
 title: "頭像 - 高階競技者"
 permalink: /Avatars/Competitor/
 excerpt: "魔法门之英雄无敌：战争纪元  高階競技者"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Competitor.md"
 toc: false

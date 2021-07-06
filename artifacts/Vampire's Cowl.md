@@ -2,7 +2,7 @@
 title: "寶物 - 鬼王斗篷 - 吸血鬼斗篷"
 permalink: /artifacts/Vampire's Cowl/
 excerpt: "魔法门之英雄无敌：战争纪元  鬼王斗篷 - 吸血鬼斗篷. 吸血鬼珍貴的斗篷，鬼王斗篷的元件之一"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Vampire's Cowl.md"
 toc: false

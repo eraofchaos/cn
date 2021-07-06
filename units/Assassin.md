@@ -3,7 +3,7 @@ title: "刺客"
 permalink: /units/Assassin/
 excerpt: "魔法门之英雄无敌：战争纪元 刺客. 刺客 兵團. null. 魔法门之英雄无敌：战争纪元 行於黑夜，侍奉光明，萬物皆虛，萬事皆允"
 unitID: 9701
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "刺客"
 toc: true
@@ -75,6 +75,14 @@ toc: true
   |  | [皮質長靴](/cn/equipment/Leather Boots/) | **生命** | **防禦** | 
 
 ## 專屬
+
+ **名字:** [袖箭](/cn/Exclusive/Assassin Hidden Blade/) 
+
+ **Is Open:** + 
+
+ **Item to 升星:** [袖箭碎片](/cn/Items/con_2200/)
+
+ **塗裝:** [袖箭特效塗裝](/cn/Items/con_2199/)
 
 
 ## 聖徽推薦

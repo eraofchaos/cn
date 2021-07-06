@@ -2,7 +2,7 @@
 title: "冥王肩甲"
 permalink: /equipment/Hades' Scapula/
 excerpt: "魔法门之英雄无敌：战争纪元 冥王肩甲. 冥王肩甲"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "Hades' Scapula.md"
 toc: false

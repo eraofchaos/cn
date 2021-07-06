@@ -3,7 +3,7 @@ title: "精神元素"
 permalink: /units/Psychic Elemental/
 excerpt: "魔法门之英雄无敌：战争纪元 精神元素. 精神元素 兵團. 崇高意志. 魔法门之英雄无敌：战争纪元 意識和思想所對映在物質世界的能量體，可對敵人發動心靈層面的攻擊，意志不堅者會引發心智上的無序和癲狂。"
 unitID: 906
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "精神元素"
 toc: true
