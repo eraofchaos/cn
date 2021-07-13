@@ -2,7 +2,7 @@
 title: "地下城 - 第廿五章 - 25-1 法力奧妙"
 permalink: /Underground/Chapter 25_1/
 excerpt: "第廿五章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第廿五章_1. 25-1 法力奧妙"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 25_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "戰爭頭盔"
 permalink: /equipment/Plate Helmet/
 excerpt: "魔法门之英雄无敌：战争纪元 戰爭頭盔. 戰爭頭盔"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Plate Helmet.md"
 toc: false

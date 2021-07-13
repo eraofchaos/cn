@@ -2,7 +2,7 @@
 title: "狙命長弓"
 permalink: /equipment/Slaughter Longbow/
 excerpt: "魔法门之英雄无敌：战争纪元 狙命長弓. 狙命長弓"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Slaughter Longbow.md"
 toc: false

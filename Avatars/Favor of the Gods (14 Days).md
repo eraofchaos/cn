@@ -2,7 +2,7 @@
 title: "頭像 - 諸神眷顧（14天）"
 permalink: /Avatars/Favor of the Gods (14 Days)/
 excerpt: "魔法门之英雄无敌：战争纪元  諸神眷顧（14天）"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Favor of the Gods (14 Days).md"
 toc: false

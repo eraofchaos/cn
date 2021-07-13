@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 - 22-8 彩色龍"
 permalink: /Main Story/Chapter 22_8/
 excerpt: "第廿二章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章_8. 22-8 彩色龍"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 22_8.md"
 toc: false

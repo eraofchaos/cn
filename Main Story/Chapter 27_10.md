@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿七章 - 27-10 反抗監獄"
 permalink: /Main Story/Chapter 27_10/
 excerpt: "第廿七章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿七章_10. 27-10 反抗監獄"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 27_10.md"
 toc: false

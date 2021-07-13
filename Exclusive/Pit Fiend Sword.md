@@ -2,7 +2,7 @@
 title: "專屬 - 無畏狂攻 (Pit Fiend)"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "魔法门之英雄无敌：战争纪元 無畏狂攻. 無畏狂攻. 魔法门之英雄无敌：战争纪元 專屬 無畏狂攻. 地獄領主 專屬."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Pit Fiend 無畏狂攻.md"
 toc: false

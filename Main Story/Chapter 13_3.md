@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-3 援助之舉"
 permalink: /Main Story/Chapter 13_3/
 excerpt: "第十三章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_3. 13-3 援助之舉"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 13_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀衝鋒 (Sprite)"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀衝鋒. 榮耀衝鋒. 魔法门之英雄无敌：战争纪元 專屬 榮耀衝鋒. 魔法仙靈 專屬."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Sprite 榮耀衝鋒.md"
 toc: false

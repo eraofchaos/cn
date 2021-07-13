@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十二章 - 12-2 藍色聖塔"
 permalink: /Main Story/Chapter 12_2/
 excerpt: "第十二章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十二章_2. 12-2 藍色聖塔"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 12_2.md"
 toc: false

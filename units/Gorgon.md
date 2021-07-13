@@ -3,7 +3,7 @@ title: "蠻牛"
 permalink: /units/Gorgon/
 excerpt: "魔法门之英雄无敌：战争纪元 蠻牛. 蠻牛 兵團. 死兆牡牛. 魔法门之英雄无敌：战争纪元 目光能來帶死亡的恐怖生物，被它們盯上的人沒有一個能活著走出沼澤。"
 unitID: 805
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "蠻牛"
 toc: true

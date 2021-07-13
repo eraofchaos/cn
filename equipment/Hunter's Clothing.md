@@ -2,7 +2,7 @@
 title: "獵人之衣"
 permalink: /equipment/Hunter's Clothing/
 excerpt: "魔法门之英雄无敌：战争纪元 獵人之衣. 獵人之衣"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Hunter's Clothing.md"
 toc: false

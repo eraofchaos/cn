@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二十章 - 20-2 渴望魔法"
 permalink: /Main Story/Chapter 20_2/
 excerpt: "第二十章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二十章_2. 20-2 渴望魔法"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 20_2.md"
 toc: false

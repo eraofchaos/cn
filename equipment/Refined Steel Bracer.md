@@ -2,7 +2,7 @@
 title: "精鐵護腕"
 permalink: /equipment/Refined Steel Bracer/
 excerpt: "魔法门之英雄无敌：战争纪元 精鐵護腕. 精鐵護腕"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Refined Steel Bracer.md"
 toc: false

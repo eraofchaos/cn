@@ -2,7 +2,7 @@
 title: "冥界輕甲"
 permalink: /equipment/Light Armor of the Netherworld/
 excerpt: "魔法门之英雄无敌：战争纪元 冥界輕甲. 冥界輕甲"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Light Armor of the Netherworld.md"
 toc: false

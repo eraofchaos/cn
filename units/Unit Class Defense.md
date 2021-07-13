@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Unit Class Defense"
 toc: false
@@ -24,8 +24,8 @@ classes: wide
   | 10 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 11 | ![皇家十字軍](/images/u/ti_shizijun.jpg) | [皇家十字軍](/cn/units/Swordsman/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  大十字軍  |
   | 12 | ![龍龜](/images/u/ti_longgui.jpg) | [龍龜](/cn/units/Dragon Turtle/) | 防禦 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  遠古龍龜  |
-  | 13 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  半人馬酋長  |
-  | 14 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 13 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  半人馬酋長  |
+  | 14 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  堅壁守衛  |
   | 15 | ![牛頭怪](/images/u/ti_niutouguai.jpg) | [牛頭怪](/cn/units/Minotaur/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  米諾陶洛斯  |
   | 16 | ![傀儡龍](/images/u/ti_kuileilong.jpg) | [傀儡龍](/cn/units/Dragon Golem/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 17 | ![聖堂武士](/images/u/ti_shengqishi.jpg) | [聖堂武士](/cn/units/Paladin/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  聖堂誅罪官  |

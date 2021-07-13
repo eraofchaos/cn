@@ -2,7 +2,7 @@
 title: "瞭望甲板"
 permalink: /equipment/Observation Deck/
 excerpt: "魔法门之英雄无敌：战争纪元 瞭望甲板. 瞭望甲板"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Observation Deck.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿八章 - 28-4 食人者"
 permalink: /Main Story/Chapter 28_4/
 excerpt: "第廿八章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿八章_4. 28-4 食人者"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 28_4.md"
 toc: false

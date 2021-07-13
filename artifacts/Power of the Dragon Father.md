@@ -2,7 +2,7 @@
 title: "寶物 - 龍王神力"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "魔法门之英雄无敌：战争纪元  龍王神力. 龍王神力 龍王以自身龐大的力量匯聚了多種寶物打造的神器，可降低魔法傷害"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Power of the Dragon Father.md"
 toc: false

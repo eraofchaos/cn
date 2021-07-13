@@ -2,7 +2,7 @@
 title: "地下城 - 第廿八章 - 28-1  斧頭派對"
 permalink: /Underground/Chapter 28_1/
 excerpt: "第廿八章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第廿八章_1. 28-1  斧頭派對"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 28_1.md"
 toc: false

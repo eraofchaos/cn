@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR -  Heroes"
 permalink: /heroes/Hero Rank SSR/
 excerpt: "魔法门之英雄无敌：战争纪元 Hero Rank SSR. Hero Rank SSR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Hero Rank SSR"
 toc: false

@@ -2,7 +2,7 @@
 title: "組合說明 for 灼燒"
 permalink: /combination/Burning/
 excerpt: "組合說明 - 灼燒. Units and Heroes Formation."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "灼燒.md"
 toc: false

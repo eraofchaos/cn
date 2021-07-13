@@ -2,7 +2,7 @@
 title: "蒼穹之星"
 permalink: /equipment/Heavenly Star/
 excerpt: "魔法门之英雄无敌：战争纪元 蒼穹之星. 蒼穹之星"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Heavenly Star.md"
 toc: false

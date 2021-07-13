@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十五章 - 15-3 尋找和平"
 permalink: /Main Story/Chapter 15_3/
 excerpt: "第十五章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十五章_3. 15-3 尋找和平"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 15_3.md"
 toc: false

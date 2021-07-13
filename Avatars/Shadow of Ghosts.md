@@ -2,7 +2,7 @@
 title: "頭像 - 幽魂濁影"
 permalink: /Avatars/Shadow of Ghosts/
 excerpt: "魔法门之英雄无敌：战争纪元  幽魂濁影"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Shadow of Ghosts.md"
 toc: false

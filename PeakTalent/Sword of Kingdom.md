@@ -2,7 +2,7 @@
 title: "王國之劍. 巔峰天賦 - 王國之劍"
 permalink: /PeakTalent/Sword of Kingdom/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 王國之劍. 巔峰天賦 王國之劍. 王國之劍"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Sword of Kingdom.md"
 toc: false

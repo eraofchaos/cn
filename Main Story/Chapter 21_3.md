@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-3 吟遊詩人"
 permalink: /Main Story/Chapter 21_3/
 excerpt: "第廿一章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_3. 21-3 吟遊詩人"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 21_3.md"
 toc: false

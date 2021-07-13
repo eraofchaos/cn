@@ -2,7 +2,7 @@
 title: "地下城 - 第十八章 - 18-2 地獄烈焰"
 permalink: /Underground/Chapter 18_2/
 excerpt: "第十八章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第十八章_2. 18-2 地獄烈焰"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 18_2.md"
 toc: false

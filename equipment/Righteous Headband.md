@@ -2,7 +2,7 @@
 title: "熱血頭帶"
 permalink: /equipment/Righteous Headband/
 excerpt: "魔法门之英雄无敌：战争纪元 熱血頭帶. 熱血頭帶"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Righteous Headband.md"
 toc: false

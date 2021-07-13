@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十九章 - 19-12 魔法商品"
 permalink: /Main Story/Chapter 19_12/
 excerpt: "第十九章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十九章_12. 19-12 魔法商品"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 19_12.md"
 toc: false

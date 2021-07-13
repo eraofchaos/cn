@@ -2,7 +2,7 @@
 title: "寶物 - 泰坦神箭 - 守護神之盾"
 permalink: /artifacts/Sentinel's Shield/
 excerpt: "魔法门之英雄无敌：战争纪元  泰坦神箭 - 守護神之盾. 受神力加持的盾牌，泰坦神箭的元件之一"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Sentinel's Shield.md"
 toc: false

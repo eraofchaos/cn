@@ -2,7 +2,7 @@
 title: "寶物 - 天使聯盟 - 聖靴"
 permalink: /artifacts/Sandals of the Saint/
 excerpt: "魔法门之英雄无敌：战争纪元  天使聯盟 - 聖靴. 為慶祝艾拉西亞的統一鑄造的神器，天使聯盟的元件之一"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Sandals of the Saint.md"
 toc: false

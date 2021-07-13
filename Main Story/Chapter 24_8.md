@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-8 迷惑偏好"
 permalink: /Main Story/Chapter 24_8/
 excerpt: "第廿四章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_8. 24-8 迷惑偏好"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 24_8.md"
 toc: false

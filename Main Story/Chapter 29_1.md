@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿九章 - 29-1 鬧鬼豪宅"
 permalink: /Main Story/Chapter 29_1/
 excerpt: "第廿九章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿九章_1. 29-1 鬧鬼豪宅"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 29_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "競技勳章. 巔峰天賦 - 競技勳章"
 permalink: /PeakTalent/Medal of Gladiators/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 競技勳章. 巔峰天賦 競技勳章. 競技勳章"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Medal of Gladiators.md"
 toc: false

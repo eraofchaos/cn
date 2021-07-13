@@ -2,7 +2,7 @@
 title: "地下城 - 第十六章 - 16-2 天空追憶"
 permalink: /Underground/Chapter 16_2/
 excerpt: "第十六章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第十六章_2. 16-2 天空追憶"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 16_2.md"
 toc: false

@@ -3,7 +3,7 @@ title: "穴居人"
 permalink: /units/Troglodyte/
 excerpt: "魔法门之英雄无敌：战争纪元 穴居人. 穴居人 兵團. 幽暗穴居人. 魔法门之英雄无敌：战争纪元 視力退化的地下生物，但在他極度發達的嗅覺面前，任何獵物都無所遁形。"
 unitID: 701
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "穴居人"
 toc: true

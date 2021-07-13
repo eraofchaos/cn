@@ -2,7 +2,7 @@
 title: "頭像 - 煉獄主宰"
 permalink: /Avatars/Inferno Ruler/
 excerpt: "魔法门之英雄无敌：战争纪元  煉獄主宰"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Inferno Ruler.md"
 toc: false

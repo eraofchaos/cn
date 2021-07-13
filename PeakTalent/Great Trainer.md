@@ -2,7 +2,7 @@
 title: "訓練有素. 巔峰天賦 - 訓練有素"
 permalink: /PeakTalent/Great Trainer/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 訓練有素. 巔峰天賦 訓練有素. 訓練有素"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Great Trainer.md"
 toc: false

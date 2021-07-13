@@ -2,7 +2,7 @@
 title: "Backup - 月神庇佑"
 permalink: /Backup/Blessing of Luna/
 excerpt: "魔法门之英雄无敌：战争纪元  月神庇佑"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Blessing of Luna.md"
 toc: false

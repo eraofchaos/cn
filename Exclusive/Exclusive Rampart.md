@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Rampart. 專屬 Rampart. List of 專屬 Rampart in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Exclusive Rampart"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | 專屬 | Open  |    Type   |  Item to Rank UP      |  塗裝   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [半人馬首領](/cn/units/Centaur/) | [榮耀守護](/cn/Exclusive/Centaur Iris Shield/) | - | 衝鋒 | [榮耀守護碎片](/cn/Items/con_913/) | - |
+  | 1  | [半人馬首領](/cn/units/Centaur/) | [榮耀守護](/cn/Exclusive/Centaur Iris Shield/) | + | 衝鋒 | [榮耀守護碎片](/cn/Items/con_913/) | - |
   | 2  | [戰鬥矮人](/cn/units/Dwarf/) | [榮耀守護](/cn/Exclusive/Dwarf Iris Shield/) | - | 衝鋒 | [榮耀守護碎片](/cn/Items/con_913/) | - |
   | 3  | [木精靈](/cn/units/Wood Elf/) | [獵影逐風](/cn/Exclusive/Wood Elf Long Bow/) | - | 衝鋒 | [獵影逐風碎片](/cn/Items/con_914/) | - |
   | 4  | [銀翼飛馬](/cn/units/Pegasus/) | [獵影逐風](/cn/Exclusive/Pegasus Long Bow/) | + | 衝鋒 | [獵影逐風碎片](/cn/Items/con_914/) | - |

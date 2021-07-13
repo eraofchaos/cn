@@ -3,7 +3,7 @@ title: "獨眼巨人"
 permalink: /units/Cyclops/
 excerpt: "魔法门之英雄无敌：战争纪元 獨眼巨人. 獨眼巨人 兵團. 攻城巨獸. 魔法门之英雄无敌：战争纪元 獨眼巨人以腦袋上的獨眼和巨大的身軀而聞名，這個種族暴躁易怒，並擁有著惡魔的血脈。"
 unitID: 406
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "獨眼巨人"
 toc: true

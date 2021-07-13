@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Rampart -  Units"
 permalink: /units/Faction Rampart/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Rampart. Faction Rampart. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Faction Rampart"
 toc: false
@@ -14,8 +14,8 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | 排名 |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  半人馬酋長  |
-  | 2 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 1 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  半人馬酋長  |
+  | 2 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  堅壁守衛  |
   | 3 | ![木精靈](/images/u/ti_mujingling.jpg) | [木精靈](/cn/units/Wood Elf/) | 射手 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  森林遊俠  |
   | 4 | ![銀翼飛馬](/images/u/ti_feima.jpg) | [銀翼飛馬](/cn/units/Pegasus/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  銀翼衛士  |
   | 5 | ![枯木衛士](/images/u/ti_shuyao.jpg) | [枯木衛士](/cn/units/Dendroid Guard/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  遠古守衛  |

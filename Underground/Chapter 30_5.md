@@ -2,7 +2,7 @@
 title: "地下城 - 第三十章 - 30-5  死亡探索"
 permalink: /Underground/Chapter 30_5/
 excerpt: "第三十章 - 5. 魔法门之英雄无敌：战争纪元  地下城 - 第三十章_5. 30-5  死亡探索"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 30_5.md"
 toc: false

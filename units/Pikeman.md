@@ -3,7 +3,7 @@ title: "帝國槍兵"
 permalink: /units/Pikeman/
 excerpt: "魔法门之英雄无敌：战争纪元 帝國槍兵. 帝國槍兵 兵團. 皇家禁衛. 魔法门之英雄无敌：战争纪元 帝國槍兵是王國的第一道防線，他們英勇善戰，忠心耿耿，為帝國立下卓越功勳，為世人所讚譽。"
 unitID: 101
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "帝國槍兵"
 toc: true

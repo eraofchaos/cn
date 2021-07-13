@@ -2,7 +2,7 @@
 title: "主線劇情 - 第四章 - 4-4 提煉中心"
 permalink: /Main Story/Chapter 4_4/
 excerpt: "第四章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第四章_4. 4-4 提煉中心"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 4_4.md"
 toc: false

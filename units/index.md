@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "index.md"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
   | 4 | ![冰魔](/images/u/ti_bingmo.jpg) | [冰魔](/cn/units/Ice Demon/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 5 | ![刺客](/images/u/ti_cishazhe.jpg) | [刺客](/cn/units/Assassin/) | 突擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 6 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  深淵巨噬  |
-  | 7 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  半人馬酋長  |
+  | 7 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  半人馬酋長  |
   | 8 | ![半獸人](/images/u/ti_shourentoufushou.jpg) | [半獸人](/cn/units/Orc/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  半獸人統領  |
   | 9 | ![叢林妖精](/images/u/ti_conglinyaojing.jpg) | [叢林妖精](/cn/units/Leprechaun/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  神樹守靈  |
   | 10 | ![吸血鬼](/images/u/ti_xixuegui.jpg) | [吸血鬼](/cn/units/Vampire/) | 突擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  吸血伯爵  |
@@ -50,7 +50,7 @@ classes: wide
   | 28 | ![幽靈](/images/u/ti_youling.jpg) | [幽靈](/cn/units/Wight/) | 魔法 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  咒怨亡魂  |
   | 29 | ![德魯伊](/images/u/ti_deluyi.jpg) | [德魯伊](/cn/units/Druid/) | 魔法 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  大德魯伊  |
   | 30 | ![惡狼騎士](/images/u/ti_langqibing.jpg) | [惡狼騎士](/cn/units/Wolf Rider/) | 突擊 | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  狂狼鬥士  |
-  | 31 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 31 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  堅壁守衛  |
   | 32 | ![斯巴達戰士](/images/u/ti_sibada.jpg) | [斯巴達戰士](/cn/units/Spartan Warriors/) | 攻擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
   | 33 | ![暗黑領主](/images/u/ti_sishen.jpg) | [暗黑領主](/cn/units/Dark Champion/) | 攻擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 34 | ![木乃伊](/images/u/ti_munaiyi.jpg) | [木乃伊](/cn/units/Mummy/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  不朽法老  |

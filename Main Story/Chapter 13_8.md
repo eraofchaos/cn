@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-8 黎明之前"
 permalink: /Main Story/Chapter 13_8/
 excerpt: "第十三章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_8. 13-8 黎明之前"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 13_8.md"
 toc: false

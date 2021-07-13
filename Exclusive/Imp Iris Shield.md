@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀守護 (Imp)"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀守護. 榮耀守護. 魔法门之英雄无敌：战争纪元 專屬 榮耀守護. 小惡魔 專屬."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Imp 榮耀守護.md"
 toc: false

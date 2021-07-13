@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Unit Rank SR"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | 21 | ![皇家十字軍](/images/u/ti_shizijun.jpg) | [皇家十字軍](/cn/units/Swordsman/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  大十字軍  |
   | 22 | ![美杜莎](/images/u/ti_meidusha.jpg) | [美杜莎](/cn/units/Medusa/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  美杜莎女王  |
   | 23 | ![僧侶](/images/u/ti_senglv.jpg) | [僧侶](/cn/units/Monk/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  祭司  |
-  | 24 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 24 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  堅壁守衛  |
   | 25 | ![牛頭怪](/images/u/ti_niutouguai.jpg) | [牛頭怪](/cn/units/Minotaur/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  米諾陶洛斯  |
   | 26 | ![魔力飛艇](/images/u/ti_reqiqiu.jpg) | [魔力飛艇](/cn/units/Magic Airship/) | 魔法 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 27 | ![蜥蜴人](/images/u/ti_xiyiren.jpg) | [蜥蜴人](/cn/units/Lizardman/) | 射手 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

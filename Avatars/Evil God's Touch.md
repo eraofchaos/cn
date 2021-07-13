@@ -2,7 +2,7 @@
 title: "頭像 - 邪神之觸"
 permalink: /Avatars/Evil God's Touch/
 excerpt: "魔法门之英雄无敌：战争纪元  邪神之觸"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Evil God's Touch.md"
 toc: false

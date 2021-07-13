@@ -2,7 +2,7 @@
 title: "聖徽 - 不祥徵兆"
 permalink: /Emblem/Ominous Sign/
 excerpt: "魔法门之英雄无敌：战争纪元 不祥徵兆. 不祥徵兆. 魔法门之英雄无敌：战争纪元 聖徽 不祥徵兆. 魔法门之英雄无敌：战争纪元 邪惡 不祥徵兆"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Ominous Sign.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "聖徽 - 遺忘真名"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "魔法门之英雄无敌：战争纪元 遺忘真名. 遺忘真名. 魔法门之英雄无敌：战争纪元 聖徽 遺忘真名. 魔法门之英雄无敌：战争纪元 邪惡 遺忘真名"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Forgotten Autonym.md"
 toc: false

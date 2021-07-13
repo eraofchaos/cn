@@ -2,7 +2,7 @@
 title: "主線劇情 - 第四章 - 4-1 藍色營帳"
 permalink: /Main Story/Chapter 4_1/
 excerpt: "第四章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第四章_1. 4-1 藍色營帳"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 4_1.md"
 toc: false

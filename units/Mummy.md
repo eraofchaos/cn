@@ -3,7 +3,7 @@ title: "木乃伊"
 permalink: /units/Mummy/
 excerpt: "魔法门之英雄无敌：战争纪元 木乃伊. 木乃伊 兵團. 不朽法老. 魔法门之英雄无敌：战争纪元 在古老陵墓中沉睡的不死者，任何打擾他的人都會受到詛咒。"
 unitID: 308
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "木乃伊"
 toc: true

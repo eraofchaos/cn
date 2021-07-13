@@ -2,7 +2,7 @@
 title: "瞄準. 巔峰天賦 - 瞄準"
 permalink: /PeakTalent/Aiming/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 瞄準. 巔峰天賦 瞄準. 瞄準"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Aiming.md"
 toc: false

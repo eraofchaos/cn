@@ -2,7 +2,7 @@
 title: "寶物 - 活體鷹眼"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "魔法门之英雄无敌：战争纪元  活體鷹眼. 活體鷹眼 活著能看到更多財富。"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Live Hawkeye.md"
 toc: false

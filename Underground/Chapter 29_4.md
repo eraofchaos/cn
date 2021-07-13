@@ -2,7 +2,7 @@
 title: "地下城 - 第廿九章 - 29-4  燒烤饕餮"
 permalink: /Underground/Chapter 29_4/
 excerpt: "第廿九章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第廿九章_4. 29-4  燒烤饕餮"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 29_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "死亡氣息"
 permalink: /equipment/Breath of Death/
 excerpt: "魔法门之英雄无敌：战争纪元 死亡氣息. 死亡氣息"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Breath of Death.md"
 toc: false

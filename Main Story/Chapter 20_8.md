@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二十章 - 20-8 魔法行會"
 permalink: /Main Story/Chapter 20_8/
 excerpt: "第二十章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二十章_8. 20-8 魔法行會"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 20_8.md"
 toc: false

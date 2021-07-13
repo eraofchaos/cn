@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿八章 - 28-11 亂葬墳地"
 permalink: /Main Story/Chapter 28_11/
 excerpt: "第廿八章 - 11. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿八章_11. 28-11 亂葬墳地"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 28_11.md"
 toc: false

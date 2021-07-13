@@ -2,7 +2,7 @@
 title: "烈焰之喙"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "魔法门之英雄无敌：战争纪元 烈焰之喙. 烈焰之喙"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Beak of Raging Flame.md"
 toc: false

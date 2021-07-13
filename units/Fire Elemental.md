@@ -3,7 +3,7 @@ title: "幽火元素"
 permalink: /units/Fire Elemental/
 excerpt: "魔法门之英雄无敌：战争纪元 幽火元素. 幽火元素 兵團. 不滅之焰. 魔法门之英雄无敌：战争纪元 純粹的能量所構成的不穩定能量體，軀體被摧毀後體內無法維持能量會傾瀉而出對敵人造成巨大的衝擊。"
 unitID: 904
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "幽火元素"
 toc: true

@@ -3,7 +3,7 @@ title: "黑龍"
 permalink: /units/Black Dragon/
 excerpt: "魔法门之英雄无敌：战争纪元 黑龍. 黑龍 兵團. 災厄魔龍. 魔法门之英雄无敌：战争纪元 佔據著地下世界頂級生態位的兇殘暴君，凡人的法術無法對它造成絲毫的傷害。"
 unitID: 707
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "黑龍"
 toc: true

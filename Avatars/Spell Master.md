@@ -2,7 +2,7 @@
 title: "頭像 - 法術大師"
 permalink: /Avatars/Spell Master/
 excerpt: "魔法门之英雄无敌：战争纪元  法術大師"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Spell Master.md"
 toc: false

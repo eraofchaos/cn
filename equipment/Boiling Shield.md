@@ -2,7 +2,7 @@
 title: "蒸騰護盾"
 permalink: /equipment/Boiling Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 蒸騰護盾. 蒸騰護盾"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Boiling Shield.md"
 toc: false

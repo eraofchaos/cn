@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 - 2-8 友好交流"
 permalink: /Main Story/Chapter 2_8/
 excerpt: "第二章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章_8. 2-8 友好交流"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 2_8.md"
 toc: false

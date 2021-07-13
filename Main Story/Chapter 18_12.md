@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十八章 - 18-12 堅果小隊"
 permalink: /Main Story/Chapter 18_12/
 excerpt: "第十八章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十八章_12. 18-12 堅果小隊"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 18_12.md"
 toc: false

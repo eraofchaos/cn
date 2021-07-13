@@ -2,7 +2,7 @@
 title: "Era of Chaos - 奇跡之海 - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "魔法门之英雄无敌：战争纪元 奇跡之海. List of ALL 奇跡之海 questions with correct answers"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "healingSea"
 toc: false

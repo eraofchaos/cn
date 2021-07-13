@@ -2,7 +2,7 @@
 title: "寶物 - 抗魔符文 - 抗魔鏈"
 permalink: /artifacts/Garniture of Interference/
 excerpt: "魔法门之英雄无敌：战争纪元  抗魔符文 - 抗魔鏈. 刻印著太極符號的項鍊，抗魔符文的元件之一"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Garniture of Interference.md"
 toc: false

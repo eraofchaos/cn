@@ -2,7 +2,7 @@
 title: "水手外襯"
 permalink: /equipment/Sailor's Shirt/
 excerpt: "魔法门之英雄无敌：战争纪元 水手外襯. 水手外襯"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Sailor's Shirt.md"
 toc: false

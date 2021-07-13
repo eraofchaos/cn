@@ -2,7 +2,7 @@
 title: "寶物 - 龍王神力 - 龍骨護脛"
 permalink: /artifacts/Dragonbone Greaves/
 excerpt: "魔法门之英雄无敌：战争纪元  龍王神力 - 龍骨護脛. 以老死的龍王脛骨打造的腿甲，龍王神力的元件之一"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Dragonbone Greaves.md"
 toc: false

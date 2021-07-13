@@ -2,7 +2,7 @@
 title: "地下城 - 第三章 - 3-4 拜訪智者"
 permalink: /Underground/Chapter 3_4/
 excerpt: "第三章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第三章_4. 3-4 拜訪智者"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 3_4.md"
 toc: false

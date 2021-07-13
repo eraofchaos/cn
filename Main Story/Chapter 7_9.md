@@ -2,7 +2,7 @@
 title: "主線劇情 - 第七章 - 7-9 為了家園"
 permalink: /Main Story/Chapter 7_9/
 excerpt: "第七章 - 9. 魔法门之英雄无敌：战争纪元  主線劇情 - 第七章_9. 7-9 為了家園"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 7_9.md"
 toc: false

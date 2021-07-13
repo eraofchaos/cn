@@ -2,7 +2,7 @@
 title: "死亡權杖"
 permalink: /equipment/Nether Staff/
 excerpt: "魔法门之英雄无敌：战争纪元 死亡權杖. 死亡權杖"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Nether Staff.md"
 toc: false

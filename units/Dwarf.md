@@ -1,9 +1,9 @@
 ---
 title: "戰鬥矮人"
 permalink: /units/Dwarf/
-excerpt: "魔法门之英雄无敌：战争纪元 戰鬥矮人. 戰鬥矮人 兵團. null. 魔法门之英雄无敌：战争纪元 戰鬥矮人們擁有銅牆鐵壁般的防禦，他們脾氣暴躁，善於使用巨大的鐵錘平息一切反對的聲音。"
+excerpt: "魔法门之英雄无敌：战争纪元 戰鬥矮人. 戰鬥矮人 兵團. 堅壁守衛. 魔法门之英雄无敌：战争纪元 戰鬥矮人們擁有銅牆鐵壁般的防禦，他們脾氣暴躁，善於使用巨大的鐵錘平息一切反對的聲音。"
 unitID: 202
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "戰鬥矮人"
 toc: true
@@ -186,41 +186,43 @@ toc: true
 
 ## Awaking
 
+  ![堅壁守衛](/images/u/unknown.png)
+
 ### Awaking 詳情
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** 堅壁守衛
 
- **Awaking 玩法詳解:** null
+ **Awaking 玩法詳解:** 我的名字，曾經叫戰鬥矮人。年齡333歲，住在埃裡，至今未婚。每天在矮人寶屋給人當靶子亂揍到頭昏眼花，要加班到早上五點才能回家，不到一分鐘就要重新刷。
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">帝國槍兵上陣且城堡陣營至少上陣 </span><span style="color: #1ca216;font-size:18px">3 </span><span style="color: #3c2a1e;font-size:18px">個，在矮人寶屋中單次擊殺 </span><span style="color: #1ca216;font-size:18px">1000 </span><span style="color: #3c2a1e;font-size:18px">個矮人。（掃蕩不計入任務）</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">戰鬥矮人上陣且壁壘兵團至少上陣3個，通關1次冷酷級或以上龍之國。(掃蕩不計入任務）</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">在聯盟探索中，消滅 </span><span style="color: #1ca216;font-size:18px">5 </span><span style="color: #3c2a1e;font-size:18px">個野怪。</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">在聯盟探索中，採集5份資源。</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">在地下城 14-2 和 14-4 中收集 </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> 個皇家禁衛英魂。</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">在地下城15-2，15-4中收集100個堅壁守衛英魂。</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">上陣戰鬥矮人于冠軍對決中取得1次勝利。</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 矛陣橫掃
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【矛陣】</span><span style="color: #645252;font-size:18px">目標變為較大範圍內所有敵方兵團。</span>
+### 1st Skill (or 2nd): 背水戰吼
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【背水戰吼】</span><span style="color: #645252;font-size:18px">矮人咆哮範圍覆蓋至全場，同時提高己方單位10%兵團傷害</span>
 
-### 2nd Skill (or 1st): 矛陣突刺
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【矛陣】</span><span style="color: #645252;font-size:18px">造成傷害提高至 150%，「眩暈」效果持續時間延長至 4.5 秒。</span>
+### 2nd Skill (or 1st): 堅壁戰吼
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【堅壁戰吼】</span><span style="color: #645252;font-size:18px">矮人咆哮額外對技能範圍內的己方單位生成一個最大生命值15%的【護盾】，持續時間20秒</span>
 
-### 3rd Skill (or 4th): 密集方陣
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【振奮】</span><span style="color: #645252;font-size:18px">進入戰鬥後獲得「士氣高漲」效果時，額外提高 30% 兵團免傷，持續 10 秒。</span>
+### 3rd Skill (or 4th): 荊棘爆裂
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【荊棘爆裂】</span><span style="color: #645252;font-size:18px">技能觸發時額外降低目標兵團20%兵團免傷，持續時間5秒</span>
 
-### 4th Skill (or 3rd): 空心方陣
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【振奮】</span><span style="color: #645252;font-size:18px">進入戰鬥後獲得「士氣高漲」效果時，額外提高 30% 法術免傷，持續 10 秒。</span>
+### 4th Skill (or 3rd): 頭痛靈藥
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【頭痛靈藥】</span><span style="color: #645252;font-size:18px">技能【眩暈】效果時間延長至4秒，同時若目標兵團處於【流血】狀態，則額外降低其10%兵團傷害，持續8秒</span>
 
-### 5th Skill (or 6th): 滲透戰術
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【屠龍】</span><span style="color: #645252;font-size:18px">對陣 1 人和 4 人兵團時，對目標單位附加「威懾」效果。「威懾」效果：降低目標 300 暴擊值。</span>
+### 5th Skill (or 6th): 鐵刀木陣
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【鐵刀木陣】</span><span style="color: #645252;font-size:18px">額外提高防護罩內己方兵團300點韌性值</span>
 
-### 6th Skill (or 5th): 疲勞戰術
- **玩法詳解:** <span style="color: #48b946;font-size:18px">【屠龍】</span><span style="color: #645252;font-size:18px">對陣 1 人和 4 人兵團時，額外降低目標單位 300 閃避值。</span>
+### 6th Skill (or 5th): 鐵樺木壁
+ **玩法詳解:** <span style="color: #48b946;font-size:18px">【鐵樺木壁】</span><span style="color: #645252;font-size:18px">額外提高防護罩內己方兵團20%暴擊免傷</span>
 
 ## Technical info
  **runart:** 1

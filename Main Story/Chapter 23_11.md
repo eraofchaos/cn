@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-11 獵龍巨弩"
 permalink: /Main Story/Chapter 23_11/
 excerpt: "第廿三章 - 11. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_11. 23-11 獵龍巨弩"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 23_11.md"
 toc: false

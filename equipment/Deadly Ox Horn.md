@@ -2,7 +2,7 @@
 title: "奪命牛角"
 permalink: /equipment/Deadly Ox Horn/
 excerpt: "魔法门之英雄无敌：战争纪元 奪命牛角. 奪命牛角"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Deadly Ox Horn.md"
 toc: false

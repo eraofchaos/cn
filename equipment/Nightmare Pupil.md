@@ -2,7 +2,7 @@
 title: "噩夢瞳孔"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "魔法门之英雄无敌：战争纪元 噩夢瞳孔. 噩夢瞳孔"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Nightmare Pupil.md"
 toc: false

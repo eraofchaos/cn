@@ -2,7 +2,7 @@
 title: "聖徽 - 魔法門的鑰石"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "魔法门之英雄无敌：战争纪元 魔法門的鑰石. 魔法門的鑰石. 魔法门之英雄无敌：战争纪元 聖徽 魔法門的鑰石. 魔法门之英雄无敌：战争纪元 中立 魔法門的鑰石"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Stone Key to the Gates.md"
 toc: false

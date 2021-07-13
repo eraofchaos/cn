@@ -2,7 +2,7 @@
 title: "頭像 - 蠻荒霸主"
 permalink: /Avatars/Wild Overlord/
 excerpt: "魔法门之英雄无敌：战争纪元  蠻荒霸主"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Wild Overlord.md"
 toc: false

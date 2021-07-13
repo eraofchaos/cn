@@ -2,7 +2,7 @@
 title: "尖銳巨牙"
 permalink: /equipment/Sharp Fangs/
 excerpt: "魔法门之英雄无敌：战争纪元 尖銳巨牙. 尖銳巨牙"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Sharp Fangs.md"
 toc: false

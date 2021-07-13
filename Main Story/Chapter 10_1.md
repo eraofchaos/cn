@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十章 - 10-1 亡靈之地"
 permalink: /Main Story/Chapter 10_1/
 excerpt: "第十章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十章_1. 10-1 亡靈之地"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 10_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 - 22-15 水晶谷"
 permalink: /Main Story/Chapter 22_15/
 excerpt: "第廿二章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章_15. 22-15 水晶谷"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 22_15.md"
 toc: false

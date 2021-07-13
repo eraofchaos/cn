@@ -2,7 +2,7 @@
 title: "閃電胸甲"
 permalink: /equipment/Breastplate of Lightning/
 excerpt: "魔法门之英雄无敌：战争纪元 閃電胸甲. 閃電胸甲"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Breastplate of Lightning.md"
 toc: false

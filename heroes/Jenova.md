@@ -4,7 +4,7 @@ permalink: /heroes/Jenova/
 excerpt: "魔法门之英雄无敌：战争纪元 傑諾娃. 傑諾娃. 幼時曾被暗黑精靈人販子集團俘獲，但是最終傑諾娃被一隻復仇的獨角獸從可怕的命運中解脫出來。從那時起她開始崇拜這些叢林裡神祕的生物，並決心一生同牠們生活在一起。沒人比傑諾娃更瞭解獨角獸，傑諾娃能更合理的在戰爭中運用獨角獸的快捷與力量。"
 heroID: 60202
 QR: hero_60202
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Jenova"
 toc: true

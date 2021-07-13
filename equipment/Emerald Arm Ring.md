@@ -2,7 +2,7 @@
 title: "翠綠臂環"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "魔法门之英雄无敌：战争纪元 翠綠臂環. 翠綠臂環"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Emerald Arm Ring.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十七章 - 17-1 精靈工藝"
 permalink: /Main Story/Chapter 17_1/
 excerpt: "第十七章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十七章_1. 17-1 精靈工藝"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 17_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "迅疾護甲"
 permalink: /equipment/Empire's Crest/
 excerpt: "魔法门之英雄无敌：战争纪元 迅疾護甲. 迅疾護甲"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Empire's Crest.md"
 toc: false

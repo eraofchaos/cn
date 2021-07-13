@@ -2,7 +2,7 @@
 title: "UnknownEquipment_2094"
 permalink: /equipment/UnknownEquipment_2094/
 excerpt: "魔法门之英雄无敌：战争纪元 UnknownEquipment_2094. UnknownEquipment_2094"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "UnknownEquipment_2094.md"
 toc: false

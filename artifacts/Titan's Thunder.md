@@ -2,7 +2,7 @@
 title: "寶物 - 泰坦神箭"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "魔法门之英雄无敌：战争纪元  泰坦神箭. 泰坦神箭 傳說中泰坦的神器，由數件泰坦寶物組合而成，可對敵人釋放閃電"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Titan's Thunder.md"
 toc: false

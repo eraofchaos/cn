@@ -3,7 +3,7 @@ title: "蜥蜴"
 permalink: /units/Basilisk/
 excerpt: "魔法门之英雄无敌：战争纪元 蜥蜴. 蜥蜴 兵團. null. 魔法门之英雄无敌：战争纪元 棲息在水下的掠食者，冷血且極具耐心，習慣在暗處等待獵物自投羅網。"
 unitID: 804
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "蜥蜴"
 toc: true

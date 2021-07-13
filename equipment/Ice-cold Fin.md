@@ -2,7 +2,7 @@
 title: "冰冷魚鰭"
 permalink: /equipment/Ice-cold Fin/
 excerpt: "魔法门之英雄无敌：战争纪元 冰冷魚鰭. 冰冷魚鰭"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Ice-cold Fin.md"
 toc: false

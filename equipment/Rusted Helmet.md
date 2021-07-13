@@ -2,7 +2,7 @@
 title: "骨質盔甲"
 permalink: /equipment/Rusted Helmet/
 excerpt: "魔法门之英雄无敌：战争纪元 骨質盔甲. 骨質盔甲"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Rusted Helmet.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "地下城 - 第廿七章 朝聖之路"
 permalink: /Underground/Chapter 27/
 excerpt: "第廿七章 朝聖之路. 魔法门之英雄无敌：战争纪元  地下城 - 第廿七章. 朝聖之路"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 27.md"
 toc: false

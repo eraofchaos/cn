@@ -3,7 +3,7 @@ title: "獨角獸"
 permalink: /units/Unicorn/
 excerpt: "魔法门之英雄无敌：战争纪元 獨角獸. 獨角獸 兵團. 林中聖獸. 魔法门之英雄无敌：战争纪元 獨角獸的存在更像是美麗的傳說，它們不僅是美麗的生物，更是英勇的戰士，堪稱傳奇生物。"
 unitID: 206
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "獨角獸"
 toc: true

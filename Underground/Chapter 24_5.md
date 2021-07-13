@@ -2,7 +2,7 @@
 title: "地下城 - 第廿四章 - 24-5 無路可退"
 permalink: /Underground/Chapter 24_5/
 excerpt: "第廿四章 - 5. 魔法门之英雄无敌：战争纪元  地下城 - 第廿四章_5. 24-5 無路可退"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 24_5.md"
 toc: false

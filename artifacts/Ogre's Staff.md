@@ -2,7 +2,7 @@
 title: "寶物 - 寒冰之劍 - 食人魔杖"
 permalink: /artifacts/Ogre's Staff/
 excerpt: "魔法门之英雄无敌：战争纪元  寒冰之劍 - 食人魔杖. 食人魔部族供奉的法杖，寒冰之劍的元件之一"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Ogre's Staff.md"
 toc: false

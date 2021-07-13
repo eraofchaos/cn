@@ -4,7 +4,7 @@ permalink: /heroes/Gem/
 excerpt: "魔法门之英雄无敌：战争纪元 珍妮. 珍妮. 珍尼是恩洛斯最偉大的女巫，在二次戰爭中為羅蘭德．艾恩法斯特國王效力。當羅蘭德國王衛冕成功後，珍尼來到了艾拉西亞大陸，並在艾里建立了新家。"
 heroID: 60304
 QR: hero_60304
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Gem"
 toc: true

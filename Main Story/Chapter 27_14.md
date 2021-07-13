@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿七章 - 27-14 龍血守衛"
 permalink: /Main Story/Chapter 27_14/
 excerpt: "第廿七章 - 14. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿七章_14. 27-14 龍血守衛"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 27_14.md"
 toc: false

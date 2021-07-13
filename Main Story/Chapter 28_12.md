@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿八章 - 28-12 廢棄邪廟"
 permalink: /Main Story/Chapter 28_12/
 excerpt: "第廿八章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿八章_12. 28-12 廢棄邪廟"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 28_12.md"
 toc: false

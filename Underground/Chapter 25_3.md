@@ -2,7 +2,7 @@
 title: "地下城 - 第廿五章 - 25-3 鮮血之刃"
 permalink: /Underground/Chapter 25_3/
 excerpt: "第廿五章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第廿五章_3. 25-3 鮮血之刃"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 25_3.md"
 toc: false

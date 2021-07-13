@@ -2,7 +2,7 @@
 title: "蛇神頭飾"
 permalink: /equipment/Headdress of the Serpent God/
 excerpt: "魔法门之英雄无敌：战争纪元 蛇神頭飾. 蛇神頭飾"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Headdress of the Serpent God.md"
 toc: false

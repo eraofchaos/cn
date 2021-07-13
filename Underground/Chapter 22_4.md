@@ -2,7 +2,7 @@
 title: "地下城 - 第廿二章 - 22-4 神的騙局"
 permalink: /Underground/Chapter 22_4/
 excerpt: "第廿二章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第廿二章_4. 22-4 神的騙局"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 22_4.md"
 toc: false

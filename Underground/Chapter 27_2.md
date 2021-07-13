@@ -2,7 +2,7 @@
 title: "地下城 - 第廿七章 - 27-2 矮人工匠"
 permalink: /Underground/Chapter 27_2/
 excerpt: "第廿七章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第廿七章_2. 27-2 矮人工匠"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 27_2.md"
 toc: false

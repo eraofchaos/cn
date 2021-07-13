@@ -2,7 +2,7 @@
 title: "巔峰天賦"
 permalink: /PeakTalent/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦. 巔峰天賦. 巔峰天賦將在 110 級開啟"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "index.md"
 toc: false

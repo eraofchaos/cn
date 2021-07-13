@@ -2,7 +2,7 @@
 title: "陣營祕聞. 巔峰天賦 - 陣營祕聞"
 permalink: /PeakTalent/Faction Secrets/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 陣營祕聞. 巔峰天賦 陣營祕聞. 陣營祕聞"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Faction Secrets.md"
 toc: false

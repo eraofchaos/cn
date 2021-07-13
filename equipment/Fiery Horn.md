@@ -2,7 +2,7 @@
 title: "少女尖角"
 permalink: /equipment/Fiery Horn/
 excerpt: "魔法门之英雄无敌：战争纪元 少女尖角. 少女尖角"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Fiery Horn.md"
 toc: false

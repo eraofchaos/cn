@@ -2,7 +2,7 @@
 title: "組合說明 for 失明"
 permalink: /combination/Blind/
 excerpt: "組合說明 - 失明. Units and Heroes Formation."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "失明.md"
 toc: false

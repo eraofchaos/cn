@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三章 - 3-6 強盜營地"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "第三章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三章_6. 3-6 強盜營地"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 3_6.md"
 toc: false

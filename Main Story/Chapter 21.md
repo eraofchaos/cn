@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 尋找神器"
 permalink: /Main Story/Chapter 21/
 excerpt: "第廿一章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章. 尋找神器"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 21.md"
 toc: false

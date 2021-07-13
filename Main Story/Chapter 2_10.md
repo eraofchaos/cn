@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 - 2-10 特利亞城"
 permalink: /Main Story/Chapter 2_10/
 excerpt: "第二章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章_10. 2-10 特利亞城"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 2_10.md"
 toc: false

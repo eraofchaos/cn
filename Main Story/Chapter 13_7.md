@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-7 擊退追兵"
 permalink: /Main Story/Chapter 13_7/
 excerpt: "第十三章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_7. 13-7 擊退追兵"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Chapter 13_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "特權系統"
 permalink: /VIP/
 excerpt: "魔法门之英雄无敌：战争纪元  特權系統 - 一大波永久福利來襲！"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "index.md"
 toc: false

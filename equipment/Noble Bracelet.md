@@ -2,7 +2,7 @@
 title: "尊貴手環"
 permalink: /equipment/Noble Bracelet/
 excerpt: "魔法门之英雄无敌：战争纪元 尊貴手環. 尊貴手環"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Noble Bracelet.md"
 toc: false

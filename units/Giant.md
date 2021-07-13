@@ -3,7 +3,7 @@ title: "泰坦巨人"
 permalink: /units/Giant/
 excerpt: "魔法门之英雄无敌：战争纪元 泰坦巨人. 泰坦巨人 兵團. 雷霆使者. 魔法门之英雄无敌：战争纪元 這些居住在雲顛投擲雷電的金甲巨人們，據說是遠古時代統治世界的偉大存在遺留至今的不朽造物。"
 unitID: 607
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "泰坦巨人"
 toc: true

@@ -2,7 +2,7 @@
 title: "Backup - 極寒威壓"
 permalink: /Backup/Arctic Coercion/
 excerpt: "魔法门之英雄无敌：战争纪元  極寒威壓"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Arctic Coercion.md"
 toc: false

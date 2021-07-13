@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "魔法门之英雄无敌：战争纪元 Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Star 2"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
   | 12 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  聖域獅鷲  |
   | 13 | ![皇家十字軍](/images/u/ti_shizijun.jpg) | [皇家十字軍](/cn/units/Swordsman/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  大十字軍  |
-  | 14 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 14 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/units/Dwarf/) | 防禦 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  堅壁守衛  |
   | 15 | ![牛頭怪](/images/u/ti_niutouguai.jpg) | [牛頭怪](/cn/units/Minotaur/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  米諾陶洛斯  |
   | 16 | ![蜥蜴人](/images/u/ti_xiyiren.jpg) | [蜥蜴人](/cn/units/Lizardman/) | 射手 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 17 | ![木精靈](/images/u/ti_mujingling.jpg) | [木精靈](/cn/units/Wood Elf/) | 射手 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  森林遊俠  |

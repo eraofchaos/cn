@@ -3,7 +3,7 @@ title: "美杜莎"
 permalink: /units/Medusa/
 excerpt: "魔法门之英雄无敌：战争纪元 美杜莎. 美杜莎 兵團. 美杜莎女王. 魔法门之英雄无敌：战争纪元 蛇發蛇身的美豔女性，她們冰冷的目光會把目力所及的所有活物都變成石頭。"
 unitID: 704
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "美杜莎"
 toc: true

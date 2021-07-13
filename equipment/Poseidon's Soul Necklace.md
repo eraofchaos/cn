@@ -2,7 +2,7 @@
 title: "海魂項鍊"
 permalink: /equipment/Poseidon's Soul Necklace/
 excerpt: "魔法门之英雄无敌：战争纪元 海魂項鍊. 海魂項鍊"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Poseidon's Soul Necklace.md"
 toc: false

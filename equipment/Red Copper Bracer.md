@@ -2,7 +2,7 @@
 title: "赤銅護腕"
 permalink: /equipment/Red Copper Bracer/
 excerpt: "魔法门之英雄无敌：战争纪元 赤銅護腕. 赤銅護腕"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Red Copper Bracer.md"
 toc: false

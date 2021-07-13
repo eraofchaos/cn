@@ -2,7 +2,7 @@
 title: "邪惡獠牙"
 permalink: /equipment/Evil Tusk/
 excerpt: "魔法门之英雄无敌：战争纪元 邪惡獠牙. 邪惡獠牙"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Evil Tusk.md"
 toc: false

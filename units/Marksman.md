@@ -3,7 +3,7 @@ title: "帝國弩手"
 permalink: /units/Marksman/
 excerpt: "魔法门之英雄无敌：战争纪元 帝國弩手. 帝國弩手 兵團. 神射手. 魔法门之英雄无敌：战争纪元 帝國弩手經驗豐富，可以在接觸戰之前削弱敵人的戰鬥力，他們強勁的十字弩讓敵人聞風喪膽。"
 unitID: 102
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "帝國弩手"
 toc: true

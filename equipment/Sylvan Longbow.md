@@ -2,7 +2,7 @@
 title: "翡翠長弓"
 permalink: /equipment/Sylvan Longbow/
 excerpt: "魔法门之英雄无敌：战争纪元 翡翠長弓. 翡翠長弓"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "Sylvan Longbow.md"
 toc: false

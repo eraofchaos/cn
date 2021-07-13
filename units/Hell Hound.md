@@ -3,7 +3,7 @@ title: "地獄三頭犬"
 permalink: /units/Hell Hound/
 excerpt: "魔法门之英雄无敌：战争纪元 地獄三頭犬. 地獄三頭犬 兵團. null. 魔法门之英雄无敌：战争纪元 地獄三頭犬可以同時用三個腦袋快速地攻擊敵人，全身流淌著熾熱的岩漿，行走之處遍佈烈焰。"
 unitID: 503
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: cn
 ref: "地獄三頭犬"
 toc: true
