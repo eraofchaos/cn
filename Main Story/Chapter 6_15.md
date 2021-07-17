@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-15 殺戮之夜"
 permalink: /Main Story/Chapter 6_15/
 excerpt: "第六章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_15. 6-15 殺戮之夜"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 6_15.md"
 toc: false

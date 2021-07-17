@@ -2,7 +2,7 @@
 title: "灰燼馬蹄"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "魔法门之英雄无敌：战争纪元 灰燼馬蹄. 灰燼馬蹄"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Ash Horseshoe.md"
 toc: false

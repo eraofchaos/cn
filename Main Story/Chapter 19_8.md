@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十九章 - 19-8 法師塔"
 permalink: /Main Story/Chapter 19_8/
 excerpt: "第十九章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十九章_8. 19-8 法師塔"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 19_8.md"
 toc: false

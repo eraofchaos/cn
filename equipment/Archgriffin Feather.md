@@ -2,7 +2,7 @@
 title: "迅疾鷹喙"
 permalink: /equipment/Archgriffin Feather/
 excerpt: "魔法门之英雄无敌：战争纪元 迅疾鷹喙. 迅疾鷹喙"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Archgriffin Feather.md"
 toc: false

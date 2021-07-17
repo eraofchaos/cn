@@ -3,7 +3,7 @@ title: "綠龍"
 permalink: /units/Green Dragon/
 excerpt: "魔法门之英雄无敌：战争纪元 綠龍. 綠龍 兵團. 金龍. 魔法门之英雄无敌：战争纪元 綠龍是森林的守護者，劇毒的龍息和遮天蔽地的巨大身軀無不向人們證明龍是不可戰勝的生物。"
 unitID: 207
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "綠龍"
 toc: true

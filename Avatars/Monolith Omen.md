@@ -2,7 +2,7 @@
 title: "頭像 - 磐石之兆"
 permalink: /Avatars/Monolith Omen/
 excerpt: "魔法门之英雄无敌：战争纪元  磐石之兆"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Monolith Omen.md"
 toc: false

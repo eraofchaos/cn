@@ -2,7 +2,7 @@
 title: "女王長鞭"
 permalink: /equipment/Hellish Whip/
 excerpt: "魔法门之英雄无敌：战争纪元 女王長鞭. 女王長鞭"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Hellish Whip.md"
 toc: false

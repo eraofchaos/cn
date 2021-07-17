@@ -2,7 +2,7 @@
 title: "地下城 - 第廿二章 - 22-2 未來抉擇"
 permalink: /Underground/Chapter 22_2/
 excerpt: "第廿二章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第廿二章_2. 22-2 未來抉擇"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 22_2.md"
 toc: false

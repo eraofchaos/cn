@@ -2,7 +2,7 @@
 title: "劇毒龍血"
 permalink: /equipment/Venomous Dragon Blood/
 excerpt: "魔法门之英雄无敌：战争纪元 劇毒龍血. 劇毒龍血"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Venomous Dragon Blood.md"
 toc: false

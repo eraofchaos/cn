@@ -2,7 +2,7 @@
 title: "地下城 - 第廿八章 - 28-4  可敬犧牲"
 permalink: /Underground/Chapter 28_4/
 excerpt: "第廿八章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第廿八章_4. 28-4  可敬犧牲"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 28_4.md"
 toc: false

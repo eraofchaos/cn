@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Faction Fortress"
 toc: false

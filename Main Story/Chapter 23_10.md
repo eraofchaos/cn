@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-10 毒龍習性"
 permalink: /Main Story/Chapter 23_10/
 excerpt: "第廿三章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_10. 23-10 毒龍習性"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 23_10.md"
 toc: false

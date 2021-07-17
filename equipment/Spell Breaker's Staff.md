@@ -2,7 +2,7 @@
 title: "破法權杖"
 permalink: /equipment/Spell Breaker's Staff/
 excerpt: "魔法门之英雄无敌：战争纪元 破法權杖. 破法權杖"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Spell Breaker's Staff.md"
 toc: false

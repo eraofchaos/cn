@@ -4,7 +4,7 @@ permalink: /heroes/Kassandra/
 excerpt: "魔法门之英雄无敌：战争纪元 卡珊卓. 卡珊卓. 從小接受的斯巴達教育賦予了卡珊卓超乎常人的戰鬥技巧。在斯巴達人將她丟在泰格特斯山自生自滅後，她就成長為一名收錢辦事的傭兵。"
 heroID: 62001
 QR: hero_62001
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Kassandra"
 toc: true

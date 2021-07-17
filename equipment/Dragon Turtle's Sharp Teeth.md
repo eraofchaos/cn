@@ -2,7 +2,7 @@
 title: "龍龜利齒"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "魔法门之英雄无敌：战争纪元 龍龜利齒. 龍龜利齒"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false

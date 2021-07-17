@@ -2,7 +2,7 @@
 title: "不穩定形態. 巔峰天賦 - 不穩定形態"
 permalink: /PeakTalent/The Unstable Form/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 不穩定形態. 巔峰天賦 不穩定形態. 不穩定形態"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "The Unstable Form.md"
 toc: false

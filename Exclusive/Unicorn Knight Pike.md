@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀衝鋒 (Unicorn)"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀衝鋒. 榮耀衝鋒. 魔法门之英雄无敌：战争纪元 專屬 榮耀衝鋒. 獨角獸 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Unicorn 榮耀衝鋒.md"
 toc: false

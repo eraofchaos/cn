@@ -2,7 +2,7 @@
 title: "熾炎之握"
 permalink: /equipment/Fire's Grasp/
 excerpt: "魔法门之英雄无敌：战争纪元 熾炎之握. 熾炎之握"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Fire's Grasp.md"
 toc: false

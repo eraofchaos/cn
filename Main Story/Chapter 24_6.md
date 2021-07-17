@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-6 龍的祕密"
 permalink: /Main Story/Chapter 24_6/
 excerpt: "第廿四章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_6. 24-6 龍的祕密"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 24_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "鋼鐵拳套"
 permalink: /equipment/Iron Gauntlets/
 excerpt: "魔法门之英雄无敌：战争纪元 鋼鐵拳套. 鋼鐵拳套"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Iron Gauntlets.md"
 toc: false

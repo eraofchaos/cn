@@ -2,7 +2,7 @@
 title: "寶物 - 魔法師之帽 - 水系魔法書"
 permalink: /artifacts/Tome of Water Magic/
 excerpt: "魔法门之英雄无敌：战争纪元  魔法師之帽 - 水系魔法書. 這是一本記載著高階水系魔法的魔法書，艾德雷德將它送給了你，魔法師之帽的元件之一"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Tome of Water Magic.md"
 toc: false

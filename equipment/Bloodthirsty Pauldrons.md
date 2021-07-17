@@ -2,7 +2,7 @@
 title: "嗜血肩甲"
 permalink: /equipment/Bloodthirsty Pauldrons/
 excerpt: "魔法门之英雄无敌：战争纪元 嗜血肩甲. 嗜血肩甲"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Bloodthirsty Pauldrons.md"
 toc: false

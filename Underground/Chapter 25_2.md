@@ -2,7 +2,7 @@
 title: "地下城 - 第廿五章 - 25-2 鋼鐵傀儡"
 permalink: /Underground/Chapter 25_2/
 excerpt: "第廿五章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第廿五章_2. 25-2 鋼鐵傀儡"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 25_2.md"
 toc: false

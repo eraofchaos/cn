@@ -2,7 +2,7 @@
 title: "活動 日程"
 permalink: /Schedule/
 excerpt: "魔法门之英雄无敌：战争纪元  活動 日程. 活動 日程. Schedule for all near events and shop sales."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "index.md"
 toc: false

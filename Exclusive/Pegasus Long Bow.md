@@ -2,7 +2,7 @@
 title: "專屬 - 獵影逐風 (Pegasus)"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "魔法门之英雄无敌：战争纪元 獵影逐風. 獵影逐風. 魔法门之英雄无敌：战争纪元 專屬 獵影逐風. 銀翼飛馬 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Pegasus 獵影逐風.md"
 toc: false

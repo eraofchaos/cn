@@ -2,7 +2,7 @@
 title: "組合說明 for 流血"
 permalink: /combination/Bleeding/
 excerpt: "組合說明 - 流血. Units and Heroes Formation."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "流血.md"
 toc: false

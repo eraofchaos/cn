@@ -3,7 +3,7 @@ title: "大妖精"
 permalink: /units/Gremlin/
 excerpt: "魔法门之英雄无敌：战争纪元 大妖精. 大妖精 兵團. null. 魔法门之英雄无敌：战争纪元 大妖精是和塔樓簽下契約的僕從，喜歡揮舞著灌魔的連枷從遠處攻擊敵人。"
 unitID: 601
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "大妖精"
 toc: true

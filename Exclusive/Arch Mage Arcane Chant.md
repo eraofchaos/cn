@@ -2,7 +2,7 @@
 title: "專屬 - 奧術詠唱 (Arch Mage)"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "魔法门之英雄无敌：战争纪元 奧術詠唱. 奧術詠唱. 魔法门之英雄无敌：战争纪元 專屬 奧術詠唱. 大法師 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Arch Mage 奧術詠唱.md"
 toc: false

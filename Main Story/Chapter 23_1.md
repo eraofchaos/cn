@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-1 佔據城堡"
 permalink: /Main Story/Chapter 23_1/
 excerpt: "第廿三章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_1. 23-1 佔據城堡"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 23_1.md"
 toc: false

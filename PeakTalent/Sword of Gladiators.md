@@ -2,7 +2,7 @@
 title: "競技之劍. 巔峰天賦 - 競技之劍"
 permalink: /PeakTalent/Sword of Gladiators/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 競技之劍. 巔峰天賦 競技之劍. 競技之劍"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Sword of Gladiators.md"
 toc: false

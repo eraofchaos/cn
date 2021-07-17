@@ -2,7 +2,7 @@
 title: "聖潔兜帽"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "魔法门之英雄无敌：战争纪元 聖潔兜帽. 聖潔兜帽"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Celestial Hood of Bliss.md"
 toc: false

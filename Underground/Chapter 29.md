@@ -2,7 +2,7 @@
 title: "地下城 - 第廿九章 惡魔的交易"
 permalink: /Underground/Chapter 29/
 excerpt: "第廿九章 惡魔的交易. 魔法门之英雄无敌：战争纪元  地下城 - 第廿九章. 惡魔的交易"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 29.md"
 toc: false

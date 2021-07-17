@@ -4,7 +4,7 @@ permalink: /heroes/Sandro/
 excerpt: "魔法门之英雄无敌：战争纪元 山德魯. 山德魯. 山德魯是個探險家，足跡遍佈整個恩洛斯及艾拉西亞，現在他為迪雅的巫師頭領菲尼斯．威爾瑪效力。"
 heroID: 60501
 QR: hero_60501
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Sandro"
 toc: true

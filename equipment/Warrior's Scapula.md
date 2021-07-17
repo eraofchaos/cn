@@ -2,7 +2,7 @@
 title: "戰士肩甲"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "魔法门之英雄无敌：战争纪元 戰士肩甲. 戰士肩甲"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Warrior's Scapula.md"
 toc: false

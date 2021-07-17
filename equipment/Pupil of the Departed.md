@@ -2,7 +2,7 @@
 title: "逝者之瞳"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "魔法门之英雄无敌：战争纪元 逝者之瞳. 逝者之瞳"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Pupil of the Departed.md"
 toc: false

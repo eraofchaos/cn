@@ -2,7 +2,7 @@
 title: "破甲弩箭"
 permalink: /equipment/Piercing Bolts/
 excerpt: "魔法门之英雄无敌：战争纪元 破甲弩箭. 破甲弩箭"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Piercing Bolts.md"
 toc: false

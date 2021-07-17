@@ -2,7 +2,7 @@
 title: "地下城 - 第十七章 - 17-3 理想世界"
 permalink: /Underground/Chapter 17_3/
 excerpt: "第十七章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第十七章_3. 17-3 理想世界"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 17_3.md"
 toc: false

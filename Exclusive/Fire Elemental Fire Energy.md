@@ -2,7 +2,7 @@
 title: "專屬 - 炙凝 (Fire Elemental)"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "魔法门之英雄无敌：战争纪元 炙凝. 炙凝. 魔法门之英雄无敌：战争纪元 專屬 炙凝. 幽火元素 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Fire Elemental 炙凝.md"
 toc: false

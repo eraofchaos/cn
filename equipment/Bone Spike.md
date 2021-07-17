@@ -2,7 +2,7 @@
 title: "堅硬頭骨"
 permalink: /equipment/Bone Spike/
 excerpt: "魔法门之英雄无敌：战争纪元 堅硬頭骨. 堅硬頭骨"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Bone Spike.md"
 toc: false

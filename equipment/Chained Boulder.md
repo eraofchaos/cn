@@ -2,7 +2,7 @@
 title: "鎖鏈巨石"
 permalink: /equipment/Chained Boulder/
 excerpt: "魔法门之英雄无敌：战争纪元 鎖鏈巨石. 鎖鏈巨石"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chained Boulder.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "神聖法球"
 permalink: /equipment/Orb of Divinity/
 excerpt: "魔法门之英雄无敌：战争纪元 神聖法球. 神聖法球"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Orb of Divinity.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十章 - 10-15 請君入甕"
 permalink: /Main Story/Chapter 10_15/
 excerpt: "第十章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十章_15. 10-15 請君入甕"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 10_15.md"
 toc: false

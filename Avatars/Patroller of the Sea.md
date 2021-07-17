@@ -2,7 +2,7 @@
 title: "頭像 - 巡海之師"
 permalink: /Avatars/Patroller of the Sea/
 excerpt: "魔法门之英雄无敌：战争纪元  巡海之師"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Patroller of the Sea.md"
 toc: false

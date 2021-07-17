@@ -3,7 +3,7 @@ title: "炎魔"
 permalink: /units/Venom Spawn/
 excerpt: "魔法门之英雄无敌：战争纪元 炎魔. 炎魔 兵團. null. 魔法门之英雄无敌：战争纪元 在墮落的地獄之火中，誕生於火焰與陰影中的惡魔，它們是人們傳說中的最令人恐懼的夢魘，將身上罪惡的業火燃遍了每一處戰場。"
 unitID: 509
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "炎魔"
 toc: true

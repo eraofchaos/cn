@@ -2,7 +2,7 @@
 title: "專屬 - 伏櫪 (Dragon Turtle)"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "魔法门之英雄无敌：战争纪元 伏櫪. 伏櫪. 魔法门之英雄无敌：战争纪元 專屬 伏櫪. 龍龜 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Dragon Turtle 伏櫪.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "專屬 -  (Paladin)"
 permalink: /Exclusive/Paladin /
 excerpt: "魔法门之英雄无敌：战争纪元 . . 魔法门之英雄无敌：战争纪元 專屬 . 聖堂武士 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Paladin .md"
 toc: false

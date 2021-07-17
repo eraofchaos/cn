@@ -2,7 +2,7 @@
 title: "堅鐵硬皮"
 permalink: /equipment/Ironclad Skin/
 excerpt: "魔法门之英雄无敌：战争纪元 堅鐵硬皮. 堅鐵硬皮"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Ironclad Skin.md"
 toc: false

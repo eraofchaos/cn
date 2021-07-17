@@ -2,7 +2,7 @@
 title: "死亡吞噬"
 permalink: /equipment/Swallow of Death/
 excerpt: "魔法门之英雄无敌：战争纪元 死亡吞噬. 死亡吞噬"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Swallow of Death.md"
 toc: false

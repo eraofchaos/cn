@@ -3,7 +3,7 @@ title: "雷鳥"
 permalink: /units/Roc/
 excerpt: "魔法门之英雄无敌：战争纪元 雷鳥. 雷鳥 兵團. 雷霆之翼. 魔法门之英雄无敌：战争纪元 雷鳥經常於狂風暴雨之夜出沒，它們穿梭於雷霆之間，渾身攜帶閃電，被人們傳為神的使者。"
 unitID: 405
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "雷鳥"
 toc: true

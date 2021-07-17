@@ -2,7 +2,7 @@
 title: "防風斗篷"
 permalink: /equipment/Windproof Cloak/
 excerpt: "魔法门之英雄无敌：战争纪元 防風斗篷. 防風斗篷"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Windproof Cloak.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "融石核心"
 permalink: /equipment/Core of Magma/
 excerpt: "魔法门之英雄无敌：战争纪元 融石核心. 融石核心"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Core of Magma.md"
 toc: false

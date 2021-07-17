@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-11 戰爭前幕"
 permalink: /Main Story/Chapter 13_11/
 excerpt: "第十三章 - 11. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_11. 13-11 戰爭前幕"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 13_11.md"
 toc: false

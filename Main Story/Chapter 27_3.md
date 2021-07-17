@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿七章 - 27-3 靜默之堂"
 permalink: /Main Story/Chapter 27_3/
 excerpt: "第廿七章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿七章_3. 27-3 靜默之堂"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 27_3.md"
 toc: false

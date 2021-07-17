@@ -2,7 +2,7 @@
 title: "頭像 - 自然之靈"
 permalink: /Avatars/Nature's Soul/
 excerpt: "魔法门之英雄无敌：战争纪元  自然之靈"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Nature's Soul.md"
 toc: false

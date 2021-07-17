@@ -3,7 +3,7 @@ title: "狂戰士"
 permalink: /units/Berserker/
 excerpt: "魔法门之英雄无敌：战争纪元 狂戰士. 狂戰士 兵團. 死亡咆哮者. 魔法门之英雄无敌：战争纪元 狂戰士是整個獸族中最精銳的戰士，他們高大、強壯、且易怒。每次戰鬥，他們都會奮不顧身地衝進敵群，用利斧劈碎一切。"
 unitID: 408
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "狂戰士"
 toc: true

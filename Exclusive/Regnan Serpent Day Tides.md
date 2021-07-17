@@ -2,7 +2,7 @@
 title: "專屬 - 怒潮 (Regnan Serpent)"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "魔法门之英雄无敌：战争纪元 怒潮. 怒潮. 魔法门之英雄无敌：战争纪元 專屬 怒潮. 鮫人守衛 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Regnan Serpent 怒潮.md"
 toc: false

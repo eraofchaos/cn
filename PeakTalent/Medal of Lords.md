@@ -2,7 +2,7 @@
 title: "領主勳章. 巔峰天賦 - 領主勳章"
 permalink: /PeakTalent/Medal of Lords/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 領主勳章. 巔峰天賦 領主勳章. 領主勳章"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Medal of Lords.md"
 toc: false

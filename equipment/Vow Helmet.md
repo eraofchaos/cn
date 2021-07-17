@@ -2,7 +2,7 @@
 title: "誓言頭盔"
 permalink: /equipment/Vow Helmet/
 excerpt: "魔法门之英雄无敌：战争纪元 誓言頭盔. 誓言頭盔"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Vow Helmet.md"
 toc: false

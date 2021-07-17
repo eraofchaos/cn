@@ -2,7 +2,7 @@
 title: "海洋印記"
 permalink: /equipment/Mark of the Ocean/
 excerpt: "魔法门之英雄无敌：战争纪元 海洋印記. 海洋印記"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Mark of the Ocean.md"
 toc: false

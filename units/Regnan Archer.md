@@ -3,7 +3,7 @@ title: "寶藏獵人"
 permalink: /units/Regnan Archer/
 excerpt: "魔法门之英雄无敌：战争纪元 寶藏獵人. 寶藏獵人 兵團. 亡瞳獵手. 魔法门之英雄无敌：战争纪元 天註定其將擁有財富，弩箭所指，皆是目標。"
 unitID: 9902
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "寶藏獵人"
 toc: true

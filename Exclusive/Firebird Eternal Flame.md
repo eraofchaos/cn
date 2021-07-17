@@ -2,7 +2,7 @@
 title: "專屬 - 涅槃 (Firebird)"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "魔法门之英雄无敌：战争纪元 涅槃. 涅槃. 魔法门之英雄无敌：战争纪元 專屬 涅槃. 鳳凰 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Firebird 涅槃.md"
 toc: false

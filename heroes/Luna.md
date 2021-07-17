@@ -4,7 +4,7 @@ permalink: /heroes/Luna/
 excerpt: "魔法门之英雄无敌：战争纪元 露娜. 露娜. 以前露娜住在恩洛斯，當聽說艾拉西亞出現了元素城之後，她認為在那兒可以學到最好的魔法，於是漂洋過海來到了艾拉西亞，加入了元素城。"
 heroID: 60701
 QR: hero_60701
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Luna"
 toc: true

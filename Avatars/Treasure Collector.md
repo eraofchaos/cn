@@ -2,7 +2,7 @@
 title: "頭像 - 寶物收藏家"
 permalink: /Avatars/Treasure Collector/
 excerpt: "魔法门之英雄无敌：战争纪元  寶物收藏家"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Treasure Collector.md"
 toc: false

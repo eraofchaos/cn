@@ -3,7 +3,7 @@ title: "殭屍"
 permalink: /units/Walking Dead/
 excerpt: "魔法门之英雄无敌：战争纪元 殭屍. 殭屍 兵團. 瘟疫屠夫. 魔法门之英雄无敌：战争纪元 被巫師復生的腐爛屍體，渾身散發著惡臭的毒氣，腫脹的身軀一旦破碎，將會帶來噩夢般的毀滅。"
 unitID: 302
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "殭屍"
 toc: true

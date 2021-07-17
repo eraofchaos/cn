@@ -2,7 +2,7 @@
 title: "組合說明 for 眩暈"
 permalink: /combination/Stun/
 excerpt: "組合說明 - 眩暈. Units and Heroes Formation."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "眩暈.md"
 toc: false

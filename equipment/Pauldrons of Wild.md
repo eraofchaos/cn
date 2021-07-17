@@ -2,7 +2,7 @@
 title: "狂野肩甲"
 permalink: /equipment/Pauldrons of Wild/
 excerpt: "魔法门之英雄无敌：战争纪元 狂野肩甲. 狂野肩甲"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Pauldrons of Wild.md"
 toc: false

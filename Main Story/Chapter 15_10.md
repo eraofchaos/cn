@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十五章 - 15-10 人的轉變"
 permalink: /Main Story/Chapter 15_10/
 excerpt: "第十五章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十五章_10. 15-10 人的轉變"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 15_10.md"
 toc: false

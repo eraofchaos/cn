@@ -2,7 +2,7 @@
 title: "精鋼利箭"
 permalink: /equipment/Steel Arrow/
 excerpt: "魔法门之英雄无敌：战争纪元 精鋼利箭. 精鋼利箭"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Steel Arrow.md"
 toc: false

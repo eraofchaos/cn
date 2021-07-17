@@ -2,7 +2,7 @@
 title: "頭像 - 週年慶典"
 permalink: /Avatars/Anniversary Celebration/
 excerpt: "魔法门之英雄无敌：战争纪元  週年慶典"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Anniversary Celebration.md"
 toc: false

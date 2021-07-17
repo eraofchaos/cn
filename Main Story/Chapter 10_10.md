@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十章 - 10-10 獲得靈魂"
 permalink: /Main Story/Chapter 10_10/
 excerpt: "第十章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十章_10. 10-10 獲得靈魂"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 10_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "死寂之鐮"
 permalink: /equipment/Sickle of Silence/
 excerpt: "魔法门之英雄无敌：战争纪元 死寂之鐮. 死寂之鐮"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Sickle of Silence.md"
 toc: false

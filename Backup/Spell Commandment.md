@@ -2,7 +2,7 @@
 title: "Backup - 法力誡場"
 permalink: /Backup/Spell Commandment/
 excerpt: "魔法门之英雄无敌：战争纪元  法力誡場"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Spell Commandment.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 神聖血瓶 - 生命之戒"
 permalink: /artifacts/Ring of Life/
 excerpt: "魔法门之英雄无敌：战争纪元  神聖血瓶 - 生命之戒. 具有龐大生命力的戒指，神聖血瓶的元件之一"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Ring of Life.md"
 toc: false

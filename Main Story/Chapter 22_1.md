@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 - 22-1 水晶造物"
 permalink: /Main Story/Chapter 22_1/
 excerpt: "第廿二章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章_1. 22-1 水晶造物"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 22_1.md"
 toc: false

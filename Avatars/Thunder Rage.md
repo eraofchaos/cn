@@ -2,7 +2,7 @@
 title: "頭像 - 雷霆之怒"
 permalink: /Avatars/Thunder Rage/
 excerpt: "魔法门之英雄无敌：战争纪元  雷霆之怒"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Thunder Rage.md"
 toc: false

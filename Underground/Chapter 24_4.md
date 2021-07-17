@@ -2,7 +2,7 @@
 title: "地下城 - 第廿四章 - 24-4 食人巨獸"
 permalink: /Underground/Chapter 24_4/
 excerpt: "第廿四章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第廿四章_4. 24-4 食人巨獸"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 24_4.md"
 toc: false

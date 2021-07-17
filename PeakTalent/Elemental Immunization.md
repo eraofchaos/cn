@@ -2,7 +2,7 @@
 title: "元素免疫. 巔峰天賦 - 元素免疫"
 permalink: /PeakTalent/Elemental Immunization/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 元素免疫. 巔峰天賦 元素免疫. 元素免疫"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Elemental Immunization.md"
 toc: false

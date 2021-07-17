@@ -2,7 +2,7 @@
 title: "聖徽 - 破碎預言"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "魔法门之英雄无敌：战争纪元 破碎預言. 破碎預言. 魔法门之英雄无敌：战争纪元 聖徽 破碎預言. 魔法门之英雄无敌：战争纪元 邪惡 破碎預言"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Broken Prophecy.md"
 toc: false

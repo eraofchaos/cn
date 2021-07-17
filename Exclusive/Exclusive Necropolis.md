@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Necropolis"
 permalink: /Exclusive/Exclusive Necropolis/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Necropolis. 專屬 Necropolis. List of 專屬 Necropolis in Era of Chaos"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Exclusive Necropolis"
 toc: false

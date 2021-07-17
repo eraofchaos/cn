@@ -2,7 +2,7 @@
 title: "碧綠鱗甲"
 permalink: /equipment/Dragon Scale Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 碧綠鱗甲. 碧綠鱗甲"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Dragon Scale Armor.md"
 toc: false

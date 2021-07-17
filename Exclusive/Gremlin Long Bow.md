@@ -2,7 +2,7 @@
 title: "專屬 - 獵影逐風 (Gremlin)"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "魔法门之英雄无敌：战争纪元 獵影逐風. 獵影逐風. 魔法门之英雄无敌：战争纪元 專屬 獵影逐風. 大妖精 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Gremlin 獵影逐風.md"
 toc: false

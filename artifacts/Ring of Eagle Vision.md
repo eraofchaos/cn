@@ -2,7 +2,7 @@
 title: "寶物 - 活體鷹眼 - 鷹眼戒指"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "魔法门之英雄无敌：战争纪元  活體鷹眼 - 鷹眼戒指. 一個鑲刻眼球的神祕戒指，活體鷹眼的元件之一"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Ring of Eagle Vision.md"
 toc: false

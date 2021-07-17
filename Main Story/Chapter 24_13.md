@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-13 精靈勸阻"
 permalink: /Main Story/Chapter 24_13/
 excerpt: "第廿四章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_13. 24-13 精靈勸阻"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 24_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "專屬 - 袖箭 (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "魔法门之英雄无敌：战争纪元 袖箭. 袖箭. 魔法门之英雄无敌：战争纪元 專屬 袖箭. 刺客 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Assassin 袖箭.md"
 toc: false

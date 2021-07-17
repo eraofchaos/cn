@@ -3,7 +3,7 @@ title: "皇家獅鷲"
 permalink: /units/Griffin/
 excerpt: "魔法门之英雄无敌：战争纪元 皇家獅鷲. 皇家獅鷲 兵團. 聖域獅鷲. 魔法门之英雄无敌：战争纪元 皇家獅鷲是高空的王者，亦是艾拉西亞的象徵，它們勇猛而忠誠，永遠會為戰鬥流盡最後一滴血。"
 unitID: 103
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "皇家獅鷲"
 toc: true

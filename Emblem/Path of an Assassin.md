@@ -2,7 +2,7 @@
 title: "聖徽 - 刺客之道"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "魔法门之英雄无敌：战争纪元 刺客之道. 刺客之道. 魔法门之英雄无敌：战争纪元 聖徽 刺客之道. 魔法门之英雄无敌：战争纪元 中立 刺客之道"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Path of an Assassin.md"
 toc: false

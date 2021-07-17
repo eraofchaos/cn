@@ -2,7 +2,7 @@
 title: "專屬 - 戈爾貢 (Gorgon)"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "魔法门之英雄无敌：战争纪元 戈爾貢. 戈爾貢. 魔法门之英雄无敌：战争纪元 專屬 戈爾貢. 蠻牛 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Gorgon 戈爾貢.md"
 toc: false

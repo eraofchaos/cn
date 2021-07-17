@@ -2,7 +2,7 @@
 title: "寶物 - 報復之鏡 - 遺忘沙漏"
 permalink: /artifacts/Forgotten Hourglass/
 excerpt: "魔法门之英雄无敌：战争纪元  報復之鏡 - 遺忘沙漏. 在使用禁忌法術時，保護施術者不被邪惡力量反噬的道具，報復之鏡的組件之一"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Forgotten Hourglass.md"
 toc: false

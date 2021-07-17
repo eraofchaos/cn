@@ -2,7 +2,7 @@
 title: "灼熱利齒"
 permalink: /equipment/Scalding Teeth/
 excerpt: "魔法门之英雄无敌：战争纪元 灼熱利齒. 灼熱利齒"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Scalding Teeth.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿九章 - 29-2 巫妖陵墓"
 permalink: /Main Story/Chapter 29_2/
 excerpt: "第廿九章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿九章_2. 29-2 巫妖陵墓"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 29_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "專屬 - 巖火核心 (Stone Elemental)"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "魔法门之英雄无敌：战争纪元 巖火核心. 巖火核心. 魔法门之英雄无敌：战争纪元 專屬 巖火核心. 石元素 專屬."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Stone Elemental 巖火核心.md"
 toc: false

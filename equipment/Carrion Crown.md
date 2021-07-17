@@ -2,7 +2,7 @@
 title: "冥界金冠"
 permalink: /equipment/Carrion Crown/
 excerpt: "魔法门之英雄无敌：战争纪元 冥界金冠. 冥界金冠"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Carrion Crown.md"
 toc: false

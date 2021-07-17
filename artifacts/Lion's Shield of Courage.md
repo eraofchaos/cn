@@ -2,7 +2,7 @@
 title: "寶物 - 天使聯盟 - 獅王盾"
 permalink: /artifacts/Lion's Shield of Courage/
 excerpt: "魔法门之英雄无敌：战争纪元  天使聯盟 - 獅王盾. 獅鷲軍團輝煌戰績的象徵，天使聯盟的元件之一"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Lion's Shield of Courage.md"
 toc: false

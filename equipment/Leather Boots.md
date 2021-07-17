@@ -2,7 +2,7 @@
 title: "皮質長靴"
 permalink: /equipment/Leather Boots/
 excerpt: "魔法门之英雄无敌：战争纪元 皮質長靴. 皮質長靴"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Leather Boots.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "聖徽 - 傲慢"
 permalink: /Emblem/Arrogance/
 excerpt: "魔法门之英雄无敌：战争纪元 傲慢. 傲慢. 魔法门之英雄无敌：战争纪元 聖徽 傲慢. 魔法门之英雄无敌：战争纪元 混亂 傲慢"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Arrogance.md"
 toc: false

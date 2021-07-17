@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿七章 - 27-15 統一尼貢"
 permalink: /Main Story/Chapter 27_15/
 excerpt: "第廿七章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿七章_15. 27-15 統一尼貢"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Chapter 27_15.md"
 toc: false

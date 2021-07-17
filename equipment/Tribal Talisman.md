@@ -2,7 +2,7 @@
 title: "巫毒青蛙"
 permalink: /equipment/Tribal Talisman/
 excerpt: "魔法门之英雄无敌：战争纪元 巫毒青蛙. 巫毒青蛙"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Tribal Talisman.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "破軍戰甲"
 permalink: /equipment/Breach Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 破軍戰甲. 破軍戰甲"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Breach Armor.md"
 toc: false

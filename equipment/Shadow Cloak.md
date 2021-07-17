@@ -2,7 +2,7 @@
 title: "血領斗篷"
 permalink: /equipment/Shadow Cloak/
 excerpt: "魔法门之英雄无敌：战争纪元 血領斗篷. 血領斗篷"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Shadow Cloak.md"
 toc: false

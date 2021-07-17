@@ -2,7 +2,7 @@
 title: "寶物 - 天使聯盟 - 天使項鍊"
 permalink: /artifacts/Pendant of Holiness/
 excerpt: "魔法门之英雄无敌：战争纪元  天使聯盟 - 天使項鍊. 天使親自降臨贈與的項鍊，天使聯盟的元件之一"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Pendant of Holiness.md"
 toc: false
