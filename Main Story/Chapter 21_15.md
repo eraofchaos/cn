@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-15 烏拉克"
 permalink: /Main Story/Chapter 21_15/
 excerpt: "第廿一章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_15. 21-15 烏拉克"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 21_15.md"
 toc: false

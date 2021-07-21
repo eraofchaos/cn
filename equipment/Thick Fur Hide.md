@@ -2,7 +2,7 @@
 title: "厚重皮毛"
 permalink: /equipment/Thick Fur Hide/
 excerpt: "魔法门之英雄无敌：战争纪元 厚重皮毛. 厚重皮毛"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Thick Fur Hide.md"
 toc: false

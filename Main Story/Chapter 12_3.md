@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十二章 - 12-3 中立陣營"
 permalink: /Main Story/Chapter 12_3/
 excerpt: "第十二章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十二章_3. 12-3 中立陣營"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 12_3.md"
 toc: false

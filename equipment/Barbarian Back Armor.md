@@ -2,7 +2,7 @@
 title: "野蠻背甲"
 permalink: /equipment/Barbarian Back Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 野蠻背甲. 野蠻背甲"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Barbarian Back Armor.md"
 toc: false

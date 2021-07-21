@@ -2,7 +2,7 @@
 title: "苦修輕甲"
 permalink: /equipment/Basic Light Armor/
 excerpt: "魔法门之英雄无敌：战争纪元 苦修輕甲. 苦修輕甲"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Basic Light Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三十章 - 30-12 火球靶場"
 permalink: /Main Story/Chapter 30_12/
 excerpt: "第三十章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三十章_12. 30-12 火球靶場"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 30_12.md"
 toc: false

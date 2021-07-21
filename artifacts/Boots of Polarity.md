@@ -2,7 +2,7 @@
 title: "寶物 - 抗魔符文 - 抗魔靴"
 permalink: /artifacts/Boots of Polarity/
 excerpt: "魔法门之英雄无敌：战争纪元  抗魔符文 - 抗魔靴. 刻印著太極符號的靴子，抗魔符文的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Boots of Polarity.md"
 toc: false

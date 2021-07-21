@@ -2,7 +2,7 @@
 title: "兵團奧義. 巔峰天賦 - 兵團奧義"
 permalink: /PeakTalent/The Art of Unit/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 兵團奧義. 巔峰天賦 兵團奧義. 兵團奧義"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "The Art of Unit.md"
 toc: false

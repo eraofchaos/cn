@@ -2,7 +2,7 @@
 title: "副官 馬洛迪亞"
 permalink: /heroes/Adjutant Melodia/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 馬洛迪亞"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Adjutant Melodia.md"
 QR: adhero_60201

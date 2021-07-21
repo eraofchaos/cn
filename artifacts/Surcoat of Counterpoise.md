@@ -2,7 +2,7 @@
 title: "寶物 - 抗魔符文 - 抗魔披風"
 permalink: /artifacts/Surcoat of Counterpoise/
 excerpt: "魔法门之英雄无敌：战争纪元  抗魔符文 - 抗魔披風. 刻印著太極符號的披風，抗魔符文的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Surcoat of Counterpoise.md"
 toc: false

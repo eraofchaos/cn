@@ -3,7 +3,7 @@ title: "訓鯊師"
 permalink: /units/Shark Trainer/
 excerpt: "魔法门之英雄无敌：战争纪元 訓鯊師. 訓鯊師 兵團. 馭鯊狂徒. 魔法门之英雄无敌：战争纪元 手持彎刀，腳踏巨鯊，遊曳在海面上的死亡夢魘。"
 unitID: 9909
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "訓鯊師"
 toc: true
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to 升星:** -
+ **Item to 升星:** [破浪碎片](/cn/Items/con_2225/)
 
- **塗裝:** -
+ **塗裝:** [破浪特效塗裝](/cn/Items/con_2223/)
 
 
 ## 聖徽推薦

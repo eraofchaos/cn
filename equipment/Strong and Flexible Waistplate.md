@@ -2,7 +2,7 @@
 title: "柔剛腰甲"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "魔法门之英雄无敌：战争纪元 柔剛腰甲. 柔剛腰甲"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Strong and Flexible Waistplate.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿一章 - 21-11 綠色塗裝"
 permalink: /Main Story/Chapter 21_11/
 excerpt: "第廿一章 - 11. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿一章_11. 21-11 綠色塗裝"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 21_11.md"
 toc: false

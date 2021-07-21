@@ -3,7 +3,7 @@ title: "斯巴達戰士"
 permalink: /units/Spartan Warriors/
 excerpt: "魔法门之英雄无敌：战争纪元 斯巴達戰士. 斯巴達戰士 兵團. null. 魔法门之英雄无敌：战争纪元 溫泉關下的勇士們，這裡就是我們最後的堅守，反抗入侵者，守護斯巴達！"
 unitID: 9702
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "斯巴達戰士"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **職業 玩法詳解:** 攻擊：攻擊兵團百分比降低目標兵團防禦，不可疊加
 
- **陣營：** [中立之軍](/cn/units/Faction Neutral Army/)
+ **陣營：** [中立之軍](/cn/units/Faction Neutral/)
 
  **Race:** 刺客聯盟
 

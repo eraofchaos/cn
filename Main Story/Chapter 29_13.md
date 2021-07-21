@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿九章 - 29-13 傭兵訓練營"
 permalink: /Main Story/Chapter 29_13/
 excerpt: "第廿九章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿九章_13. 29-13 傭兵訓練營"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 29_13.md"
 toc: false

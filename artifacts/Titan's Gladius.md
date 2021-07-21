@@ -2,7 +2,7 @@
 title: "寶物 - 泰坦神箭 - 泰坦之劍"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "魔法门之英雄无敌：战争纪元  泰坦神箭 - 泰坦之劍. 古老的泰坦使用的寶劍，泰坦神箭的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Titan's Gladius.md"
 toc: false

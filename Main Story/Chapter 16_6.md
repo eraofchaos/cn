@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十六章 - 16-6 黃金國王"
 permalink: /Main Story/Chapter 16_6/
 excerpt: "第十六章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十六章_6. 16-6 黃金國王"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 16_6.md"
 toc: false

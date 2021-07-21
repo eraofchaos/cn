@@ -2,7 +2,7 @@
 title: "聖徽 - 女王恩賜"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "魔法门之英雄无敌：战争纪元 女王恩賜. 女王恩賜. 魔法门之英雄无敌：战争纪元 聖徽 女王恩賜. 魔法门之英雄无敌：战争纪元 守序 女王恩賜"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Queen's Blessing.md"
 toc: false

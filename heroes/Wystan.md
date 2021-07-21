@@ -4,7 +4,7 @@ permalink: /heroes/Wystan/
 excerpt: "魔法门之英雄无敌：战争纪元 維斯特. 維斯特. 維斯特是塔洛斯國王的大女婿，也是泰塔利亞王位的第二繼承人。他在等待有一天時機成熟，問鼎王位。"
 heroID: 61504
 QR: hero_61504
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Wystan"
 toc: true

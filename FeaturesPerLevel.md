@@ -2,7 +2,7 @@
 title: "魔法门之英雄无敌：战争纪元  Features per Level"
 permalink: /Features per Level/
 excerpt: "魔法门之英雄无敌：战争纪元 解鎖新功能. Features per Level."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Peak Talent EXP.md"
 toc: false

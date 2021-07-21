@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿八章 - 28-13 製作工坊"
 permalink: /Main Story/Chapter 28_13/
 excerpt: "第廿八章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿八章_13. 28-13 製作工坊"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 28_13.md"
 toc: false

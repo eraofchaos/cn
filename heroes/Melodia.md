@@ -4,7 +4,7 @@ permalink: /heroes/Melodia/
 excerpt: "魔法门之英雄无敌：战争纪元 馬洛迪亞. 馬洛迪亞. 馬洛迪亞是個幸運的術士，就算在劣勢中，她也能創造出不可思議的奇蹟來，所以不論哪種軍隊都樂意加入她。"
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Melodia"
 toc: true

@@ -2,7 +2,7 @@
 title: "寶物 - 大法師寶典 - 禁魔披風"
 permalink: /artifacts/Recanter's Cloak/
 excerpt: "魔法门之英雄无敌：战争纪元  大法師寶典 - 禁魔披風. 穿上它能夠削弱魔法衝擊，大法師寶典的組件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Recanter's Cloak.md"
 toc: false

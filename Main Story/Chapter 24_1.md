@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-1 仙女住所"
 permalink: /Main Story/Chapter 24_1/
 excerpt: "第廿四章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_1. 24-1 仙女住所"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 24_1.md"
 toc: false

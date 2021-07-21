@@ -2,7 +2,7 @@
 title: "防禦工事. 巔峰天賦 - 防禦工事"
 permalink: /PeakTalent/Fortifications/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 防禦工事. 巔峰天賦 防禦工事. 防禦工事"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Fortifications.md"
 toc: false

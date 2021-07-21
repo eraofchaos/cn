@@ -2,7 +2,7 @@
 title: "頭像 - 煉獄羅刹"
 permalink: /Avatars/Inferno Demon/
 excerpt: "魔法门之英雄无敌：战争纪元  煉獄羅刹"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Inferno Demon.md"
 toc: false

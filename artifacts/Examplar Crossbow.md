@@ -2,7 +2,7 @@
 title: "寶物 - 末日之刃 - 典範硬弩"
 permalink: /artifacts/Examplar Crossbow/
 excerpt: "魔法门之英雄无敌：战争纪元  末日之刃 - 典範硬弩. 英雄格魯在成年之前隨身佩戴的神器，末日之刃的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Examplar Crossbow.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "地下城 - 第十二章 - 12-2 亡靈君主"
 permalink: /Underground/Chapter 12_2/
 excerpt: "第十二章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第十二章_2. 12-2 亡靈君主"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 12_2.md"
 toc: false

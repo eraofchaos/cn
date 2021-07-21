@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三章 - 3-2 詛咒靈廟"
 permalink: /Main Story/Chapter 3_2/
 excerpt: "第三章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三章_2. 3-2 詛咒靈廟"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 3_2.md"
 toc: false

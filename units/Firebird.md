@@ -3,7 +3,7 @@ title: "鳳凰"
 permalink: /units/Firebird/
 excerpt: "魔法门之英雄无敌：战争纪元 鳳凰. 鳳凰 兵團. 烈焰主宰. 魔法门之英雄无敌：战争纪元 鳳凰是元素族的頂級生物，飛翔於火焰之中，永生不滅，周身席捲的烈焰足以燒死任何不軌之人。"
 unitID: 907
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "鳳凰"
 toc: true

@@ -4,7 +4,7 @@ permalink: /heroes/Tazar/
 excerpt: "魔法门之英雄无敌：战争纪元 泰澤. 泰澤. 在與克魯羅德長達六個月的邊界戰爭中，泰澤率領的一小股部隊駐紮在一個泰塔利亞哨所，阻擋了五倍於他們的克魯羅德軍隊長達八天，一直堅持到援軍趕來。"
 heroID: 61501
 QR: hero_61501
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Tazar"
 toc: true

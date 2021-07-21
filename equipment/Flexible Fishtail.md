@@ -2,7 +2,7 @@
 title: "靈動魚尾"
 permalink: /equipment/Flexible Fishtail/
 excerpt: "魔法门之英雄无敌：战争纪元 靈動魚尾. 靈動魚尾"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Flexible Fishtail.md"
 toc: false

@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by 陣營：[元素生物](/cn/units/Faction Conflux/){: .btn .btn--primary} [地獄軍團](/cn/units/Faction Inferno/){: .btn .btn--success} [幽暗地城](/cn/units/Faction Dungeon/){: .btn .btn--warning} [沼澤要塞](/cn/units/Faction Fortress/){: .btn .btn--danger} [森林壁壘](/cn/units/Faction Rampart/){: .btn .btn--info} [平原城堡](/cn/units/Faction Castle/){: .btn .btn--primary} [魔法塔樓](/cn/units/Faction Tower/){: .btn .btn--success} [荒原據點](/cn/units/Faction Stronghold/){: .btn .btn--warning} [海盜港口](/cn/units/Faction Cove/){: .btn .btn--danger} [中立之軍](/cn/units/Faction Neutral Army/){: .btn .btn--info} [亡靈墓園](/cn/units/Faction Necropolis/){: .btn .btn--primary} 
+  by 陣營：[中立之軍](/cn/units/Faction Neutral/){: .btn .btn--primary} [元素生物](/cn/units/Faction Conflux/){: .btn .btn--success} [地獄軍團](/cn/units/Faction Inferno/){: .btn .btn--warning} [幽暗地城](/cn/units/Faction Dungeon/){: .btn .btn--danger} [沼澤要塞](/cn/units/Faction Fortress/){: .btn .btn--info} [森林壁壘](/cn/units/Faction Rampart/){: .btn .btn--primary} [平原城堡](/cn/units/Faction Castle/){: .btn .btn--success} [魔法塔樓](/cn/units/Faction Tower/){: .btn .btn--warning} [荒原據點](/cn/units/Faction Stronghold/){: .btn .btn--danger} [海盜港口](/cn/units/Faction Cove/){: .btn .btn--info} [亡靈墓園](/cn/units/Faction Necropolis/){: .btn .btn--primary} 
 
   by 職業: [射手](/cn/units/Unit Class Ranged/){: .btn .btn--primary} [突擊](/cn/units/Unit Class Charging/){: .btn .btn--success} [魔法](/cn/units/Unit Class Caster/){: .btn .btn--warning} [攻擊](/cn/units/Unit Class Offense/){: .btn .btn--danger} [防禦](/cn/units/Unit Class Defense/){: .btn .btn--info} 
 
@@ -25,7 +25,7 @@ classes: wide
   | 3 | ![冰元素](/images/u/ti_bingyuansu2.jpg) | [冰元素](/cn/units/Ice Elemental/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  寂滅雪靈  |
   | 4 | ![冰魔](/images/u/ti_bingmo.jpg) | [冰魔](/cn/units/Ice Demon/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 5 | ![刺客](/images/u/ti_cishazhe.jpg) | [刺客](/cn/units/Assassin/) | 突擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
-  | 6 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  深淵巨噬  |
+  | 6 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  深淵巨噬  |
   | 7 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/units/Centaur/) | 防禦 | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  半人馬酋長  |
   | 8 | ![半獸人](/images/u/ti_shourentoufushou.jpg) | [半獸人](/cn/units/Orc/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  半獸人統領  |
   | 9 | ![叢林妖精](/images/u/ti_conglinyaojing.jpg) | [叢林妖精](/cn/units/Leprechaun/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  神樹守靈  |

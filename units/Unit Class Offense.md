@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Unit Class Offense"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![精神元素](/images/u/ti_jingshenyuansu.jpg) | [精神元素](/cn/units/Psychic Elemental/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  崇高意志  |
   | 2 | ![暗黑領主](/images/u/ti_sishen.jpg) | [暗黑領主](/cn/units/Dark Champion/) | 攻擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
-  | 3 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  深淵巨噬  |
+  | 3 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  深淵巨噬  |
   | 4 | ![地獄領主](/images/u/ti_diyulingzhu.jpg) | [地獄領主](/cn/units/Pit Fiend/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  歡愉女王  |
   | 5 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  死亡咆哮者  |
   | 6 | ![石像鬼](/images/u/ti_shixianggui.jpg) | [石像鬼](/cn/units/Stone Gargoyle/) | 攻擊 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |

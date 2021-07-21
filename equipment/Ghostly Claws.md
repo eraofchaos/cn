@@ -2,7 +2,7 @@
 title: "鬼魅利爪"
 permalink: /equipment/Ghostly Claws/
 excerpt: "魔法门之英雄无敌：战争纪元 鬼魅利爪. 鬼魅利爪"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Ghostly Claws.md"
 toc: false

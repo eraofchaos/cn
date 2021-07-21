@@ -4,7 +4,7 @@ permalink: /heroes/Ezio/
 excerpt: "魔法门之英雄无敌：战争纪元 埃齊歐. 埃齊歐. 即使在截然不同的異世界，埃齊歐依然沒有放棄自己的信念，行於黑暗，侍奉光明。"
 heroID: 61901
 QR: hero_61901
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Ezio"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## 詳情
  **Profession:**  [Unknown](/cn/heroes/Profession Unknown/)
 
- **陣營:** [中立之軍](/cn/heroes/Faction Neutral Army/)
+ **陣營:** [中立之軍](/cn/heroes/Faction Neutral/)
 
  **排名:** [SSR](/cn/heroes/Hero Rank SSR/)
 

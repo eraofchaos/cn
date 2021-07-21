@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十九章 - 19-15 塞萊斯特"
 permalink: /Main Story/Chapter 19_15/
 excerpt: "第十九章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十九章_15. 19-15 塞萊斯特"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 19_15.md"
 toc: false

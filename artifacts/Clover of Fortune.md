@@ -2,7 +2,7 @@
 title: "寶物 - 幸運鐵蹄 - 幸運草"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "魔法门之英雄无敌：战争纪元  幸運鐵蹄 - 幸運草. 生機永固的四葉草，幸運鐵蹄的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Clover of Fortune.md"
 toc: false

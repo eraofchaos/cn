@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三章 - 3-11 智慧石"
 permalink: /Main Story/Chapter 3_11/
 excerpt: "第三章 - 11. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三章_11. 3-11 智慧石"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 3_11.md"
 toc: false

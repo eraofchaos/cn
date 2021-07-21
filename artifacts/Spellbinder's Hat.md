@@ -2,7 +2,7 @@
 title: "寶物 - 魔法師之帽"
 permalink: /artifacts/Spellbinder's Hat/
 excerpt: "魔法门之英雄无敌：战争纪元  魔法師之帽. 魔法師之帽 代表法師至高榮譽的魔法師之帽，只有融會貫通火、水、氣、土四大元素魔法的高階法師才有資格佩戴，可大幅提升與魔法元素的親和度"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Spellbinder's Hat.md"
 toc: false

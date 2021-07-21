@@ -2,7 +2,7 @@
 title: "貫體長矛"
 permalink: /equipment/Piercing Spear/
 excerpt: "魔法门之英雄无敌：战争纪元 貫體長矛. 貫體長矛"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Piercing Spear.md"
 toc: false

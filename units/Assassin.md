@@ -3,7 +3,7 @@ title: "刺客"
 permalink: /units/Assassin/
 excerpt: "魔法门之英雄无敌：战争纪元 刺客. 刺客 兵團. null. 魔法门之英雄无敌：战争纪元 行於黑夜，侍奉光明，萬物皆虛，萬事皆允"
 unitID: 9701
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "刺客"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **職業 玩法詳解:** 突擊：突擊敵方後排，對射手及魔法兵團暴擊傷害提高
 
- **陣營：** [中立之軍](/cn/units/Faction Neutral Army/)
+ **陣營：** [中立之軍](/cn/units/Faction Neutral/)
 
  **Race:** 刺客聯盟
 

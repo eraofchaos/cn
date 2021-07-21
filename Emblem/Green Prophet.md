@@ -2,7 +2,7 @@
 title: "聖徽 - 綠先知"
 permalink: /Emblem/Green Prophet/
 excerpt: "魔法门之英雄无敌：战争纪元 綠先知. 綠先知. 魔法门之英雄无敌：战争纪元 聖徽 綠先知. 魔法门之英雄无敌：战争纪元 善良 綠先知"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Green Prophet.md"
 toc: false

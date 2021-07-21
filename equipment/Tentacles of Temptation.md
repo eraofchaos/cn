@@ -2,7 +2,7 @@
 title: "誘惑之須"
 permalink: /equipment/Tentacles of Temptation/
 excerpt: "魔法门之英雄无敌：战争纪元 誘惑之須. 誘惑之須"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Tentacles of Temptation.md"
 toc: false

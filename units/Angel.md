@@ -3,7 +3,7 @@ title: "大天使"
 permalink: /units/Angel/
 excerpt: "魔法门之英雄无敌：战争纪元 大天使. 大天使 兵團. 天使長. 魔法门之英雄无敌：战争纪元 大天使是力量與光明的象徵，他們戰鬥勇猛並具有致命的攻擊力，能夠復活陣亡單位。"
 unitID: 107
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "大天使"
 toc: true

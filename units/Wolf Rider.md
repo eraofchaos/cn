@@ -3,7 +3,7 @@ title: "惡狼騎士"
 permalink: /units/Wolf Rider/
 excerpt: "魔法门之英雄无敌：战争纪元 惡狼騎士. 惡狼騎士 兵團. 狂狼鬥士. 魔法门之英雄无敌：战争纪元 好戰的惡狼騎士馴服了巨狼作為坐騎，攻擊更加迅猛，巨狼鋒利的獠牙和利爪更讓敵人感到恐懼。"
 unitID: 402
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "惡狼騎士"
 toc: true

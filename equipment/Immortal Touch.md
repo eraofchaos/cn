@@ -2,7 +2,7 @@
 title: "不朽之觸"
 permalink: /equipment/Immortal Touch/
 excerpt: "魔法门之英雄无敌：战争纪元 不朽之觸. 不朽之觸"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Immortal Touch.md"
 toc: false

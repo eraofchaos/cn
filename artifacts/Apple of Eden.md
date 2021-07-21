@@ -2,7 +2,7 @@
 title: "寶物 - 金蘋果"
 permalink: /artifacts/Apple of Eden/
 excerpt: "魔法门之英雄无敌：战争纪元  金蘋果. 金蘋果 來自遠古先行者文明的贈禮，傳說中能夠改變世間萬物的神器"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Apple of Eden.md"
 toc: false

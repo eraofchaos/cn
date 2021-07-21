@@ -2,7 +2,7 @@
 title: "狂暴大棒"
 permalink: /equipment/Spiked Club/
 excerpt: "魔法门之英雄无敌：战争纪元 狂暴大棒. 狂暴大棒"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Spiked Club.md"
 toc: false

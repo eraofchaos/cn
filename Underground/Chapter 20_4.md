@@ -2,7 +2,7 @@
 title: "地下城 - 第二十章 - 20-4 元素毀滅"
 permalink: /Underground/Chapter 20_4/
 excerpt: "第二十章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第二十章_4. 20-4 元素毀滅"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 20_4.md"
 toc: false

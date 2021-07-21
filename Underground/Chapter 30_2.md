@@ -2,7 +2,7 @@
 title: "地下城 - 第三十章 - 30-2  鮮血盛宴"
 permalink: /Underground/Chapter 30_2/
 excerpt: "第三十章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第三十章_2. 30-2  鮮血盛宴"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 30_2.md"
 toc: false

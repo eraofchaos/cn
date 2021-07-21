@@ -4,7 +4,7 @@ permalink: /heroes/Cassanbel/
 excerpt: "魔法门之英雄无敌：战争纪元 卡珊貝爾. 卡珊貝爾. 雖然因為人類她失去她的「父親」，但她還是選擇幫助這些在大海中生存的人類。"
 heroID: 61701
 QR: hero_61701
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Cassanbel"
 toc: true

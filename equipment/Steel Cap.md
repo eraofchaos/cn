@@ -2,7 +2,7 @@
 title: "戰爭頭盔"
 permalink: /equipment/Steel Cap/
 excerpt: "魔法门之英雄无敌：战争纪元 戰爭頭盔. 戰爭頭盔"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Steel Cap.md"
 toc: false

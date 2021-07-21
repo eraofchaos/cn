@@ -2,7 +2,7 @@
 title: "老獵手. 巔峰天賦 - 老獵手"
 permalink: /PeakTalent/Old Hunter/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 老獵手. 巔峰天賦 老獵手. 老獵手"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Old Hunter.md"
 toc: false

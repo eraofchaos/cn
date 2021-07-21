@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿五章 - 25-12 戰術學院"
 permalink: /Main Story/Chapter 25_12/
 excerpt: "第廿五章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿五章_12. 25-12 戰術學院"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 25_12.md"
 toc: false

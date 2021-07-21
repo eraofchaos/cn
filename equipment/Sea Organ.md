@@ -2,7 +2,7 @@
 title: "聆海風琴"
 permalink: /equipment/Sea Organ/
 excerpt: "魔法门之英雄无敌：战争纪元 聆海風琴. 聆海風琴"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Sea Organ.md"
 toc: false

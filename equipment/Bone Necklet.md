@@ -2,7 +2,7 @@
 title: "骨質項圈"
 permalink: /equipment/Bone Necklet/
 excerpt: "魔法门之英雄无敌：战争纪元 骨質項圈. 骨質項圈"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Bone Necklet.md"
 toc: false

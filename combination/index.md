@@ -2,7 +2,7 @@
 title: "組合說明"
 permalink: /combination/
 excerpt: "魔法门之英雄无敌：战争纪元 組合說明. 組合說明. Units and Heroes Formation."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "index.md"
 toc: false

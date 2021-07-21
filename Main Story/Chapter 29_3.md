@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿九章 - 29-3 荒廢圖書館"
 permalink: /Main Story/Chapter 29_3/
 excerpt: "第廿九章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿九章_3. 29-3 荒廢圖書館"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 29_3.md"
 toc: false

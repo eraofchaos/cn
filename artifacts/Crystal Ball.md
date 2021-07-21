@@ -2,7 +2,7 @@
 title: "寶物 - 金蘋果 - 水晶球"
 permalink: /artifacts/Crystal Ball/
 excerpt: "魔法门之英雄无敌：战争纪元  金蘋果 - 水晶球. 晶瑩剔透的水晶球，傳說能夠看到未來的景象"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Crystal Ball.md"
 toc: false

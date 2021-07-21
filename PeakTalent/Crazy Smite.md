@@ -2,7 +2,7 @@
 title: "沸血狂攻. 巔峰天賦 - 沸血狂攻"
 permalink: /PeakTalent/Crazy Smite/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 沸血狂攻. 巔峰天賦 沸血狂攻. 沸血狂攻"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Crazy Smite.md"
 toc: false

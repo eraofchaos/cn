@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-4 為了正義"
 permalink: /Main Story/Chapter 13_4/
 excerpt: "第十三章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_4. 13-4 為了正義"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 13_4.md"
 toc: false

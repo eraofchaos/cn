@@ -2,7 +2,7 @@
 title: "護體背帶"
 permalink: /equipment/Protective Strap/
 excerpt: "魔法门之英雄无敌：战争纪元 護體背帶. 護體背帶"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Protective Strap.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 法師之戒 - 魔法披風"
 permalink: /artifacts/Cape of Conjuring/
 excerpt: "魔法门之英雄无敌：战争纪元  法師之戒 - 魔法披風. 具有魔法力量的披風，法師之戒的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Cape of Conjuring.md"
 toc: false

@@ -3,7 +3,7 @@ title: "勒維亞坦"
 permalink: /units/Revyaratan/
 excerpt: "魔法门之英雄无敌：战争纪元 勒維亞坦. 勒維亞坦 兵團. 深淵巨噬. 魔法门之英雄无敌：战争纪元 遊蕩在深海的怪獸，巨大的怪口彷彿能吞噬一切。"
 unitID: 9908
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "勒維亞坦"
 toc: true
@@ -80,11 +80,11 @@ toc: true
 
  **名字:** [暗潮](/cn/Exclusive/Revyaratan Gloom Tides/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
- **Item to 升星:** -
+ **Item to 升星:** [暗潮碎片](/cn/Items/con_2224/)
 
- **塗裝:** -
+ **塗裝:** [暗潮特效塗裝](/cn/Items/con_2222/)
 
 
 ## 聖徽推薦

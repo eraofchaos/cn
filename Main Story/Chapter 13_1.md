@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-1 神之囈語"
 permalink: /Main Story/Chapter 13_1/
 excerpt: "第十三章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_1. 13-1 神之囈語"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 13_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank R -  Heroes"
 permalink: /heroes/Hero Rank R/
 excerpt: "魔法门之英雄无敌：战争纪元 Hero Rank R. Hero Rank R. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Hero Rank R"
 toc: false

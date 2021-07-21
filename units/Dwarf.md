@@ -3,7 +3,7 @@ title: "戰鬥矮人"
 permalink: /units/Dwarf/
 excerpt: "魔法门之英雄无敌：战争纪元 戰鬥矮人. 戰鬥矮人 兵團. 堅壁守衛. 魔法门之英雄无敌：战争纪元 戰鬥矮人們擁有銅牆鐵壁般的防禦，他們脾氣暴躁，善於使用巨大的鐵錘平息一切反對的聲音。"
 unitID: 202
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "戰鬥矮人"
 toc: true

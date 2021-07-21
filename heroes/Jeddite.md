@@ -4,7 +4,7 @@ permalink: /heroes/Jeddite/
 excerpt: "魔法门之英雄无敌：战争纪元 傑德特. 傑德特. 傑德特是個神祕人物，他和各國的高層來往密切。但沒人瞭解他的過去，他也從不向人提起。"
 heroID: 61401
 QR: hero_61401
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Jeddite"
 toc: true

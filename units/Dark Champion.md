@@ -3,7 +3,7 @@ title: "暗黑領主"
 permalink: /units/Dark Champion/
 excerpt: "魔法门之英雄无敌：战争纪元 暗黑領主. 暗黑領主 兵團. null. 魔法门之英雄无敌：战争纪元 不死的君王黑暗的領主，殘忍地消滅一切活物並收集他們的靈魂。"
 unitID: 309
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "暗黑領主"
 toc: true
@@ -110,7 +110,7 @@ toc: true
  **玩法詳解:** <span style="color: #645252;font-size:20px">目標兵團血量低於 40% 時，暗黑領主使用墓碑埋葬目標兵團</span><span style="color: black"> <span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"> <span style="color: #645252;font-size:20px">秒，被埋葬兵團被禁療被沉默，無法攻擊和移動，期間受到的傷害轉移給敵方隨機四個遠距兵團；墓碑存在期間，每秒恢復範圍內己方墓園兵團</span><span style="color: black"> <span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"> <span style="color: #645252;font-size:20px">最大生命值，冷卻時間 28 秒。</span><span style="color: black">
 
 ### 常規技能 3 : 白骨君主
- **玩法詳解:** <span style="color: #645252;font-size:20px">兵團傷害提高</span><span style="color: black"> <span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"> <span style="color: #645252;font-size:20px">。每有一個己方墓園兵團在場，命運終結血線提高 4%；每有一個己方墓園召喚物兵團在場，命運終結血線提高 1%。命運終結血線最高提高到 25%。我方英雄釋放土系法術時，隨機減少一個法術 4 秒冷卻時間。</span><span style="color: black">
+ **玩法詳解:** <span style="color: #645252;font-size:20px">兵團免傷和兵團傷害提高</span><span style="color: black"> <span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"> <span style="color: #645252;font-size:20px">。每有一個己方墓園兵團在場，命運終結血線提高 4%；每有一個己方墓園召喚物兵團在場，命運終結血線提高 1%。命運終結血線最高提高到 25%。我方英雄釋放土系法術時，隨機減少一個法術 4 秒冷卻時間。</span><span style="color: black">
 
 ### 陣營特技 I : 陰沉防禦
  **玩法詳解:** <span style="color: #645252;font-size:20px">墓園兵團熟悉陰沉環境，對陣處於「士氣低落」狀態的兵團時，增加</span><span style="color: black"> <span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"> <span style="color: #645252;font-size:20px">兵團免傷。</span><span style="color: black">

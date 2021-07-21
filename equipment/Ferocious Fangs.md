@@ -2,7 +2,7 @@
 title: "兇猛獠牙"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "魔法门之英雄无敌：战争纪元 兇猛獠牙. 兇猛獠牙"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Ferocious Fangs.md"
 toc: false

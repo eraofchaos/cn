@@ -2,7 +2,7 @@
 title: "主線劇情 - 第八章 - 8-7 全面進攻"
 permalink: /Main Story/Chapter 8_7/
 excerpt: "第八章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第八章_7. 8-7 全面進攻"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 8_7.md"
 toc: false

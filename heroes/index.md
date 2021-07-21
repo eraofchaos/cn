@@ -2,14 +2,14 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "index.md"
 QR: heroes
 toc: false
 classes: wide
 ---
-  by 陣營: [元素生物](/cn/heroes/Faction Conflux/){: .btn .btn--primary} [地獄軍團](/cn/heroes/Faction Inferno/){: .btn .btn--success} [幽暗地城](/cn/heroes/Faction Dungeon/){: .btn .btn--warning} [森林壁壘](/cn/heroes/Faction Rampart/){: .btn .btn--danger} [沼澤要塞](/cn/heroes/Faction Fortress/){: .btn .btn--info} [平原城堡](/cn/heroes/Faction Castle/){: .btn .btn--primary} [魔法塔樓](/cn/heroes/Faction Tower/){: .btn .btn--success} [荒原據點](/cn/heroes/Faction Stronghold/){: .btn .btn--warning} [中立之軍](/cn/heroes/Faction Neutral Army/){: .btn .btn--danger} [海盜港口](/cn/heroes/Faction Cove/){: .btn .btn--info} [亡靈墓園](/cn/heroes/Faction Necropolis/){: .btn .btn--primary} 
+  by 陣營: [中立之軍](/cn/heroes/Faction Neutral/){: .btn .btn--primary} [元素生物](/cn/heroes/Faction Conflux/){: .btn .btn--success} [地獄軍團](/cn/heroes/Faction Inferno/){: .btn .btn--warning} [幽暗地城](/cn/heroes/Faction Dungeon/){: .btn .btn--danger} [森林壁壘](/cn/heroes/Faction Rampart/){: .btn .btn--info} [沼澤要塞](/cn/heroes/Faction Fortress/){: .btn .btn--primary} [平原城堡](/cn/heroes/Faction Castle/){: .btn .btn--success} [魔法塔樓](/cn/heroes/Faction Tower/){: .btn .btn--warning} [荒原據點](/cn/heroes/Faction Stronghold/){: .btn .btn--danger} [海盜港口](/cn/heroes/Faction Cove/){: .btn .btn--info} [亡靈墓園](/cn/heroes/Faction Necropolis/){: .btn .btn--primary} 
 
   by 職業: [海洋生靈](/cn/heroes/Profession Ocean Creatures/){: .btn .btn--primary} [遊俠](/cn/heroes/Profession Ranger/){: .btn .btn--success} [死亡騎士](/cn/heroes/Profession Death Knight/){: .btn .btn--warning} [地下領主](/cn/heroes/Profession Overlord/){: .btn .btn--danger} [異教徒](/cn/heroes/Profession Heretic/){: .btn .btn--info} [妖術師](/cn/heroes/Profession Warlock/){: .btn .btn--primary} [德魯伊](/cn/heroes/Profession Druid/){: .btn .btn--success} [野蠻人](/cn/heroes/Profession Barbarian/){: .btn .btn--warning} [牧師](/cn/heroes/Profession Clerics/){: .btn .btn--danger} [Unknown](/cn/heroes/Profession Unknown/){: .btn .btn--info} [魔鬼](/cn/heroes/Profession Demoniac/){: .btn .btn--primary} [元素人](/cn/heroes/Profession Planeswalker/){: .btn .btn--success} [騎士](/cn/heroes/Profession Knight/){: .btn .btn--warning} [馴獸師](/cn/heroes/Profession Beast Master/){: .btn .btn--danger} [海盜](/cn/heroes/Profession Pirate/){: .btn .btn--info} [元素使](/cn/heroes/Profession Elementalist/){: .btn .btn--primary} [巫師](/cn/heroes/Profession Necromancer/){: .btn .btn--success} [術士](/cn/heroes/Profession Wizard/){: .btn .btn--warning} 
 

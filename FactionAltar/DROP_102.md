@@ -2,7 +2,7 @@
 title: "Faction Altar for 森林壁壘"
 permalink: /FactionAltar/DROP_102/
 excerpt: "魔法门之英雄无敌：战争纪元  Faction Altar for 森林壁壘. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "DROP_102.md"
 toc: false

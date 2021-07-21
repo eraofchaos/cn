@@ -2,7 +2,7 @@
 title: "寶物 - 執政者之筆 - 政治家勳章"
 permalink: /artifacts/Statesman's Medal/
 excerpt: "魔法门之英雄无敌：战争纪元  執政者之筆 - 政治家勳章. 勳章記錄著擁有者的榮耀，是執政者之筆的組件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Statesman's Medal.md"
 toc: false

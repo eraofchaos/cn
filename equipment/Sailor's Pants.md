@@ -2,7 +2,7 @@
 title: "水手長褲"
 permalink: /equipment/Sailor's Pants/
 excerpt: "魔法门之英雄无敌：战争纪元 水手長褲. 水手長褲"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Sailor's Pants.md"
 toc: false

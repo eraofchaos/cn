@@ -2,7 +2,7 @@
 title: "頭像 - 死亡國度"
 permalink: /Avatars/Death Kingdom/
 excerpt: "魔法门之英雄无敌：战争纪元  死亡國度"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Death Kingdom.md"
 toc: false
@@ -16,5 +16,5 @@ classes: wide
 
  **Tips:** 參加活動獲得 
 
- **Is available:**  - 
+ **Is available:**  + 
 

@@ -2,7 +2,7 @@
 title: "榮耀之劍. 巔峰天賦 - 榮耀之劍"
 permalink: /PeakTalent/Sword of Glory/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 榮耀之劍. 巔峰天賦 榮耀之劍. 榮耀之劍"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Sword of Glory.md"
 toc: false

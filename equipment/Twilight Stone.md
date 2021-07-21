@@ -2,7 +2,7 @@
 title: "黑曜巨石"
 permalink: /equipment/Twilight Stone/
 excerpt: "魔法门之英雄无敌：战争纪元 黑曜巨石. 黑曜巨石"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Twilight Stone.md"
 toc: false

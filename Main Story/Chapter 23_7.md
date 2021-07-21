@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿三章 - 23-7 屠龍武器"
 permalink: /Main Story/Chapter 23_7/
 excerpt: "第廿三章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿三章_7. 23-7 屠龍武器"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 23_7.md"
 toc: false

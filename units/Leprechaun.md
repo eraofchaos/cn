@@ -3,7 +3,7 @@ title: "叢林妖精"
 permalink: /units/Leprechaun/
 excerpt: "魔法门之英雄无敌：战争纪元 叢林妖精. 叢林妖精 兵團. 神樹守靈. 魔法门之英雄无敌：战争纪元 借助著提供神奇格擋力量的魔法護符，叢林妖精聽從召喚通過世界樹傳送門來到殘酷而充滿殺機的戰場，成為自然陣營最堅實的盾牌！"
 unitID: 909
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "叢林妖精"
 toc: true

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三十章 - 30-8 烈火祭壇"
 permalink: /Main Story/Chapter 30_8/
 excerpt: "第三十章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三十章_8. 30-8 烈火祭壇"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 30_8.md"
 toc: false

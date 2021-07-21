@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 - 2-7 偷馬賊"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "第二章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章_7. 2-7 偷馬賊"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 2_7.md"
 toc: false

@@ -3,7 +3,7 @@ title: "豺狼人"
 permalink: /units/Gnoll/
 excerpt: "魔法门之英雄无敌：战争纪元 豺狼人. 豺狼人 兵團. 豺狼勇士. 魔法门之英雄无敌：战争纪元 居住在沼澤中的兇殘生物，善於利用群體優勢圍捕落單或軟弱的獵物。"
 unitID: 801
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "豺狼人"
 toc: true

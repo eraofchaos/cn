@@ -2,7 +2,7 @@
 title: "奧法之心. 巔峰天賦 - 奧法之心"
 permalink: /PeakTalent/Heart of Offa/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 奧法之心. 巔峰天賦 奧法之心. 奧法之心"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Heart of Offa.md"
 toc: false

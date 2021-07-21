@@ -2,7 +2,7 @@
 title: "寶物 - 末日之刃 - 勇士戰錘"
 permalink: /artifacts/Warrior Hammer/
 excerpt: "魔法门之英雄无敌：战争纪元  末日之刃 - 勇士戰錘. 深藏在巨人山脊的戰錘，末日之刃的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Warrior Hammer.md"
 toc: false

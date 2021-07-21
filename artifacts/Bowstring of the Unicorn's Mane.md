@@ -2,7 +2,7 @@
 title: "寶物 - 幻影神弓 - 神獸之鬃"
 permalink: /artifacts/Bowstring of the Unicorn's Mane/
 excerpt: "魔法门之英雄无敌：战争纪元  幻影神弓 - 神獸之鬃. 神獸贈與精靈族的鬃毛，幻影神弓的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Bowstring of the Unicorn's Mane.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Kilgor/
 excerpt: "魔法门之英雄无敌：战争纪元 科爾格. 科爾格. 自從為了部落首領的地位而打敗了他的父親，科爾格偉大的名聲響遍了整個克魯羅德。很多人認為，他會是唯一一個有能力在這一代生命祭祀中獲勝的人。"
 heroID: 60601
 QR: hero_60601
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Kilgor"
 toc: true

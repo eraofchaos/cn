@@ -2,7 +2,7 @@
 title: "地下城 - 第八章 - 8-2  兵源緊張"
 permalink: /Underground/Chapter 8_2/
 excerpt: "第八章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第八章_2. 8-2  兵源緊張"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 8_2.md"
 toc: false

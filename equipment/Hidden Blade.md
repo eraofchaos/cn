@@ -2,7 +2,7 @@
 title: "斷指袖劍"
 permalink: /equipment/Hidden Blade/
 excerpt: "魔法门之英雄无敌：战争纪元 斷指袖劍. 斷指袖劍"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Hidden Blade.md"
 toc: false

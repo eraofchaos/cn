@@ -4,7 +4,7 @@ permalink: /heroes/Catherine/
 excerpt: "魔法门之英雄无敌：战争纪元 凱瑟琳. 凱瑟琳. 作為艾拉西亞的女王，凱瑟琳不得已發動戰爭來維護她父親創立的王國，直至末日之刃時終獲勝利。"
 heroID: 60102
 QR: hero_60102
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Catherine"
 toc: true

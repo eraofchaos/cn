@@ -2,7 +2,7 @@
 title: "緊縛腰帶"
 permalink: /equipment/Belt of Constraint/
 excerpt: "魔法门之英雄无敌：战争纪元 緊縛腰帶. 緊縛腰帶"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Belt of Constraint.md"
 toc: false

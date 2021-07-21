@@ -2,7 +2,7 @@
 title: "石化獠牙"
 permalink: /equipment/Petrification Fang/
 excerpt: "魔法门之英雄无敌：战争纪元 石化獠牙. 石化獠牙"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Petrification Fang.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "維京角盔"
 permalink: /equipment/Horned Helmet/
 excerpt: "魔法门之英雄无敌：战争纪元 維京角盔. 維京角盔"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Horned Helmet.md"
 toc: false

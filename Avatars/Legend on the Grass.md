@@ -2,7 +2,7 @@
 title: "頭像 - 綠茵傳奇"
 permalink: /Avatars/Legend on the Grass/
 excerpt: "魔法门之英雄无敌：战争纪元  綠茵傳奇"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Legend on the Grass.md"
 toc: false

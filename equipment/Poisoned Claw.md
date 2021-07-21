@@ -2,7 +2,7 @@
 title: "帶毒利爪"
 permalink: /equipment/Poisoned Claw/
 excerpt: "魔法门之英雄无敌：战争纪元 帶毒利爪. 帶毒利爪"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Poisoned Claw.md"
 toc: false

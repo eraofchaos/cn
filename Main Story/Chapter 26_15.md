@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿六章 - 26-15 尼貢往事"
 permalink: /Main Story/Chapter 26_15/
 excerpt: "第廿六章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿六章_15. 26-15 尼貢往事"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 26_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "陰冷倒刺"
 permalink: /equipment/Bleak Barb/
 excerpt: "魔法门之英雄无敌：战争纪元 陰冷倒刺. 陰冷倒刺"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Bleak Barb.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 天使聯盟 - 先知劍"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "魔法门之英雄无敌：战争纪元  天使聯盟 - 先知劍. 神賜予人類的寶劍，天使聯盟的元件之一"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Sword of Judgement.md"
 toc: false

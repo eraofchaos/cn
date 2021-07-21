@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三十章 - 30-15 克裡斯夫"
 permalink: /Main Story/Chapter 30_15/
 excerpt: "第三十章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三十章_15. 30-15 克裡斯夫"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 30_15.md"
 toc: false

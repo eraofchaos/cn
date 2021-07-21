@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三十章 - 30-3 飛馬泉"
 permalink: /Main Story/Chapter 30_3/
 excerpt: "第三十章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三十章_3. 30-3 飛馬泉"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 30_3.md"
 toc: false

@@ -3,7 +3,7 @@ title: "大惡魔"
 permalink: /units/Devil/
 excerpt: "魔法门之英雄无敌：战争纪元 大惡魔. 大惡魔 兵團. 原罪魔王. 魔法门之英雄无敌：战争纪元 大惡魔是地獄軍團的領袖，能夠在任意位置佈陣，利用瞬移攻擊敵方後排。"
 unitID: 507
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "大惡魔"
 toc: true

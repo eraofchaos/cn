@@ -2,7 +2,7 @@
 title: "黑鐵圓盾"
 permalink: /equipment/Unholy Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 黑鐵圓盾. 黑鐵圓盾"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Unholy Shield.md"
 toc: false

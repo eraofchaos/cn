@@ -2,7 +2,7 @@
 title: "迅雷羽翼"
 permalink: /equipment/Wings of a Thunderbolt/
 excerpt: "魔法门之英雄无敌：战争纪元 迅雷羽翼. 迅雷羽翼"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Wings of a Thunderbolt.md"
 toc: false

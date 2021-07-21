@@ -2,7 +2,7 @@
 title: "魔力核心"
 permalink: /equipment/Arcane Heart/
 excerpt: "魔法门之英雄无敌：战争纪元 魔力核心. 魔力核心"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Arcane Heart.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "王國勳章. 巔峰天賦 - 王國勳章"
 permalink: /PeakTalent/Medal of Kingdom/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 王國勳章. 巔峰天賦 王國勳章. 王國勳章"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Medal of Kingdom.md"
 toc: false

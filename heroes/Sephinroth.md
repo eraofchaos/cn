@@ -4,7 +4,7 @@ permalink: /heroes/Sephinroth/
 excerpt: "魔法门之英雄无敌：战争纪元 薩費羅斯. 薩費羅斯. 薩費羅斯，恩塔格瑞唯一已知的女妖術師，傳說她為克里鋒國王的私生子。"
 heroID: 61402
 QR: hero_61402
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Sephinroth"
 toc: true

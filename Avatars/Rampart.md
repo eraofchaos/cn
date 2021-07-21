@@ -2,7 +2,7 @@
 title: "頭像 - 壁壘陣營"
 permalink: /Avatars/Rampart/
 excerpt: "魔法门之英雄无敌：战争纪元  壁壘陣營"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Rampart.md"
 toc: false

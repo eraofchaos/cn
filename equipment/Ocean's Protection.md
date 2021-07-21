@@ -2,7 +2,7 @@
 title: "海洋之護"
 permalink: /equipment/Ocean's Protection/
 excerpt: "魔法门之英雄无敌：战争纪元 海洋之護. 海洋之護"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Ocean's Protection.md"
 toc: false

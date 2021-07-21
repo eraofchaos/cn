@@ -2,7 +2,7 @@
 title: "射擊訓練. 巔峰天賦 - 射擊訓練"
 permalink: /PeakTalent/Gunnery Training/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 射擊訓練. 巔峰天賦 射擊訓練. 射擊訓練"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Gunnery Training.md"
 toc: false

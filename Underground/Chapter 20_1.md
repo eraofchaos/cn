@@ -2,7 +2,7 @@
 title: "地下城 - 第二十章 - 20-1 魔法氣息"
 permalink: /Underground/Chapter 20_1/
 excerpt: "第二十章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第二十章_1. 20-1 魔法氣息"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 20_1.md"
 toc: false

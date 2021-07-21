@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-2 軍團議會"
 permalink: /Main Story/Chapter 6_2/
 excerpt: "第六章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_2. 6-2 軍團議會"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Chapter 6_2.md"
 toc: false

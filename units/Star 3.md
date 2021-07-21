@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "魔法门之英雄无敌：战争纪元 Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Star 3"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 4 | ![海后](/images/u/ti_haihou.jpg) | [海后](/cn/units/Regnan Seer/) | 魔法 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  潮汐元素  |
   | 5 | ![鳳凰](/images/u/ti_fenghuang.jpg) | [鳳凰](/cn/units/Firebird/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  烈焰主宰  |
   | 6 | ![暗黑領主](/images/u/ti_sishen.jpg) | [暗黑領主](/cn/units/Dark Champion/) | 攻擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
-  | 7 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  深淵巨噬  |
+  | 7 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  深淵巨噬  |
   | 8 | ![比蒙](/images/u/ti_bimeng.jpg) | [比蒙](/cn/units/Behemoth/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  上古巨獸  |
   | 9 | ![冰魔](/images/u/ti_bingmo.jpg) | [冰魔](/cn/units/Ice Demon/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 10 | ![訓鯊師](/images/u/ti_xunshashi.jpg) | [訓鯊師](/cn/units/Shark Trainer/) | 突擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  馭鯊狂徒  |

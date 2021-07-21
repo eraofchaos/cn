@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "Unit Rank SR"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![食人魔](/images/u/ti_shirenmo.jpg) | [食人魔](/cn/units/Ogre/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  食人魔酋長  |
   | 4 | ![獨眼巨人](/images/u/ti_duyanjuren.jpg) | [獨眼巨人](/cn/units/Cyclops/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  攻城巨獸  |
   | 5 | ![鳳凰](/images/u/ti_fenghuang.jpg) | [鳳凰](/cn/units/Firebird/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  烈焰主宰  |
-  | 6 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  深淵巨噬  |
+  | 6 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/units/Revyaratan/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  深淵巨噬  |
   | 7 | ![長角惡魔](/images/u/ti_changjiaoemo.jpg) | [長角惡魔](/cn/units/Demon/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  地獄鐵衛  |
   | 8 | ![地獄三頭犬](/images/u/ti_santouquan.jpg) | [地獄三頭犬](/cn/units/Hell Hound/) | 突擊 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 9 | ![地獄領主](/images/u/ti_diyulingzhu.jpg) | [地獄領主](/cn/units/Pit Fiend/) | 攻擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  歡愉女王  |
