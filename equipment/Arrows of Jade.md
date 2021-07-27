@@ -2,7 +2,7 @@
 title: "翡翠利箭"
 permalink: /equipment/Arrows of Jade/
 excerpt: "魔法门之英雄无敌：战争纪元 翡翠利箭. 翡翠利箭"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Arrows of Jade.md"
 toc: false

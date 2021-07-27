@@ -2,7 +2,7 @@
 title: "頭像 - 競技者"
 permalink: /Avatars/Warrior/
 excerpt: "魔法门之英雄无敌：战争纪元  競技者"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Warrior.md"
 toc: false

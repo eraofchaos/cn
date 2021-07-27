@@ -2,7 +2,7 @@
 title: "專屬 - 奧術詠唱 (Ice Elemental)"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "魔法门之英雄无敌：战争纪元 奧術詠唱. 奧術詠唱. 魔法门之英雄无敌：战争纪元 專屬 奧術詠唱. 冰元素 專屬."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Ice Elemental 奧術詠唱.md"
 toc: false

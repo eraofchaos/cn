@@ -2,7 +2,7 @@
 title: "金剛巨石"
 permalink: /equipment/Boulder/
 excerpt: "魔法门之英雄无敌：战争纪元 金剛巨石. 金剛巨石"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Boulder.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 執政者之筆 - 大使勳帶"
 permalink: /artifacts/Ambassador's Sash/
 excerpt: "魔法门之英雄无敌：战争纪元  執政者之筆 - 大使勳帶. 你幫助外交官修好了他的車軸。他贈你一枚勳章，說道：“它能幫助你說服別人，是執政者之筆的組件之一"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Ambassador's Sash.md"
 toc: false

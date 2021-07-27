@@ -2,7 +2,7 @@
 title: "頭像 - 戰爭領主"
 permalink: /Avatars/Lord of War/
 excerpt: "魔法门之英雄无敌：战争纪元  戰爭領主"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Lord of War.md"
 toc: false

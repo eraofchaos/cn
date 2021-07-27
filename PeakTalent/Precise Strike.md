@@ -2,7 +2,7 @@
 title: "精準打擊. 巔峰天賦 - 精準打擊"
 permalink: /PeakTalent/Precise Strike/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 精準打擊. 巔峰天賦 精準打擊. 精準打擊"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Precise Strike.md"
 toc: false

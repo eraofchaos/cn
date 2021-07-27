@@ -2,7 +2,7 @@
 title: "腐蝕短褲"
 permalink: /equipment/Trousers of Decay/
 excerpt: "魔法门之英雄无敌：战争纪元 腐蝕短褲. 腐蝕短褲"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Trousers of Decay.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 天使聯盟"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "魔法门之英雄无敌：战争纪元  天使聯盟. 天使聯盟 天使以自身神力結合數件寶物打造的神器，可全方面加強友軍戰鬥力"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Angelic Alliance.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "地下城 - 第三十章 - 30-3  百發百中"
 permalink: /Underground/Chapter 30_3/
 excerpt: "第三十章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第三十章_3. 30-3  百發百中"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 30_3.md"
 toc: false

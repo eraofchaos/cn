@@ -2,7 +2,7 @@
 title: "頭像 - 赤翼之遺"
 permalink: /Avatars/Foolbatt's Squama/
 excerpt: "魔法门之英雄无敌：战争纪元  赤翼之遺"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Foolbatt's Squama.md"
 toc: false

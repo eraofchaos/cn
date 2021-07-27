@@ -3,7 +3,7 @@ title: "暗黑領主"
 permalink: /units/Dark Champion/
 excerpt: "魔法门之英雄无敌：战争纪元 暗黑領主. 暗黑領主 兵團. null. 魔法门之英雄无敌：战争纪元 不死的君王黑暗的領主，殘忍地消滅一切活物並收集他們的靈魂。"
 unitID: 309
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "暗黑領主"
 toc: true
@@ -229,7 +229,7 @@ toc: true
 
  **Rush:** 1
 
- **Speedattack:** 120
+ **Speedattack:** 100
 
  **Attack Show:** 8.0
 
@@ -253,7 +253,7 @@ toc: true
 
  **label1:** 1
 
- **speedmove:** 100
+ **speedmove:** 50
 
  **posclass:** 1
 

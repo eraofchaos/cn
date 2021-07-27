@@ -2,7 +2,7 @@
 title: "神聖護肩"
 permalink: /equipment/Divine Vambrace/
 excerpt: "魔法门之英雄无敌：战争纪元 神聖護肩. 神聖護肩"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Divine Vambrace.md"
 toc: false

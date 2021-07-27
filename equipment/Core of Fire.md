@@ -2,7 +2,7 @@
 title: "幽火核心"
 permalink: /equipment/Core of Fire/
 excerpt: "魔法门之英雄无敌：战争纪元 幽火核心. 幽火核心"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Core of Fire.md"
 toc: false

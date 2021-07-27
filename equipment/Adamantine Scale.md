@@ -2,7 +2,7 @@
 title: "堅硬鱗甲"
 permalink: /equipment/Adamantine Scale/
 excerpt: "魔法门之英雄无敌：战争纪元 堅硬鱗甲. 堅硬鱗甲"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Adamantine Scale.md"
 toc: false

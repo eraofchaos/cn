@@ -2,7 +2,7 @@
 title: "結晶彎角"
 permalink: /equipment/Stone Horn/
 excerpt: "魔法门之英雄无敌：战争纪元 結晶彎角. 結晶彎角"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Stone Horn.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "組合說明 for 沉默"
 permalink: /combination/Silence/
 excerpt: "組合說明 - 沉默. Units and Heroes Formation."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "沉默.md"
 toc: false

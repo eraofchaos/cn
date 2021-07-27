@@ -2,7 +2,7 @@
 title: "光明護肩"
 permalink: /equipment/Pauldrons of Lightness/
 excerpt: "魔法门之英雄无敌：战争纪元 光明護肩. 光明護肩"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Pauldrons of Lightness.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第三章 - 3-1 勇士之墓"
 permalink: /Main Story/Chapter 3_1/
 excerpt: "第三章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第三章_1. 3-1 勇士之墓"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 3_1.md"
 toc: false

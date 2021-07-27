@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十八章 - 18-13 精靈遷徙"
 permalink: /Main Story/Chapter 18_13/
 excerpt: "第十八章 - 13. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十八章_13. 18-13 精靈遷徙"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 18_13.md"
 toc: false

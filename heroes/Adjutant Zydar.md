@@ -2,7 +2,7 @@
 title: "副官 澤達"
 permalink: /heroes/Adjutant Zydar/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 澤達"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Adjutant Zydar.md"
 QR: adhero_60901

@@ -2,7 +2,7 @@
 title: "地下城 - 第十五章 - 15-2 地下熔岩"
 permalink: /Underground/Chapter 15_2/
 excerpt: "第十五章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第十五章_2. 15-2 地下熔岩"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 15_2.md"
 toc: false

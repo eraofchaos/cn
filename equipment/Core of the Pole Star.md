@@ -2,7 +2,7 @@
 title: "極星之核"
 permalink: /equipment/Core of the Pole Star/
 excerpt: "魔法门之英雄无敌：战争纪元 極星之核. 極星之核"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Core of the Pole Star.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "薔薇護手"
 permalink: /equipment/Gauntlets of Roses/
 excerpt: "魔法门之英雄无敌：战争纪元 薔薇護手. 薔薇護手"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Gauntlets of Roses.md"
 toc: false

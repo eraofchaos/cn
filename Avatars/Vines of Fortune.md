@@ -2,7 +2,7 @@
 title: "頭像 - 幸運藤蔓"
 permalink: /Avatars/Vines of Fortune/
 excerpt: "魔法门之英雄无敌：战争纪元  幸運藤蔓"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Vines of Fortune.md"
 toc: false

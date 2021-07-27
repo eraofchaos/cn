@@ -2,7 +2,7 @@
 title: "極寒冰晶"
 permalink: /equipment/Deep Ice Crystal/
 excerpt: "魔法门之英雄无敌：战争纪元 極寒冰晶. 極寒冰晶"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Deep Ice Crystal.md"
 toc: false

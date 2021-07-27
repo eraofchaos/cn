@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Castle. 專屬 Castle. List of 專屬 Castle in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Exclusive Castle"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [帝國槍兵](/cn/units/Pikeman/) | [無畏狂攻](/cn/Exclusive/Pikeman Sword/) | - | 衝鋒 | [無畏狂攻碎片](/cn/Items/con_912/) | - |
   | 2  | [帝國弩手](/cn/units/Marksman/) | [獵影逐風](/cn/Exclusive/Marksman Long Bow/) | + | 衝鋒 | [獵影逐風碎片](/cn/Items/con_914/) | - |
-  | 3  | [皇家獅鷲](/cn/units/Griffin/) | [榮耀衝鋒](/cn/Exclusive/Griffin Knight Pike/) | - | 衝鋒 | [榮耀衝鋒碎片](/cn/Items/con_916/) | - |
+  | 3  | [皇家獅鷲](/cn/units/Griffin/) | [榮耀衝鋒](/cn/Exclusive/Griffin Knight Pike/) | + | 衝鋒 | [榮耀衝鋒碎片](/cn/Items/con_916/) | - |
   | 4  | [皇家十字軍](/cn/units/Swordsman/) | [榮耀守護](/cn/Exclusive/Swordsman Iris Shield/) | - | 衝鋒 | [榮耀守護碎片](/cn/Items/con_913/) | - |
   | 5  | [僧侶](/cn/units/Monk/) | [奧術詠唱](/cn/Exclusive/Monk Arcane Chant/) | + | 衝鋒 | [奧術詠唱碎片](/cn/Items/con_915/) | - |
   | 6  | [皇家騎士](/cn/units/Cavalier/) | [榮耀衝鋒](/cn/Exclusive/Cavalier Knight Pike/) | + | 衝鋒 | [榮耀衝鋒碎片](/cn/Items/con_916/) | - |

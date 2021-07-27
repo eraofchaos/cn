@@ -2,7 +2,7 @@
 title: "殺人毒蜂"
 permalink: /equipment/Killer Bee/
 excerpt: "魔法门之英雄无敌：战争纪元 殺人毒蜂. 殺人毒蜂"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Killer Bee.md"
 toc: false

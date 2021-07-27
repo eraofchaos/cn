@@ -2,7 +2,7 @@
 title: "寶物 - 幸運鐵蹄"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "魔法门之英雄无敌：战争纪元  幸運鐵蹄. 幸運鐵蹄 彙集了生物的幸運組成的神器，能夠提升軍隊攻擊力"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Lucky Horseshoe.md"
 toc: false

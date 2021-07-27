@@ -3,7 +3,7 @@ title: "僧侶"
 permalink: /units/Monk/
 excerpt: "魔法门之英雄无敌：战争纪元 僧侶. 僧侶 兵團. 祭司. 魔法门之英雄无敌：战争纪元 僧侶是虔誠的信仰者，他們能施放祝福法術庇佑友軍，也能勇敢地奔赴戰場，打擊敵人。"
 unitID: 105
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "僧侶"
 toc: true

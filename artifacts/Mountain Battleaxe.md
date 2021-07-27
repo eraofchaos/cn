@@ -2,7 +2,7 @@
 title: "寶物 - 末日之刃 - 山王戰斧"
 permalink: /artifacts/Mountain Battleaxe/
 excerpt: "魔法门之英雄无敌：战争纪元  末日之刃 - 山王戰斧. 矮人王在恩洛斯之戰後留下的遺蹟，末日之刃的元件之一"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Mountain Battleaxe.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "寶物 - 寒冰之劍 - 凋零法杖"
 permalink: /artifacts/Withering Staff/
 excerpt: "魔法门之英雄无敌：战争纪元  寒冰之劍 - 凋零法杖. 大巫妖使用過的法杖，寒冰之劍的元件之一"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Withering Staff.md"
 toc: false

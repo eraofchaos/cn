@@ -2,7 +2,7 @@
 title: "主線劇情 - 第四章 - 4-6 守衛哨塔"
 permalink: /Main Story/Chapter 4_6/
 excerpt: "第四章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第四章_6. 4-6 守衛哨塔"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 4_6.md"
 toc: false

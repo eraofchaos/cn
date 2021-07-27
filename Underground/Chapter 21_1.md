@@ -2,7 +2,7 @@
 title: "地下城 - 第廿一章 - 21-1 戰火饋贈"
 permalink: /Underground/Chapter 21_1/
 excerpt: "第廿一章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第廿一章_1. 21-1 戰火饋贈"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 21_1.md"
 toc: false

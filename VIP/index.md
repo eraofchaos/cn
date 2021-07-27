@@ -2,7 +2,7 @@
 title: "特權系統"
 permalink: /VIP/
 excerpt: "魔法门之英雄无敌：战争纪元  特權系統 - 一大波永久福利來襲！"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 3 | ![至尊月卡 3](/images/x/chatPri_vipLv3.png) | [至尊月卡 3](/cn/VIP/至尊月卡 3/) | **500** | **1x** [V3 尊榮禮包](/cn/Items/con_1299/) |
   | 4 | ![至尊月卡 4](/images/x/chatPri_vipLv4.png) | [至尊月卡 4](/cn/VIP/至尊月卡 4/) | **1000** | **1x** [V4 尊榮禮包](/cn/Items/con_1300/) |
   | 5 | ![至尊月卡 5](/images/x/chatPri_vipLv5.png) | [至尊月卡 5](/cn/VIP/至尊月卡 5/) | **2000** | **1x** [V5 尊榮禮包](/cn/Items/con_1301/) |
-  | 6 | ![至尊月卡 6](/images/x/chatPri_vipLv6.png) | [至尊月卡 6](/cn/VIP/至尊月卡 6/) | **3000** | **1x** [V6 尊榮禮包](/cn/Items/con_1302/) |
+  | 6 | ![至尊月卡 6](/images/x/chatPri_vipLv6.png) | [至尊月卡 6](/cn/VIP/至尊月卡 6/) | **3000** | **1x** [V6 尊榮禮包](/cn/Items/con_2225/) |
   | 7 | ![至尊月卡 7](/images/x/chatPri_vipLv7.png) | [至尊月卡 7](/cn/VIP/至尊月卡 7/) | **5000** | **1x** [V7 尊榮禮包](/cn/Items/con_1303/) |
   | 8 | ![至尊月卡 8](/images/x/chatPri_vipLv8.png) | [至尊月卡 8](/cn/VIP/至尊月卡 8/) | **7000** | **1x** [V8 尊榮禮包](/cn/Items/con_1304/) |
   | 9 | ![至尊月卡 9](/images/x/chatPri_vipLv9.png) | [至尊月卡 9](/cn/VIP/至尊月卡 9/) | **10000** | **1x** [V9 尊榮禮包](/cn/Items/con_1305/) |

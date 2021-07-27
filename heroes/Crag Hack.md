@@ -4,7 +4,7 @@ permalink: /heroes/Crag Hack/
 excerpt: "魔法门之英雄无敌：战争纪元 肯洛．哈格. 肯洛．哈格. 肯洛．哈格在恩洛斯只是一個無名英雄，直至他背井離鄉來到艾拉西亞，他才發現只有在這片混亂的大陸上他的才華才能得以施展。"
 heroID: 60602
 QR: hero_60602
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Crag Hack"
 toc: true

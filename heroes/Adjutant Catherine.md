@@ -2,7 +2,7 @@
 title: "副官 凱瑟琳"
 permalink: /heroes/Adjutant Catherine/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 凱瑟琳"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Adjutant Catherine.md"
 QR: adhero_60102

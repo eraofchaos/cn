@@ -3,7 +3,7 @@ title: "木精靈"
 permalink: /units/Wood Elf/
 excerpt: "魔法门之英雄无敌：战争纪元 木精靈. 木精靈 兵團. 森林遊俠. 魔法门之英雄无敌：战争纪元 來自艾里的精靈箭術卓越，他們守護著森林，侵略者們都將遭到他們狂風驟雨般的打擊。"
 unitID: 203
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "木精靈"
 toc: true

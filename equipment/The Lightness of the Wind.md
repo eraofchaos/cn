@@ -2,7 +2,7 @@
 title: "風之輕盈"
 permalink: /equipment/The Lightness of the Wind/
 excerpt: "魔法门之英雄无敌：战争纪元 風之輕盈. 風之輕盈"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "The Lightness of the Wind.md"
 toc: false

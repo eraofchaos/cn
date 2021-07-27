@@ -3,7 +3,7 @@ title: "瑞格納海盜"
 permalink: /units/Regnan Pirates/
 excerpt: "魔法门之英雄无敌：战争纪元 瑞格納海盜. 瑞格納海盜 兵團. 黑帆大副. 魔法门之英雄无敌：战争纪元 殘忍而又狡滑，追尋財寶的航道上，遇到他們的船隻，都已沉屍海底。"
 unitID: 9901
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "瑞格納海盜"
 toc: true

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-4 預見之夢"
 permalink: /Main Story/Chapter 24_4/
 excerpt: "第廿四章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_4. 24-4 預見之夢"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 24_4.md"
 toc: false

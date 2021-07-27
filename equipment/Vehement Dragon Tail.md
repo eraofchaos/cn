@@ -2,7 +2,7 @@
 title: "暴烈龍尾"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "魔法门之英雄无敌：战争纪元 暴烈龍尾. 暴烈龍尾"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Vehement Dragon Tail.md"
 toc: false

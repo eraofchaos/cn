@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十四章 - 14-2 擊殺斥候"
 permalink: /Main Story/Chapter 14_2/
 excerpt: "第十四章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十四章_2. 14-2 擊殺斥候"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 14_2.md"
 toc: false

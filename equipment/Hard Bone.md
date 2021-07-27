@@ -2,7 +2,7 @@
 title: "堅硬骨質"
 permalink: /equipment/Hard Bone/
 excerpt: "魔法门之英雄无敌：战争纪元 堅硬骨質. 堅硬骨質"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Hard Bone.md"
 toc: false

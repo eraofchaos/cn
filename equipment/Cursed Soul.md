@@ -2,7 +2,7 @@
 title: "鬼魅魔瞳"
 permalink: /equipment/Cursed Soul/
 excerpt: "魔法门之英雄无敌：战争纪元 鬼魅魔瞳. 鬼魅魔瞳"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Cursed Soul.md"
 toc: false

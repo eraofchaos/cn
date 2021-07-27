@@ -2,7 +2,7 @@
 title: "神力護肩"
 permalink: /equipment/Mighty Vambrace/
 excerpt: "魔法门之英雄无敌：战争纪元 神力護肩. 神力護肩"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Mighty Vambrace.md"
 toc: false

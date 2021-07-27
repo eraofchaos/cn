@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十四章 - 14-14 馴獸要塞"
 permalink: /Main Story/Chapter 14_14/
 excerpt: "第十四章 - 14. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十四章_14. 14-14 馴獸要塞"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 14_14.md"
 toc: false

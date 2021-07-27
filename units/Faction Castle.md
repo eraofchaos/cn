@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Faction Castle"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![帝國槍兵](/images/u/ti_jibing.jpg) | [帝國槍兵](/cn/units/Pikeman/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  皇家禁衛  |
   | 2 | ![帝國弩手](/images/u/ti_nushou.jpg) | [帝國弩手](/cn/units/Marksman/) | 射手 | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  神射手  |
-  | 3 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  聖域獅鷲  |
+  | 3 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  聖域獅鷲  |
   | 4 | ![皇家十字軍](/images/u/ti_shizijun.jpg) | [皇家十字軍](/cn/units/Swordsman/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  大十字軍  |
   | 5 | ![僧侶](/images/u/ti_senglv.jpg) | [僧侶](/cn/units/Monk/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  祭司  |
   | 6 | ![皇家騎士](/images/u/ti_qishi.jpg) | [皇家騎士](/cn/units/Cavalier/) | 突擊 | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  冠軍騎士  |

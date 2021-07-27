@@ -2,7 +2,7 @@
 title: "頭像 - 邀請高手"
 permalink: /Avatars/Social Butterfly/
 excerpt: "魔法门之英雄无敌：战争纪元  邀請高手"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Social Butterfly.md"
 toc: false

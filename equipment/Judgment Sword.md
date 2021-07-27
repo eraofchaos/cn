@@ -2,7 +2,7 @@
 title: "審判大劍"
 permalink: /equipment/Judgment Sword/
 excerpt: "魔法门之英雄无敌：战争纪元 審判大劍. 審判大劍"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Judgment Sword.md"
 toc: false

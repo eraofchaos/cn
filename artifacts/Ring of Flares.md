@@ -2,7 +2,7 @@
 title: "寶物 - 大法師寶典 - 閃光指環"
 permalink: /artifacts/Ring of Flares/
 excerpt: "魔法门之英雄无敌：战争纪元  大法師寶典 - 閃光指環. 表面有魔力流動的指環，大法師寶典的組件之一"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Ring of Flares.md"
 toc: false

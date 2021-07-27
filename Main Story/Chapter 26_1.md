@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿六章 - 26-1 國家意識"
 permalink: /Main Story/Chapter 26_1/
 excerpt: "第廿六章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿六章_1. 26-1 國家意識"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 26_1.md"
 toc: false

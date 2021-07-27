@@ -2,7 +2,7 @@
 title: "主線劇情 - 第八章 - 8-9 精靈小築"
 permalink: /Main Story/Chapter 8_9/
 excerpt: "第八章 - 9. 魔法门之英雄无敌：战争纪元  主線劇情 - 第八章_9. 8-9 精靈小築"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 8_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第四章 - 4-12 利爪塔樓"
 permalink: /Main Story/Chapter 4_12/
 excerpt: "第四章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第四章_12. 4-12 利爪塔樓"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 4_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "水晶法冠"
 permalink: /equipment/Crystal Crown of Magic/
 excerpt: "魔法门之英雄无敌：战争纪元 水晶法冠. 水晶法冠"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Crystal Crown of Magic.md"
 toc: false

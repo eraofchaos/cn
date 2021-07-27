@@ -3,7 +3,7 @@ title: "枯木衛士"
 permalink: /units/Dendroid Guard/
 excerpt: "魔法门之英雄无敌：战争纪元 枯木衛士. 枯木衛士 兵團. 遠古守衛. 魔法门之英雄无敌：战争纪元 枯木衛士是森林的化身，雖然笨拙但是極為堅實，他們善於使用藤蔓纏繞敵人，直至對手死亡。"
 unitID: 205
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "枯木衛士"
 toc: true

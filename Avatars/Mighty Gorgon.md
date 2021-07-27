@@ -2,7 +2,7 @@
 title: "頭像 - 死亡凝視"
 permalink: /Avatars/Mighty Gorgon/
 excerpt: "魔法门之英雄无敌：战争纪元  死亡凝視"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Mighty Gorgon.md"
 toc: false

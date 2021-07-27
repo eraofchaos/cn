@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 - 22-14 善用智慧"
 permalink: /Main Story/Chapter 22_14/
 excerpt: "第廿二章 - 14. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章_14. 22-14 善用智慧"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 22_14.md"
 toc: false

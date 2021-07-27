@@ -2,7 +2,7 @@
 title: "頭像 - 戰術教官"
 permalink: /Avatars/Tactical Commander/
 excerpt: "魔法门之英雄无敌：战争纪元  戰術教官"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Tactical Commander.md"
 toc: false

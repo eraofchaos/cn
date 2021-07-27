@@ -3,7 +3,7 @@ title: "雙足飛龍"
 permalink: /units/Wyvern/
 excerpt: "魔法门之英雄无敌：战争纪元 雙足飛龍. 雙足飛龍 兵團. 瘟疫毒龍. 魔法门之英雄无敌：战争纪元 給沼澤帶來腐化的扭曲毒物，相傳沼澤中的劇毒瘴氣都自它口中噴吐而出。"
 unitID: 806
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "雙足飛龍"
 toc: true

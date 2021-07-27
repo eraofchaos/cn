@@ -2,7 +2,7 @@
 title: "岩石尖爪"
 permalink: /equipment/Sharp Rock Claws/
 excerpt: "魔法门之英雄无敌：战争纪元 岩石尖爪. 岩石尖爪"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Sharp Rock Claws.md"
 toc: false

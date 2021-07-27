@@ -2,7 +2,7 @@
 title: "生命守護"
 permalink: /equipment/Life Guardian/
 excerpt: "魔法门之英雄无敌：战争纪元 生命守護. 生命守護"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Life Guardian.md"
 toc: false

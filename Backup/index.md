@@ -2,7 +2,7 @@
 title: "戰場後援"
 permalink: /Backup/
 excerpt: "魔法门之英雄无敌：战争纪元  戰場後援 - 法師們能在戰場中撕開一個時空傳送門，將至多 3 名後援兵團直接送抵戰場，並且釋放強力的法陣效果，讓敵人感受真正的顫抖。"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "index.md"
 toc: false

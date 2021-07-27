@@ -2,7 +2,7 @@
 title: "頭像 - 狂歡節"
 permalink: /Avatars/Carnival/
 excerpt: "魔法门之英雄无敌：战争纪元  狂歡節"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Carnival.md"
 toc: false

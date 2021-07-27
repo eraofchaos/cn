@@ -2,7 +2,7 @@
 title: "鋒刃馬刀"
 permalink: /equipment/Razor-bladed Sabre/
 excerpt: "魔法门之英雄无敌：战争纪元 鋒刃馬刀. 鋒刃馬刀"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Razor-bladed Sabre.md"
 toc: false

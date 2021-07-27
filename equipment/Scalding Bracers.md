@@ -2,7 +2,7 @@
 title: "灼燒護腕"
 permalink: /equipment/Scalding Bracers/
 excerpt: "魔法门之英雄无敌：战争纪元 灼燒護腕. 灼燒護腕"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Scalding Bracers.md"
 toc: false

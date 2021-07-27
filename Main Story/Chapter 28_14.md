@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿八章 - 28-14 庇護聖所"
 permalink: /Main Story/Chapter 28_14/
 excerpt: "第廿八章 - 14. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿八章_14. 28-14 庇護聖所"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 28_14.md"
 toc: false

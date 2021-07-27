@@ -2,7 +2,7 @@
 title: "專屬 - 無畏狂攻 (Regnan Pirates)"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "魔法门之英雄无敌：战争纪元 無畏狂攻. 無畏狂攻. 魔法门之英雄无敌：战争纪元 專屬 無畏狂攻. 瑞格納海盜 專屬."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Regnan Pirates 無畏狂攻.md"
 toc: false

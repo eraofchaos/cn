@@ -2,7 +2,7 @@
 title: "夢魘肩甲"
 permalink: /equipment/Nightmare Pauldrons/
 excerpt: "魔法门之英雄无敌：战争纪元 夢魘肩甲. 夢魘肩甲"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Nightmare Pauldrons.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "助陣"
 permalink: /ArsenalSupport.html
 excerpt: "魔法门之英雄无敌：战争纪元  助陣. <span style="color: #8a5c1d;font-size:18px">戰場作戰空間十分有限，為了進一步提升兵團的作戰能力，戰爭學院研製出一種助陣魔法，這種魔法可以將助陣兵團的能力轉化至作戰兵團身上，從而提高作戰兵團的作戰能力。</span><br/><span style="color: #ffffff">　</span><br/>"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "ArsenalSupport.md"
 toc: false

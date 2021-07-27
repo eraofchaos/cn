@@ -2,7 +2,7 @@
 title: "聖徽 - 色慾"
 permalink: /Emblem/Lust/
 excerpt: "魔法门之英雄无敌：战争纪元 色慾. 色慾. 魔法门之英雄无敌：战争纪元 聖徽 色慾. 魔法门之英雄无敌：战争纪元 混亂 色慾"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Lust.md"
 toc: false

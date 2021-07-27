@@ -2,7 +2,7 @@
 title: "副官 羅蘭德"
 permalink: /heroes/Adjutant Roland/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 羅蘭德"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Adjutant Roland.md"
 QR: adhero_60103

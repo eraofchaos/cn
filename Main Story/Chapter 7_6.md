@@ -2,7 +2,7 @@
 title: "主線劇情 - 第七章 - 7-6 家園破碎"
 permalink: /Main Story/Chapter 7_6/
 excerpt: "第七章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第七章_6. 7-6 家園破碎"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 7_6.md"
 toc: false

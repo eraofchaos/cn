@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀衝鋒 (Harpy)"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀衝鋒. 榮耀衝鋒. 魔法门之英雄无敌：战争纪元 專屬 榮耀衝鋒. 鷹身女妖 專屬."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Harpy 榮耀衝鋒.md"
 toc: false

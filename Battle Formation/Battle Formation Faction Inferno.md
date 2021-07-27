@@ -2,7 +2,7 @@
 title: "戰陣 地獄軍團"
 permalink: /Battle Formation/Battle Formation Faction Inferno
 excerpt: "戰陣 地獄軍團"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "BattleFormationFactionInferno"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Demoniac -  Heroes"
 permalink: /heroes/Profession Demoniac/
 excerpt: "魔法门之英雄无敌：战争纪元 Profession Demoniac. Profession Demoniac. List of Profession  in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Profession Demoniac"
 toc: false

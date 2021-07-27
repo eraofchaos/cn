@@ -2,7 +2,7 @@
 title: "劇毒藤刺"
 permalink: /equipment/Toxic Thorn/
 excerpt: "魔法门之英雄无敌：战争纪元 劇毒藤刺. 劇毒藤刺"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Toxic Thorn.md"
 toc: false

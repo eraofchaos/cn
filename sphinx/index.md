@@ -2,7 +2,7 @@
 title: "Era of Chaos - 斯芬克斯 questions and correct answers"
 permalink: /sphinx/
 excerpt: "魔法门之英雄无敌：战争纪元 斯芬克斯. 斯芬克斯 questions. List of ALL 斯芬克斯 questions with correct answers in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "index.md"
 toc: false

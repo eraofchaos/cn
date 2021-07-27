@@ -2,7 +2,7 @@
 title: "聖徽 - 嫉妒"
 permalink: /Emblem/Jealousy/
 excerpt: "魔法门之英雄无敌：战争纪元 嫉妒. 嫉妒. 魔法门之英雄无敌：战争纪元 聖徽 嫉妒. 魔法门之英雄无敌：战争纪元 混亂 嫉妒"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Jealousy.md"
 toc: false

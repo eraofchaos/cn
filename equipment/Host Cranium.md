@@ -2,7 +2,7 @@
 title: "寄主之顱"
 permalink: /equipment/Host Cranium/
 excerpt: "魔法门之英雄无敌：战争纪元 寄主之顱. 寄主之顱"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Host Cranium.md"
 toc: false

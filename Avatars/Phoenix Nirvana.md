@@ -2,7 +2,7 @@
 title: "頭像 - 鳳凰之神"
 permalink: /Avatars/Phoenix Nirvana/
 excerpt: "魔法门之英雄无敌：战争纪元  鳳凰之神"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Phoenix Nirvana.md"
 toc: false

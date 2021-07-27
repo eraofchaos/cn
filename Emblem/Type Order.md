@@ -2,7 +2,7 @@
 title: "聖徽 - 守序"
 permalink: /Emblem/Type Order/
 excerpt: "魔法门之英雄无敌：战争纪元 聖徽. 聖徽. 魔法门之英雄无敌：战争纪元 聖徽 守序. 魔法门之英雄无敌：战争纪元 守序"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "type守序.md"
 toc: false

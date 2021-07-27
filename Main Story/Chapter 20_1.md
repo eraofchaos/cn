@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二十章 - 20-1 不死之身"
 permalink: /Main Story/Chapter 20_1/
 excerpt: "第二十章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二十章_1. 20-1 不死之身"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 20_1.md"
 toc: false

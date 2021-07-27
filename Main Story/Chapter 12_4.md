@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十二章 - 12-4 忍無可忍"
 permalink: /Main Story/Chapter 12_4/
 excerpt: "第十二章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十二章_4. 12-4 忍無可忍"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 12_4.md"
 toc: false

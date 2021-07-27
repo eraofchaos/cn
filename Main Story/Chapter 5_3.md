@@ -2,7 +2,7 @@
 title: "主線劇情 - 第五章 - 5-3 同盟軍隊"
 permalink: /Main Story/Chapter 5_3/
 excerpt: "第五章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第五章_3. 5-3 同盟軍隊"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 5_3.md"
 toc: false

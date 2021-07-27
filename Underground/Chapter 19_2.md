@@ -2,7 +2,7 @@
 title: "地下城 - 第十九章 - 19-2 靈魂崇拜"
 permalink: /Underground/Chapter 19_2/
 excerpt: "第十九章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第十九章_2. 19-2 靈魂崇拜"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 19_2.md"
 toc: false

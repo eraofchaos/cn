@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀衝鋒 (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀衝鋒. 榮耀衝鋒. 魔法门之英雄无敌：战争纪元 專屬 榮耀衝鋒. 地獄三頭犬 專屬."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Hell Hound 榮耀衝鋒.md"
 toc: false

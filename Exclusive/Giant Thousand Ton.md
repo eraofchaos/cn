@@ -2,7 +2,7 @@
 title: "專屬 - 萬鈞 (Giant)"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "魔法门之英雄无敌：战争纪元 萬鈞. 萬鈞. 魔法门之英雄无敌：战争纪元 專屬 萬鈞. 泰坦巨人 專屬."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Giant 萬鈞.md"
 toc: false

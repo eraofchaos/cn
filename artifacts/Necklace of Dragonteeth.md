@@ -2,7 +2,7 @@
 title: "寶物 - 龍王神力 - 龍牙項鍊"
 permalink: /artifacts/Necklace of Dragonteeth/
 excerpt: "魔法门之英雄无敌：战争纪元  龍王神力 - 龍牙項鍊. 有巨龍尖牙黏接的龍牙，龍王神力的元件之一"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Necklace of Dragonteeth.md"
 toc: false

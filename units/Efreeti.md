@@ -3,7 +3,7 @@ title: "烈火精靈"
 permalink: /units/Efreeti/
 excerpt: "魔法门之英雄无敌：战争纪元 烈火精靈. 烈火精靈 兵團. 烈火暴徒. 魔法门之英雄无敌：战争纪元 烈火精靈自地獄的烈焰中誕生，它們可以從空中釋放火焰魔法攻擊敵人。"
 unitID: 506
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "烈火精靈"
 toc: true

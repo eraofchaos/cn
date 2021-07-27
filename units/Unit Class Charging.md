@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Charging -  Units"
 permalink: /units/Unit Class Charging/
 excerpt: "魔法门之英雄无敌：战争纪元 Unit Class Charging. Unit Class Charging. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Unit Class Charging"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![地獄三頭犬](/images/u/ti_santouquan.jpg) | [地獄三頭犬](/cn/units/Hell Hound/) | 突擊 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 3 | ![訓鯊師](/images/u/ti_xunshashi.jpg) | [訓鯊師](/cn/units/Shark Trainer/) | 突擊 | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  馭鯊狂徒  |
   | 4 | ![鷹身女妖](/images/u/ti_yingshenren.jpg) | [鷹身女妖](/cn/units/Harpy/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  哈耳庇厄  |
-  | 5 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  聖域獅鷲  |
+  | 5 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  聖域獅鷲  |
   | 6 | ![皇家騎士](/images/u/ti_qishi.jpg) | [皇家騎士](/cn/units/Cavalier/) | 突擊 | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  冠軍騎士  |
   | 7 | ![蠍尾獅](/images/u/ti_shixie.jpg) | [蠍尾獅](/cn/units/Manticore/) | 突擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  曼提柯爾  |
   | 8 | ![魔法仙靈](/images/u/ti_mofaxianling.jpg) | [魔法仙靈](/cn/units/Sprite/) | 突擊 | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  精靈魔法使  |

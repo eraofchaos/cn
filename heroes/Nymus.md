@@ -4,7 +4,7 @@ permalink: /heroes/Nymus/
 excerpt: "魔法门之英雄无敌：战争纪元 納美斯. 納美斯. 納美斯是一只有著豐富戰鬥經驗的魅魔，因此被魔王委任為地獄領主們的訓練教官，當她再次回到戰場上時將給敵人帶來更深入骨髓的恐懼。"
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Nymus"
 toc: true

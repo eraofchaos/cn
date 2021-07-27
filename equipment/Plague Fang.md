@@ -2,7 +2,7 @@
 title: "瘟疫獠牙"
 permalink: /equipment/Plague Fang/
 excerpt: "魔法门之英雄无敌：战争纪元 瘟疫獠牙. 瘟疫獠牙"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Plague Fang.md"
 toc: false

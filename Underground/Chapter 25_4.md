@@ -2,7 +2,7 @@
 title: "地下城 - 第廿五章 - 25-4 生命恢復"
 permalink: /Underground/Chapter 25_4/
 excerpt: "第廿五章 - 4. 魔法门之英雄无敌：战争纪元  地下城 - 第廿五章_4. 25-4 生命恢復"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 25_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "精鋼護盾"
 permalink: /equipment/Steel Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 精鋼護盾. 精鋼護盾"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Steel Shield.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十五章 - 15-5 和平生息"
 permalink: /Main Story/Chapter 15_5/
 excerpt: "第十五章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十五章_5. 15-5 和平生息"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 15_5.md"
 toc: false

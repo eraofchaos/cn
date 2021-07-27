@@ -2,7 +2,7 @@
 title: "聖徽 - 世界網道的核心"
 permalink: /Emblem/Core of the Global Network/
 excerpt: "魔法门之英雄无敌：战争纪元 世界網道的核心. 世界網道的核心. 魔法门之英雄无敌：战争纪元 聖徽 世界網道的核心. 魔法门之英雄无敌：战争纪元 中立 世界網道的核心"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Core of the Global Network.md"
 toc: false

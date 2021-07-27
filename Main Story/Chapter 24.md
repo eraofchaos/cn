@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 仙女龍"
 permalink: /Main Story/Chapter 24/
 excerpt: "第廿四章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章. 仙女龍"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 24.md"
 toc: false

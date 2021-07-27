@@ -2,7 +2,7 @@
 title: "海浪護肩"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "魔法门之英雄无敌：战争纪元 海浪護肩. 海浪護肩"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Seafaring Pauldrons.md"
 toc: false

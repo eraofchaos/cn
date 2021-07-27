@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "index.md"
 toc: false
@@ -72,7 +72,7 @@ classes: wide
   | 50 | ![瑞格納海盜](/images/u/ti_haidao.jpg) | [瑞格納海盜](/cn/units/Regnan Pirates/) | 攻擊 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  黑帆大副  |
   | 51 | ![白虎](/images/u/ti_baihu.jpg) | [白虎](/cn/units/White Tiger/) | 突擊 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 52 | ![皇家十字軍](/images/u/ti_shizijun.jpg) | [皇家十字軍](/cn/units/Swordsman/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  大十字軍  |
-  | 53 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  聖域獅鷲  |
+  | 53 | ![皇家獅鷲](/images/u/ti_shijiu.jpg) | [皇家獅鷲](/cn/units/Griffin/) | 突擊 | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  聖域獅鷲  |
   | 54 | ![皇家騎士](/images/u/ti_qishi.jpg) | [皇家騎士](/cn/units/Cavalier/) | 突擊 | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  冠軍騎士  |
   | 55 | ![石像鬼](/images/u/ti_shixianggui.jpg) | [石像鬼](/cn/units/Stone Gargoyle/) | 攻擊 | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 56 | ![石元素](/images/u/ti_shiyuansu.jpg) | [石元素](/cn/units/Stone Elemental/) | 防禦 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |

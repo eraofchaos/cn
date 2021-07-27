@@ -2,7 +2,7 @@
 title: "專屬 - 幽芒 (Naga)"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "魔法门之英雄无敌：战争纪元 幽芒. 幽芒. 魔法门之英雄无敌：战争纪元 專屬 幽芒. 娜迦蛇妖 專屬."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Naga 幽芒.md"
 toc: false

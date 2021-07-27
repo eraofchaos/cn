@@ -2,7 +2,7 @@
 title: "燃燒肩甲"
 permalink: /equipment/Pauldrons of Flame/
 excerpt: "魔法门之英雄无敌：战争纪元 燃燒肩甲. 燃燒肩甲"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Pauldrons of Flame.md"
 toc: false

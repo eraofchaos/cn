@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-5 傷亡慘重"
 permalink: /Main Story/Chapter 6_5/
 excerpt: "第六章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_5. 6-5 傷亡慘重"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 6_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "聖徽 - 聖殿秩序"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "魔法门之英雄无敌：战争纪元 聖殿秩序. 聖殿秩序. 魔法门之英雄无敌：战争纪元 聖徽 聖殿秩序. 魔法门之英雄无敌：战争纪元 守序 聖殿秩序"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Sanctuary of Kosmos.md"
 toc: false

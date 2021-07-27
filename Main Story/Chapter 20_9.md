@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二十章 - 20-9 法術交流"
 permalink: /Main Story/Chapter 20_9/
 excerpt: "第二十章 - 9. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二十章_9. 20-9 法術交流"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 20_9.md"
 toc: false

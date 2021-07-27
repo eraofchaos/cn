@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀守護 (Dendroid Guard)"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀守護. 榮耀守護. 魔法门之英雄无敌：战争纪元 專屬 榮耀守護. 枯木衛士 專屬."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Dendroid Guard 榮耀守護.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "魔法门之英雄无敌：战争纪元 索姆拉. 索姆拉. 索姆拉被關入一個妖瓶裡超過一千年了。他非常感謝把他放出來的那個人，布拉卡達高地不朽的統治者，格溫．馬格奴斯，發誓將永遠為他效命。"
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Solmyr"
 toc: true

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十九章 - 19-7 魔法網道"
 permalink: /Main Story/Chapter 19_7/
 excerpt: "第十九章 - 7. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十九章_7. 19-7 魔法網道"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 19_7.md"
 toc: false

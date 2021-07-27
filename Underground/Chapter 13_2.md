@@ -2,7 +2,7 @@
 title: "地下城 - 第十三章 - 13-2 邪惡力量"
 permalink: /Underground/Chapter 13_2/
 excerpt: "第十三章 - 2. 魔法门之英雄无敌：战争纪元  地下城 - 第十三章_2. 13-2 邪惡力量"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 13_2.md"
 toc: false

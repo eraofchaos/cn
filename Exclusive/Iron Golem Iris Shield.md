@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀守護 (Iron Golem)"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀守護. 榮耀守護. 魔法门之英雄无敌：战争纪元 專屬 榮耀守護. 鐵人 專屬."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Iron Golem 榮耀守護.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "七彩羽翼"
 permalink: /equipment/Rainbow Feathered Wings/
 excerpt: "魔法门之英雄无敌：战争纪元 七彩羽翼. 七彩羽翼"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Rainbow Feathered Wings.md"
 toc: false

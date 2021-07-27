@@ -2,7 +2,7 @@
 title: "副官 維斯特"
 permalink: /heroes/Adjutant Wystan/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 維斯特"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Adjutant Wystan.md"
 QR: adhero_61504

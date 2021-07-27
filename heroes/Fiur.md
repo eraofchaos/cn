@@ -4,7 +4,7 @@ permalink: /heroes/Fiur/
 excerpt: "魔法门之英雄无敌：战争纪元 費拉. 費拉. 對元素來說費拉還很年輕，儘管他的能力還未經考驗，但沒人能像他一樣勇猛頑強。大家相信他終將會成為元素城最強大的英雄之一。"
 heroID: 60704
 QR: hero_60704
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Fiur"
 toc: true

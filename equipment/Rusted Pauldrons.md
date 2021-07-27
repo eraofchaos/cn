@@ -2,7 +2,7 @@
 title: "死者護肩"
 permalink: /equipment/Rusted Pauldrons/
 excerpt: "魔法门之英雄无敌：战争纪元 死者護肩. 死者護肩"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Rusted Pauldrons.md"
 toc: false

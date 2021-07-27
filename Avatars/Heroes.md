@@ -2,7 +2,7 @@
 title: "頭像 - 英雄王"
 permalink: /Avatars/Heroes/
 excerpt: "魔法门之英雄无敌：战争纪元  英雄王"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Heroes.md"
 toc: false

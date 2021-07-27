@@ -2,7 +2,7 @@
 title: "領主之盾. 巔峰天賦 - 領主之盾"
 permalink: /PeakTalent/Shield of Lords/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 領主之盾. 巔峰天賦 領主之盾. 領主之盾"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Shield of Lords.md"
 toc: false

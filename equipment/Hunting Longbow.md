@@ -2,7 +2,7 @@
 title: "獵殺長弓"
 permalink: /equipment/Hunting Longbow/
 excerpt: "魔法门之英雄无敌：战争纪元 獵殺長弓. 獵殺長弓"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Hunting Longbow.md"
 toc: false

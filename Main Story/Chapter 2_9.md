@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 - 2-9 尋星先知"
 permalink: /Main Story/Chapter 2_9/
 excerpt: "第二章 - 9. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章_9. 2-9 尋星先知"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 2_9.md"
 toc: false

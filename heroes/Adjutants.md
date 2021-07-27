@@ -2,7 +2,7 @@
 title: "魔法门之英雄无敌：战争纪元  副官"
 permalink: /heroes/Adjutants/
 excerpt: "魔法门之英雄无敌：战争纪元  副官"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Adjutants.md"
 toc: false

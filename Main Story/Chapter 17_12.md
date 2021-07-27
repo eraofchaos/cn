@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十七章 - 17-12 邪惡天性"
 permalink: /Main Story/Chapter 17_12/
 excerpt: "第十七章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十七章_12. 17-12 邪惡天性"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 17_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第八章 - 8-5 遭遇救援"
 permalink: /Main Story/Chapter 8_5/
 excerpt: "第八章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第八章_5. 8-5 遭遇救援"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 8_5.md"
 toc: false

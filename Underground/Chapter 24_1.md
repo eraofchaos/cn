@@ -2,7 +2,7 @@
 title: "地下城 - 第廿四章 - 24-1 冰封大地"
 permalink: /Underground/Chapter 24_1/
 excerpt: "第廿四章 - 1. 魔法门之英雄无敌：战争纪元  地下城 - 第廿四章_1. 24-1 冰封大地"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 24_1.md"
 toc: false

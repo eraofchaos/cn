@@ -4,7 +4,7 @@ permalink: /heroes/Zydar/
 excerpt: "魔法门之英雄无敌：战争纪元 澤達. 澤達. 在沒有擔任將領之前，澤達鑽研魔法，努力成為最偉大的魔法師，但他比任何他的魔族同類更可信賴。"
 heroID: 60901
 QR: hero_60901
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Zydar"
 toc: true

@@ -2,7 +2,7 @@
 title: "爆裂岩漿"
 permalink: /equipment/Exploding Magma/
 excerpt: "魔法门之英雄无敌：战争纪元 爆裂岩漿. 爆裂岩漿"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Exploding Magma.md"
 toc: false

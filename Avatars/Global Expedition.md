@@ -2,7 +2,7 @@
 title: "頭像 - 征戰四海"
 permalink: /Avatars/Global Expedition/
 excerpt: "魔法门之英雄无敌：战争纪元  征戰四海"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Global Expedition.md"
 toc: false

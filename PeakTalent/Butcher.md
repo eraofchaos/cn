@@ -2,7 +2,7 @@
 title: "屠夫. 巔峰天賦 - 屠夫"
 permalink: /PeakTalent/Butcher/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 屠夫. 巔峰天賦 屠夫. 屠夫"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Butcher.md"
 toc: false

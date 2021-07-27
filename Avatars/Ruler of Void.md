@@ -2,7 +2,7 @@
 title: "頭像 - 虛空主宰"
 permalink: /Avatars/Ruler of Void/
 excerpt: "魔法门之英雄无敌：战争纪元  虛空主宰"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Ruler of Void.md"
 toc: false

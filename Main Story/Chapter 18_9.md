@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十八章 - 18-9 精靈戒指"
 permalink: /Main Story/Chapter 18_9/
 excerpt: "第十八章 - 9. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十八章_9. 18-9 精靈戒指"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 18_9.md"
 toc: false

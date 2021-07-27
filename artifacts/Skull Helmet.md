@@ -2,7 +2,7 @@
 title: "寶物 - 詛咒鎧甲 - 骷髏冠"
 permalink: /artifacts/Skull Helmet/
 excerpt: "魔法门之英雄无敌：战争纪元  詛咒鎧甲 - 骷髏冠. 死亡世界稀有的頭盔，詛咒鎧甲的元件之一"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Skull Helmet.md"
 toc: false

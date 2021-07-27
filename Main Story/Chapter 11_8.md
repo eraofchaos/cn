@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十一章 - 11-8 速戰速決"
 permalink: /Main Story/Chapter 11_8/
 excerpt: "第十一章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十一章_8. 11-8 速戰速決"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Chapter 11_8.md"
 toc: false

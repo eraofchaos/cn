@@ -2,7 +2,7 @@
 title: "Era of Chaos - 專屬 Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "魔法门之英雄无敌：战争纪元 專屬 Rampart. 專屬 Rampart. List of 專屬 Rampart in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Exclusive Rampart"
 toc: false

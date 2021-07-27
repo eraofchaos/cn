@@ -2,7 +2,7 @@
 title: "魅惑肩甲"
 permalink: /equipment/Charming Pauldrons/
 excerpt: "魔法门之英雄无敌：战争纪元 魅惑肩甲. 魅惑肩甲"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Charming Pauldrons.md"
 toc: false

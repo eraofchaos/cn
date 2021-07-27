@@ -2,7 +2,7 @@
 title: "頭像 - 據點陣營"
 permalink: /Avatars/Stronghold/
 excerpt: "魔法门之英雄无敌：战争纪元  據點陣營"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "Stronghold.md"
 toc: false

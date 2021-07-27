@@ -3,7 +3,7 @@ title: "冰元素"
 permalink: /units/Ice Elemental/
 excerpt: "魔法门之英雄无敌：战争纪元 冰元素. 冰元素 兵團. 寂滅雪靈. 魔法门之英雄无敌：战争纪元 水元素在遇冷後擬態而成的生命體，每當遇到威脅時會釋放出積壓在體內的低溫將全部敵人凍結。"
 unitID: 903
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "冰元素"
 toc: true
