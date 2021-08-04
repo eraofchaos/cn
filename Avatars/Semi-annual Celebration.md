@@ -2,7 +2,7 @@
 title: "頭像 - 半年慶典專屬"
 permalink: /Avatars/Semi-annual Celebration/
 excerpt: "魔法门之英雄无敌：战争纪元  半年慶典專屬"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Semi-annual Celebration.md"
 toc: false

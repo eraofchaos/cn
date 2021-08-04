@@ -2,7 +2,7 @@
 title: "寶物 - 寒冰之劍 - 牛頭人戰斧"
 permalink: /artifacts/Minotaur's Battleaxe/
 excerpt: "魔法门之英雄无敌：战争纪元  寒冰之劍 - 牛頭人戰斧. 牛頭人世代傳承的戰斧，寒冰之劍的元件之一"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Minotaur's Battleaxe.md"
 toc: false

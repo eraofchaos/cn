@@ -2,7 +2,7 @@
 title: "深淵烈焰"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "魔法门之英雄无敌：战争纪元 深淵烈焰. 深淵烈焰"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Fire in the Abyss.md"
 toc: false

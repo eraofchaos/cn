@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十二章 - 12-11 攜手抗敵"
 permalink: /Main Story/Chapter 12_11/
 excerpt: "第十二章 - 11. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十二章_11. 12-11 攜手抗敵"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 12_11.md"
 toc: false

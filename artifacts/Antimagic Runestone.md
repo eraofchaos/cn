@@ -2,7 +2,7 @@
 title: "寶物 - 抗魔符文"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "魔法门之英雄无敌：战争纪元  抗魔符文. 抗魔符文 數件抗魔道具組合而成的抗魔符文，可以抵擋法術的傷害"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Antimagic Runestone.md"
 toc: false

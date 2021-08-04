@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十七章 帝國解放"
 permalink: /Main Story/Chapter 17/
 excerpt: "第十七章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十七章. 帝國解放"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 17.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "地下城 - 第廿七章 - 27-3 東方先知"
 permalink: /Underground/Chapter 27_3/
 excerpt: "第廿七章 - 3. 魔法门之英雄无敌：战争纪元  地下城 - 第廿七章_3. 27-3 東方先知"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 27_3.md"
 toc: false

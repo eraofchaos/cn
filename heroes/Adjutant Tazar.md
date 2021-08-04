@@ -2,7 +2,7 @@
 title: "副官 泰澤"
 permalink: /heroes/Adjutant Tazar/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 泰澤"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Adjutant Tazar.md"
 QR: adhero_61501

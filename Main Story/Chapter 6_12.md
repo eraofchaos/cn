@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-12 攻陷首都"
 permalink: /Main Story/Chapter 6_12/
 excerpt: "第六章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_12. 6-12 攻陷首都"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 6_12.md"
 toc: false

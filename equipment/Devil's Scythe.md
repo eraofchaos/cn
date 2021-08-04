@@ -2,7 +2,7 @@
 title: "死神鐮刀"
 permalink: /equipment/Devil's Scythe/
 excerpt: "魔法门之英雄无敌：战争纪元 死神鐮刀. 死神鐮刀"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Devil's Scythe.md"
 toc: false

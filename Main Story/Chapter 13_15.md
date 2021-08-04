@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十三章 - 13-15 生死決戰"
 permalink: /Main Story/Chapter 13_15/
 excerpt: "第十三章 - 15. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十三章_15. 13-15 生死決戰"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 13_15.md"
 toc: false

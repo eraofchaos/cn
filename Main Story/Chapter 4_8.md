@@ -2,7 +2,7 @@
 title: "主線劇情 - 第四章 - 4-8 鐵喙塔樓"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "第四章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第四章_8. 4-8 鐵喙塔樓"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 4_8.md"
 toc: false

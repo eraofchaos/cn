@@ -3,7 +3,7 @@ title: "鮫人守衛"
 permalink: /units/Regnan Serpent/
 excerpt: "魔法门之英雄无敌：战争纪元 鮫人守衛. 鮫人守衛 兵團. 潮汐庭衛. 魔法门之英雄无敌：战争纪元 海王座前最忠誠的侍從，利用巨浪的力量捍衛海王的尊嚴。"
 unitID: 9904
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "鮫人守衛"
 toc: true

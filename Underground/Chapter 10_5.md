@@ -2,7 +2,7 @@
 title: "地下城 - 第十章 - 10-5 國王復活"
 permalink: /Underground/Chapter 10_5/
 excerpt: "第十章 - 5. 魔法门之英雄无敌：战争纪元  地下城 - 第十章_5. 10-5 國王復活"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 10_5.md"
 toc: false

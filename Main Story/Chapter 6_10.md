@@ -2,7 +2,7 @@
 title: "主線劇情 - 第六章 - 6-10 絕望之夜"
 permalink: /Main Story/Chapter 6_10/
 excerpt: "第六章 - 10. 魔法门之英雄无敌：战争纪元  主線劇情 - 第六章_10. 6-10 絕望之夜"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 6_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Heroes"
 permalink: /heroes/Faction Cove/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Cove. Faction Cove. List of Faction  in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Faction Cove"
 toc: false

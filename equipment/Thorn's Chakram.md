@@ -2,7 +2,7 @@
 title: "薔薇之刺"
 permalink: /equipment/Thorn's Chakram/
 excerpt: "魔法门之英雄无敌：战争纪元 薔薇之刺. 薔薇之刺"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Thorn's Chakram.md"
 toc: false

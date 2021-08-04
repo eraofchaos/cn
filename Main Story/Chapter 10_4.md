@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十章 - 10-4 前往墳墓"
 permalink: /Main Story/Chapter 10_4/
 excerpt: "第十章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十章_4. 10-4 前往墳墓"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 10_4.md"
 toc: false

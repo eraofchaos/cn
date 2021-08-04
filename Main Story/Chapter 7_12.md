@@ -2,7 +2,7 @@
 title: "主線劇情 - 第七章 - 7-12 戰略撤退"
 permalink: /Main Story/Chapter 7_12/
 excerpt: "第七章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第七章_12. 7-12 戰略撤退"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 7_12.md"
 toc: false

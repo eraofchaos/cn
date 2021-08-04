@@ -2,7 +2,7 @@
 title: "風暴之錘"
 permalink: /equipment/Strong Hammer/
 excerpt: "魔法门之英雄无敌：战争纪元 風暴之錘. 風暴之錘"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Strong Hammer.md"
 toc: false

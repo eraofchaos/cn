@@ -2,7 +2,7 @@
 title: "往生冥炎"
 permalink: /equipment/Salvation Inferno Fire/
 excerpt: "魔法门之英雄无敌：战争纪元 往生冥炎. 往生冥炎"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Salvation Inferno Fire.md"
 toc: false

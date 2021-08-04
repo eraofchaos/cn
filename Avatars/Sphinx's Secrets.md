@@ -2,7 +2,7 @@
 title: "頭像 - 斯芬克斯之謎"
 permalink: /Avatars/Sphinx's Secrets/
 excerpt: "魔法门之英雄无敌：战争纪元  斯芬克斯之謎"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Sphinx's Secrets.md"
 toc: false

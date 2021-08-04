@@ -2,7 +2,7 @@
 title: "衝鋒號角. 巔峰天賦 - 衝鋒號角"
 permalink: /PeakTalent/Battle Horn/
 excerpt: "魔法门之英雄无敌：战争纪元 巔峰天賦 衝鋒號角. 巔峰天賦 衝鋒號角. 衝鋒號角"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Battle Horn.md"
 toc: false

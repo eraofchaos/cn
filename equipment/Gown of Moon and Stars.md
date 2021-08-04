@@ -2,7 +2,7 @@
 title: "星月長裙"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "魔法门之英雄无敌：战争纪元 星月長裙. 星月長裙"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Gown of Moon and Stars.md"
 toc: false

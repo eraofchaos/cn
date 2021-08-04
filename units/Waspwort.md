@@ -3,7 +3,7 @@ title: "毒蜂草"
 permalink: /units/Waspwort/
 excerpt: "魔法门之英雄无敌：战争纪元 毒蜂草. 毒蜂草 兵團. null. 魔法门之英雄无敌：战争纪元 誕生於劇毒沼澤中的奇異植物，刺耳的蜂鳴聲是所有生物的夢魘。"
 unitID: 808
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "毒蜂草"
 toc: true

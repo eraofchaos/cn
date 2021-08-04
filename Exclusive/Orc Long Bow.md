@@ -2,7 +2,7 @@
 title: "專屬 - 獵影逐風 (Orc)"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "魔法门之英雄无敌：战争纪元 獵影逐風. 獵影逐風. 魔法门之英雄无敌：战争纪元 專屬 獵影逐風. 半獸人 專屬."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Orc 獵影逐風.md"
 toc: false

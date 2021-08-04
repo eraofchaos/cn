@@ -2,7 +2,7 @@
 title: "主操控杆"
 permalink: /equipment/Main Control Stick/
 excerpt: "魔法门之英雄无敌：战争纪元 主操控杆. 主操控杆"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Main Control Stick.md"
 toc: false

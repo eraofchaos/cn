@@ -2,7 +2,7 @@
 title: "深藍魚鰭"
 permalink: /equipment/Mazarine Fin/
 excerpt: "魔法门之英雄无敌：战争纪元 深藍魚鰭. 深藍魚鰭"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Mazarine Fin.md"
 toc: false

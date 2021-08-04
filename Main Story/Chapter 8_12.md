@@ -2,7 +2,7 @@
 title: "主線劇情 - 第八章 - 8-12 昔日戰友"
 permalink: /Main Story/Chapter 8_12/
 excerpt: "第八章 - 12. 魔法门之英雄无敌：战争纪元  主線劇情 - 第八章_12. 8-12 昔日戰友"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 8_12.md"
 toc: false

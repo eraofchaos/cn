@@ -2,7 +2,7 @@
 title: "奪命利爪"
 permalink: /equipment/Claw Killer/
 excerpt: "魔法门之英雄无敌：战争纪元 奪命利爪. 奪命利爪"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Claw Killer.md"
 toc: false

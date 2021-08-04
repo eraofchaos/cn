@@ -3,7 +3,7 @@ title: "德魯伊"
 permalink: /units/Druid/
 excerpt: "魔法门之英雄无敌：战争纪元 德魯伊. 德魯伊 兵團. 大德魯伊. 魔法门之英雄无敌：战争纪元 她們是傳承了自然意志的精靈，能夠呼叫自然的力量守護為森林而戰的人。"
 unitID: 208
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "德魯伊"
 toc: true

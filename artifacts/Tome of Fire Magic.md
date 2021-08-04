@@ -2,7 +2,7 @@
 title: "寶物 - 魔法師之帽 - 火系魔法書"
 permalink: /artifacts/Tome of Fire Magic/
 excerpt: "魔法门之英雄无敌：战争纪元  魔法師之帽 - 火系魔法書. 這是一本記載著高階火系魔法的魔法書，曾是露娜的床邊讀物，魔法師之帽的元件之一"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Tome of Fire Magic.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十四章 - 14-4 意外暴露"
 permalink: /Main Story/Chapter 14_4/
 excerpt: "第十四章 - 4. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十四章_4. 14-4 意外暴露"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 14_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "靜謐之冠"
 permalink: /equipment/Crown of Tranquility/
 excerpt: "魔法门之英雄无敌：战争纪元 靜謐之冠. 靜謐之冠"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Crown of Tranquility.md"
 toc: false

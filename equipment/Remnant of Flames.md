@@ -2,7 +2,7 @@
 title: "烈火殘遺"
 permalink: /equipment/Remnant of Flames/
 excerpt: "魔法门之英雄无敌：战争纪元 烈火殘遺. 烈火殘遺"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Remnant of Flames.md"
 toc: false

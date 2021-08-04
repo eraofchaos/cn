@@ -2,7 +2,7 @@
 title: "主線劇情 - 第八章 - 8-11 精靈射手"
 permalink: /Main Story/Chapter 8_11/
 excerpt: "第八章 - 11. 魔法门之英雄无敌：战争纪元  主線劇情 - 第八章_11. 8-11 精靈射手"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 8_11.md"
 toc: false

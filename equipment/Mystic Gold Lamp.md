@@ -2,7 +2,7 @@
 title: "神祕金燈"
 permalink: /equipment/Mystic Gold Lamp/
 excerpt: "魔法门之英雄无敌：战争纪元 神祕金燈. 神祕金燈"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Mystic Gold Lamp.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "烈焰長尾"
 permalink: /equipment/Tail of Flame/
 excerpt: "魔法门之英雄无敌：战争纪元 烈焰長尾. 烈焰長尾"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Tail of Flame.md"
 toc: false

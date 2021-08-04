@@ -2,7 +2,7 @@
 title: "死亡面甲"
 permalink: /equipment/Visor of the Dead/
 excerpt: "魔法门之英雄无敌：战争纪元 死亡面甲. 死亡面甲"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Visor of the Dead.md"
 toc: false

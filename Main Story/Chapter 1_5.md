@@ -2,7 +2,7 @@
 title: "主線劇情 - 第一章 - 1-5 遭遇危機"
 permalink: /Main Story/Chapter 1_5/
 excerpt: "第一章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第一章_5. 1-5 遭遇危機"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 1_5.md"
 toc: false

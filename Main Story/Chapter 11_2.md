@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十一章 - 11-2 獨立抗戰"
 permalink: /Main Story/Chapter 11_2/
 excerpt: "第十一章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十一章_2. 11-2 獨立抗戰"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 11_2.md"
 toc: false

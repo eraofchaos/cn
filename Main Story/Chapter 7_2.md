@@ -2,7 +2,7 @@
 title: "主線劇情 - 第七章 - 7-2 陰謀浮現"
 permalink: /Main Story/Chapter 7_2/
 excerpt: "第七章 - 2. 魔法门之英雄无敌：战争纪元  主線劇情 - 第七章_2. 7-2 陰謀浮現"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 7_2.md"
 toc: false

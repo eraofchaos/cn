@@ -2,7 +2,7 @@
 title: "鋼鐵護肩"
 permalink: /equipment/Iron Pauldrons/
 excerpt: "魔法门之英雄无敌：战争纪元 鋼鐵護肩. 鋼鐵護肩"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Iron Pauldrons.md"
 toc: false

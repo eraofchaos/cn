@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of 兵團"
 permalink: /units/
 excerpt: "魔法门之英雄无敌：战争纪元 兵團. List of ALL 兵團 in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "index.md"
 toc: false
@@ -66,7 +66,7 @@ classes: wide
   | 44 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/units/Venom Spawn/) | 防禦 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 45 | ![烈火精靈](/images/u/ti_liehuojingling.jpg) | [烈火精靈](/cn/units/Efreeti/) | 魔法 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  烈火暴徒  |
   | 46 | ![牛頭怪](/images/u/ti_niutouguai.jpg) | [牛頭怪](/cn/units/Minotaur/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  米諾陶洛斯  |
-  | 47 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  死亡咆哮者  |
+  | 47 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  死亡咆哮者  |
   | 48 | ![獨眼巨人](/images/u/ti_duyanjuren.jpg) | [獨眼巨人](/cn/units/Cyclops/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  攻城巨獸  |
   | 49 | ![獨角獸](/images/u/ti_dujiaoshou.jpg) | [獨角獸](/cn/units/Unicorn/) | 突擊 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  林中聖獸  |
   | 50 | ![瑞格納海盜](/images/u/ti_haidao.jpg) | [瑞格納海盜](/cn/units/Regnan Pirates/) | 攻擊 | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  黑帆大副  |

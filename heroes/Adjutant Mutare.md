@@ -2,7 +2,7 @@
 title: "副官 摩莉爾"
 permalink: /heroes/Adjutant Mutare/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 摩莉爾"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Adjutant Mutare.md"
 QR: adhero_61301

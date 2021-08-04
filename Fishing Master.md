@@ -2,7 +2,7 @@
 title: "捕魚達人"
 permalink: /Fishing Master/
 excerpt: "魔法门之英雄无敌：战争纪元  捕魚達人 - []　　親愛的領主，捕魚次數達成獎勵已送到，請記得查收哦~[]"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "index.md"
 toc: false

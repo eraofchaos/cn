@@ -2,7 +2,7 @@
 title: "頭像 - Unknown Avatar Frame 1056"
 permalink: /Avatars/Nian Monster/
 excerpt: "魔法门之英雄无敌：战争纪元  Unknown Avatar Frame 1056"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Nian Monster.md"
 toc: false

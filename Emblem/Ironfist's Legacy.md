@@ -2,7 +2,7 @@
 title: "聖徽 - 鐵拳遺產"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "魔法门之英雄无敌：战争纪元 鐵拳遺產. 鐵拳遺產. 魔法门之英雄无敌：战争纪元 聖徽 鐵拳遺產. 魔法门之英雄无敌：战争纪元 守序 鐵拳遺產"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Ironfist's Legacy.md"
 toc: false

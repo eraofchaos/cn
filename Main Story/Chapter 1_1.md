@@ -2,7 +2,7 @@
 title: "主線劇情 - 第一章 - 1-1 海島守衛"
 permalink: /Main Story/Chapter 1_1/
 excerpt: "第一章 - 1. 魔法门之英雄无敌：战争纪元  主線劇情 - 第一章_1. 1-1 海島守衛"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 1_1.md"
 toc: false

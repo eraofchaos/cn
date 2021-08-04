@@ -2,7 +2,7 @@
 title: "詭譎之刃"
 permalink: /equipment/Everflowing Blade/
 excerpt: "魔法门之英雄无敌：战争纪元 詭譎之刃. 詭譎之刃"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Everflowing Blade.md"
 toc: false

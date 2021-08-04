@@ -4,7 +4,7 @@ permalink: /heroes/Roland/
 excerpt: "魔法门之英雄无敌：战争纪元 羅蘭德. 羅蘭德. 羅蘭德國王被一群勇士從克里根族救出，以將軍的身份加入了艾拉西亞的軍隊，並與凱瑟琳結緣，共同抵抗外來的敵人。"
 heroID: 60103
 QR: hero_60103
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Roland"
 toc: true

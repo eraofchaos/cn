@@ -2,7 +2,7 @@
 title: "地下城 - 第廿八章 - 28-5  半路打劫"
 permalink: /Underground/Chapter 28_5/
 excerpt: "第廿八章 - 5. 魔法门之英雄无敌：战争纪元  地下城 - 第廿八章_5. 28-5  半路打劫"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 28_5.md"
 toc: false

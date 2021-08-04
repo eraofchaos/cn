@@ -3,7 +3,7 @@ title: "食人魔"
 permalink: /units/Ogre/
 excerpt: "魔法门之英雄无敌：战争纪元 食人魔. 食人魔 兵團. 食人魔酋長. 魔法门之英雄无敌：战争纪元 手持木棒的食人魔看起來更像猩猩，但是十分危險，他們甚至可以在戰鬥中釋放嗜血法術。"
 unitID: 404
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "食人魔"
 toc: true

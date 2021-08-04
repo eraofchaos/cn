@@ -2,7 +2,7 @@
 title: "寶物 - 活體鷹眼 - 火眼人"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "魔法门之英雄无敌：战争纪元  活體鷹眼 - 火眼人. 一個眼部始終冒著火焰的冒險者雕像，活體鷹眼的元件之一"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Stoic Watchman.md"
 toc: false

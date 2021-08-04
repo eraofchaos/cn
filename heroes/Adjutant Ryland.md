@@ -2,7 +2,7 @@
 title: "副官 羅伊德"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 羅伊德"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Adjutant Ryland.md"
 QR: adhero_60303

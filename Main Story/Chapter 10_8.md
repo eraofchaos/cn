@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十章 - 10-8 靈魂禁錮"
 permalink: /Main Story/Chapter 10_8/
 excerpt: "第十章 - 8. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十章_8. 10-8 靈魂禁錮"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 10_8.md"
 toc: false

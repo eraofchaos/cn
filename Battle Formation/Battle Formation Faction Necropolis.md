@@ -2,7 +2,7 @@
 title: "戰陣 亡靈墓園"
 permalink: /Battle Formation/Battle Formation Faction Necropolis
 excerpt: "戰陣 亡靈墓園"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "BattleFormationFactionNecropolis"
 toc: false

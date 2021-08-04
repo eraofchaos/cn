@@ -2,7 +2,7 @@
 title: "專屬 - 榮耀守護 (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "魔法门之英雄无敌：战争纪元 榮耀守護. 榮耀守護. 魔法门之英雄无敌：战争纪元 專屬 榮耀守護. 食人魔 專屬."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Ogre 榮耀守護.md"
 toc: false

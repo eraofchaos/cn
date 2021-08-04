@@ -2,7 +2,7 @@
 title: "頭像 - 惡沼之災"
 permalink: /Avatars/The Moor/
 excerpt: "魔法门之英雄无敌：战争纪元  惡沼之災"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "The Moor.md"
 toc: false

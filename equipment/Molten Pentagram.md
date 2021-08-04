@@ -2,7 +2,7 @@
 title: "死神印記"
 permalink: /equipment/Molten Pentagram/
 excerpt: "魔法门之英雄无敌：战争纪元 死神印記. 死神印記"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Molten Pentagram.md"
 toc: false

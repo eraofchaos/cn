@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Wizard -  Heroes"
 permalink: /heroes/Profession Wizard/
 excerpt: "魔法门之英雄无敌：战争纪元 Profession Wizard. Profession Wizard. List of Profession  in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Profession Wizard"
 toc: false

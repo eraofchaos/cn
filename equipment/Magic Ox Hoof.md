@@ -2,7 +2,7 @@
 title: "魔牛之蹄"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "魔法门之英雄无敌：战争纪元 魔牛之蹄. 魔牛之蹄"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Magic Ox Hoof.md"
 toc: false

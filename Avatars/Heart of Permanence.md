@@ -2,7 +2,7 @@
 title: "頭像 - 永恆之心"
 permalink: /Avatars/Heart of Permanence/
 excerpt: "魔法门之英雄无敌：战争纪元  永恆之心"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Heart of Permanence.md"
 toc: false

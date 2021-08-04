@@ -3,7 +3,7 @@ title: "地獄領主"
 permalink: /units/Pit Fiend/
 excerpt: "魔法门之英雄无敌：战争纪元 地獄領主. 地獄領主 兵團. 歡愉女王. 魔法门之英雄无敌：战争纪元 地獄領主身經百戰，她統率著數以萬計的地獄軍團浴血奮戰，她酷愛戰爭和鮮血。"
 unitID: 505
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "地獄領主"
 toc: true

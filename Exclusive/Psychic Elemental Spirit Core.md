@@ -2,7 +2,7 @@
 title: "專屬 - 寂滅星環 (Psychic Elemental)"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "魔法门之英雄无敌：战争纪元 寂滅星環. 寂滅星環. 魔法门之英雄无敌：战争纪元 專屬 寂滅星環. 精神元素 專屬."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Psychic Elemental 寂滅星環.md"
 toc: false

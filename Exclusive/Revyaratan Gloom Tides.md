@@ -2,7 +2,7 @@
 title: "專屬 - 暗潮 (Revyaratan)"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "魔法门之英雄无敌：战争纪元 暗潮. 暗潮. 魔法门之英雄无敌：战争纪元 專屬 暗潮. 勒維亞坦 專屬."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Revyaratan 暗潮.md"
 toc: false

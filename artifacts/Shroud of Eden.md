@@ -2,7 +2,7 @@
 title: "寶物 - 金蘋果 - 裹屍布"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "魔法门之英雄无敌：战争纪元  金蘋果 - 裹屍布. 傳說中聖子的裹屍布，真偽已無從考證"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Shroud of Eden.md"
 toc: false

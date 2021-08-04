@@ -2,7 +2,7 @@
 title: "誓約之劍"
 permalink: /equipment/Empire's Sword/
 excerpt: "魔法门之英雄无敌：战争纪元 誓約之劍. 誓約之劍"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Empire's Sword.md"
 toc: false

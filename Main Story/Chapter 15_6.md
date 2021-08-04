@@ -2,7 +2,7 @@
 title: "主線劇情 - 第十五章 - 15-6 惡魔祭壇"
 permalink: /Main Story/Chapter 15_6/
 excerpt: "第十五章 - 6. 魔法门之英雄无敌：战争纪元  主線劇情 - 第十五章_6. 15-6 惡魔祭壇"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 15_6.md"
 toc: false

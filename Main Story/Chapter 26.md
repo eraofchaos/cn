@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿六章 乘勝追擊"
 permalink: /Main Story/Chapter 26/
 excerpt: "第廿六章. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿六章. 乘勝追擊"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 26.md"
 toc: false

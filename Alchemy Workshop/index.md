@@ -2,7 +2,7 @@
 title: "鍊金工坊"
 permalink: /Alchemy Workshop/
 excerpt: "鍊金工坊.鍊金工坊是最神奇的地方之一，它凝聚了各個種族的智慧，不斷地創造著令人驚奇的事物。"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "index.md"
 toc: false

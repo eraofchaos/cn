@@ -4,7 +4,7 @@ permalink: /heroes/Human Sandro/
 excerpt: "魔法门之英雄无敌：战争纪元 人類山德魯. 人類山德魯. 人類山德魯，從恩洛斯渡海而來的年輕法師，師從布拉卡達的大法師艾里克。富有野心但隱藏的很深，無論是他的老師還是平日中接觸他的人都從不瞭解他的真實想法。"
 heroID: 60503
 QR: hero_60503
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Human Sandro"
 toc: true

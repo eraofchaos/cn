@@ -2,7 +2,7 @@
 title: "主線劇情 - 第二章 - 2-5 邊境之門"
 permalink: /Main Story/Chapter 2_5/
 excerpt: "第二章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第二章_5. 2-5 邊境之門"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 2_5.md"
 toc: false

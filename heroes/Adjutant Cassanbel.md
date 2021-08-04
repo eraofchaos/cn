@@ -2,7 +2,7 @@
 title: "副官 卡珊貝爾"
 permalink: /heroes/Adjutant Cassanbel/
 excerpt: "魔法门之英雄无敌：战争纪元  副官 卡珊貝爾"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Adjutant Cassanbel.md"
 QR: adhero_61701

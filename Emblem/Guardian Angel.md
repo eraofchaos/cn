@@ -2,7 +2,7 @@
 title: "聖徽 - 守護靈"
 permalink: /Emblem/Guardian Angel/
 excerpt: "魔法门之英雄无敌：战争纪元 守護靈. 守護靈. 魔法门之英雄无敌：战争纪元 聖徽 守護靈. 魔法门之英雄无敌：战争纪元 善良 守護靈"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Guardian Angel.md"
 toc: false

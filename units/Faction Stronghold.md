@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Stronghold -  Units"
 permalink: /units/Faction Stronghold/
 excerpt: "魔法门之英雄无敌：战争纪元 Faction Stronghold. Faction Stronghold. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Faction Stronghold"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | ![食人魔](/images/u/ti_shirenmo.jpg) | [食人魔](/cn/units/Ogre/) | 防禦 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  食人魔酋長  |
   | 3 | ![獨眼巨人](/images/u/ti_duyanjuren.jpg) | [獨眼巨人](/cn/units/Cyclops/) | 射手 | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  攻城巨獸  |
   | 4 | ![比蒙](/images/u/ti_bimeng.jpg) | [比蒙](/cn/units/Behemoth/) | 防禦 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  上古巨獸  |
-  | 5 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  死亡咆哮者  |
+  | 5 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/units/Berserker/) | 攻擊 | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  死亡咆哮者  |
   | 6 | ![索爾巨人](/images/u/ti_suoerjuren.jpg) | [索爾巨人](/cn/units/Troll/) | 射手 | - | 指揮官 | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 7 | ![地精戰士](/images/u/ti_shourenzhanshi.jpg) | [地精戰士](/cn/units/Goblin/) | 攻擊 | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  地精屠戮者  |
   | 8 | ![惡狼騎士](/images/u/ti_langqibing.jpg) | [惡狼騎士](/cn/units/Wolf Rider/) | 突擊 | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  狂狼鬥士  |

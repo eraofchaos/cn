@@ -2,7 +2,7 @@
 title: "主線劇情 - 第四章 - 4-5 計劃暴露"
 permalink: /Main Story/Chapter 4_5/
 excerpt: "第四章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第四章_5. 4-5 計劃暴露"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 4_5.md"
 toc: false

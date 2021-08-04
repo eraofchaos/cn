@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿二章 - 22-3 勇往直前"
 permalink: /Main Story/Chapter 22_3/
 excerpt: "第廿二章 - 3. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿二章_3. 22-3 勇往直前"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 22_3.md"
 toc: false

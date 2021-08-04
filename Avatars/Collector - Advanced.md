@@ -2,7 +2,7 @@
 title: "頭像 - 收藏家·中級"
 permalink: /Avatars/Collector - Advanced/
 excerpt: "魔法门之英雄无敌：战争纪元  收藏家·中級"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Collector - Advanced.md"
 toc: false

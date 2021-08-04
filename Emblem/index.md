@@ -2,7 +2,7 @@
 title: "聖徽"
 permalink: /Emblem/
 excerpt: "魔法门之英雄无敌：战争纪元 聖徽. 聖徽. 裝備聖徽能大幅提高兵團戰力，而且各種陣營和品質的聖徽有著多種組合的可能，聖徽套裝更會帶來可觀的額外屬性。"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "頭像 - 諸事如意"
 permalink: /Avatars/All Goes as You Wish/
 excerpt: "魔法门之英雄无敌：战争纪元  諸事如意"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "All Goes as You Wish.md"
 toc: false

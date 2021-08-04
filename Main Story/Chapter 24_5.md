@@ -2,7 +2,7 @@
 title: "主線劇情 - 第廿四章 - 24-5 巢穴之謎"
 permalink: /Main Story/Chapter 24_5/
 excerpt: "第廿四章 - 5. 魔法门之英雄无敌：战争纪元  主線劇情 - 第廿四章_5. 24-5 巢穴之謎"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Chapter 24_5.md"
 toc: false

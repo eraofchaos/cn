@@ -2,7 +2,7 @@
 title: "迷夢髮帶"
 permalink: /equipment/Dreamer's Stones/
 excerpt: "魔法门之英雄无敌：战争纪元 迷夢髮帶. 迷夢髮帶"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Dreamer's Stones.md"
 toc: false
